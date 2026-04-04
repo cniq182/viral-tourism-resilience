@@ -1,0 +1,26 @@
+CLASSICS:
+Česko (avg: 32121417.5)
+Oberbayern (avg: 29865602.0)
+Vlaams Gewest (avg: 15808737.0)
+Freiburg (avg: 12431736.5)
+München, Kreisfreie Stadt (avg: 10631738.0)
+Stuttgart (avg: 9823491.0)
+Niederbayern (avg: 8544085.0)
+
+SPIKES:
+Freising (growth: 0.17862025449574087)
+Karlsruhe, Stadtkreis (growth: 0.16490574729419707)
+München, Landkreis (growth: 0.1552967491370288)
+Heidelberg, Stadtkreis (growth: 0.13633751327376942)
+Severozapaden (growth: 0.08704677303878121)
+Erding (growth: 0.07565194660680796)
+Plovdiv (growth: 0.06976261891137286)
+
+DECLINES:
+Københavns omegn (growth: -0.09633625541990166)
+Straubing-Bogen (growth: -0.0914955823184453)
+Olomoucký kraj (growth: -0.07480392296135478)
+Plzeňský kraj (growth: -0.06236497706846812)
+Prov. Liège (growth: -0.05692374566927306)
+Main-Tauber-Kreis (growth: -0.054901960784313725)
+Střední Morava (growth: -0.04708001143052082)

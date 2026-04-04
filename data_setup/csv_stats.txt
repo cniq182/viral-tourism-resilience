@@ -1,0 +1,57 @@
+Total: 1709
+With capital: 236 (13.8%)
+With attraction: 202 (11.8%)
+Both NULL: 1451 (84.9%)
+
+Rows with some data: 258
+                                                     region                                                                         capital_city              attraction_1
+                                                    Belgium                                                                             Brussels               Grand Place
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest                                                                     City of Brussels                  Brussels
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest                                                                     City of Brussels                  Brussels
+                                              Vlaams Gewest                                                                     City of Brussels            Walloon Region
+                                            Prov. Antwerpen                                                 and largest city of Antwerp Province Flemish Region of Belgium
+                                             Arr. Antwerpen                                                 and largest city of Antwerp Province Flemish Region of Belgium
+                                              Arr. Mechelen                                                                             Mechelen Flemish Region of Belgium
+                                              Arr. Turnhout                                       the administrative district with the same name                   Flemish
+                                              Arr. Tongeren                                                       the Civitas Tungrorum district                   Belgian
+                                               Arr. Hasselt         and largest city of the province of Limburg in the Flemish Region of Belgium Flemish Region of Belgium
+                                               Arr. Maaseik                                                                              Maaseik                   Belgian
+                                      Prov. Oost-Vlaanderen                                                                                Ghent                     Dutch
+                                           Arr. Dendermonde                                                                          Dendermonde                   Flemish
+                                                 Arr. Eeklo                                                                                Eeklo                   Flemish
+                                                  Arr. Gent                                                                                 NULL                Gent Cakaj
+                                            Arr. Oudenaarde                                                                           Oudenaarde                   Flemish
+                                          Arr. Sint-Niklaas                                                                                 NULL                   Flemish
+                                       Prov. Vlaams-Brabant                                                                               Leuven                   Belgian
+                                       Arr. Halle-Vilvoorde                                                                               Region                      NULL
+                                                Arr. Leuven and largest city of the province of Flemish Brabant in the Flemish Region of Belgium Flemish Region of Belgium
+                                      Prov. West-Vlaanderen                                                                               Bruges            Flemish Region
+                                                Arr. Brugge                                    and largest city of the province of West Flanders Flemish Region of Belgium
+                                             Arr. Diksmuide                                                                            Diksmuide                   Flemish
+                                                 Arr. Ieper                                                                                Ieper                     Dutch
+                                              Arr. Kortrijk                                                                             Kortrijk                   Flemish
+                                              Arr. Oostende                                                                             Oostende                      NULL
+                                             Arr. Roeselare                                                                            Roeselare                   Flemish
+                                                 Arr. Tielt                                                                                Tielt             West Flanders
+                                                Arr. Veurne                                                                               Veurne                   Belgian
+                                            Région wallonne                                                                                Namur            Walloon Region
+                                       Prov. Brabant wallon                                                                                Wavre           Walloon Brabant
+                                              Arr. Nivelles                                                                             Nivelles                   Belgian
+                                                  Arr. Mons                                                                                 Mons                      NULL
+                                      Arr. Tournai-Mouscron                                                                     Tournai-Mouscron                   Belgian
+                                           Arr. La Louvière                                                                          La Louvière               La Louvière
+                                                   Arr. Ath                                                                                  Ath                      NULL
+                                             Arr. Charleroi                                                                            Charleroi                    Sambre
+                                              Arr. Soignies                                                                             Soignies                      NULL
+                                                 Arr. Thuin                                                                                Thuin                      NULL
+                                                Prov. Liège                                                               the eponymous province                   Belgian
+                                                   Arr. Huy                                                                                  Huy                   Walloon
+                                                 Arr. Liège                                                               the eponymous province                   Belgian
+                                               Arr. Waremme                                                                              Waremme                      NULL
+                      Arr. Verviers — communes francophones                                                                                 NULL              East Cantons
+            Bezirk Verviers — Deutschsprachige Gemeinschaft                                                                                Eupen                     Eupen
+                                      Prov. Luxembourg (BE)                                                                      Luxembourg City Grand Duchy of Luxembourg
+                                                 Arr. Arlon                                               the province of Luxembourg in Lorraine                Arelerland
+                                              Arr. Bastogne                                                                             Bastogne                  Ardennes
+                                     Arr. Marche-en-Famenne                                                                    Marche-en-Famenne                   Belgian
+                                                Arr. Virton                                                                         the district                     Gaume

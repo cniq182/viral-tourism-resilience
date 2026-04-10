@@ -31,12 +31,19 @@ WIKI_EXT_PATH = BASE_DIR / "01_Region_Extraction_Wiki_API" / "wiki_api_ext.csv"
 
 # Output files based on MODE
 OUTPUT_DIR = BASE_DIR / "02_Data_Collection"
-WIKI_CSV = OUTPUT_DIR / f"wiki_option{DATA_MODE}.csv"
-TRENDS_CSV = OUTPUT_DIR / f"trends_option{DATA_MODE}.csv"
-REDDIT_CSV = OUTPUT_DIR / f"reddit_option{DATA_MODE}.csv"
 import glob
 
 TIMESTAMP = time.strftime("%Y%m%d_%H%M%S")
+
+def get_newest_file(prefix):
+    files = list(OUTPUT_DIR.glob(f"{prefix}_*.csv"))
+    files.extend(OUTPUT_DIR.glob(f"{prefix}.csv")) # fallback to old names
+    return max(files, key=os.path.getmtime) if files else None
+
+WIKI_CSV = OUTPUT_DIR / f"wiki_option{DATA_MODE}_{TIMESTAMP}.csv"
+TRENDS_CSV = OUTPUT_DIR / f"trends_option{DATA_MODE}_{TIMESTAMP}.csv"
+REDDIT_CSV = OUTPUT_DIR / f"reddit_option{DATA_MODE}_{TIMESTAMP}.csv"
+
 MERGED_CSV = OUTPUT_DIR / f"merged_panel_option{DATA_MODE}_{TIMESTAMP}.csv"
 MERGED_ALL_CSV = OUTPUT_DIR / f"merged_panel_all_{TIMESTAMP}.csv"
 
@@ -112,8 +119,9 @@ def get_wikipedia_pageviews(article: str, year: int, month: int) -> int:
 
 # Load existing wiki data
 wiki_done = set()
-if WIKI_CSV.exists():
-    wiki_df_existing = pd.read_csv(WIKI_CSV)
+latest_wiki = get_newest_file(f"wiki_option{DATA_MODE}")
+if latest_wiki:
+    wiki_df_existing = pd.read_csv(latest_wiki)
     wiki_done = set(wiki_df_existing["region"].unique())
 else:
     wiki_df_existing = pd.DataFrame()
@@ -175,8 +183,9 @@ def get_google_trends(keywords: list, start_date="2020-01-01", end_date="2025-12
         return None
 
 trends_done = set()
-if TRENDS_CSV.exists():
-    trends_df_existing = pd.read_csv(TRENDS_CSV)
+latest_trends = get_newest_file(f"trends_option{DATA_MODE}")
+if latest_trends:
+    trends_df_existing = pd.read_csv(latest_trends)
     trends_done = set(trends_df_existing["region"].unique())
 else:
     trends_df_existing = pd.DataFrame()
@@ -225,6 +234,18 @@ else:
 
 # %% [markdown]
 # ## 3. Reddit Mentions (Arctic Shift)
+#
+# > **⚠️ IMPORTANT NOTICE: Reddit API Issue**
+# > The Arctic Shift API currently has **full-text keyword searches disabled** due to resource constraints. 
+# > If you pass a keyword to the `search` endpoint, it will reject it with a `400 Bad Request` 
+# > (`Unknown query parameter: 'q'`). 
+# >
+# > **Because of this, the Reddit column values will be 0/null.**
+# > 
+# > **Options moving forward:**
+# > 1. **Check for API updates:** Watch the photon-reddit/arctic-shift GitHub repository to see if `q` search gets restored.
+# > 2. **Skip Reddit entirely:** Just rely on Wikipedia & Google Trends (which are far more robust for this anyway).
+# > 3. **Alternative source:** Run an alternative social API scraper if discourse text is strictly needed.
 
 # %%
 ARCTIC_BASE = "https://arctic-shift.photon-reddit.com/api/posts/search"
@@ -247,8 +268,9 @@ def arctic_monthly_count(keyword: str, year: int, month: int):
     return None
 
 reddit_done = set()
-if REDDIT_CSV.exists():
-    reddit_df_existing = pd.read_csv(REDDIT_CSV)
+latest_reddit = get_newest_file(f"reddit_option{DATA_MODE}")
+if latest_reddit:
+    reddit_df_existing = pd.read_csv(latest_reddit)
     reddit_done = set(reddit_df_existing["region"].unique())
 else:
     reddit_df_existing = pd.DataFrame()
@@ -311,7 +333,7 @@ if geo_row_idx is not None:
     clean.columns = raw.iloc[geo_row_idx].tolist()
     clean = clean.rename(columns={clean.columns[0]: "region"})
     
-    time_cols = [c for c in clean.columns if str(c).strip()[:4].isdigit() and len(str(c).strip()) in (4, 7)]
+    time_cols = [c for c in clean.columns if str(c).strip()[:4].isdigit()]
     dim_cols = ["region"]
     
     df_long = clean.melt(id_vars=dim_cols, value_vars=time_cols, var_name="year_month", value_name="nights_spent")
@@ -328,9 +350,15 @@ else:
 df_long = df_long[df_long["region"].isin(all_regions)]
 
 # Load collected data
-wiki = pd.read_csv(WIKI_CSV) if WIKI_CSV.exists() else pd.DataFrame(columns=["region", "year_month", "wiki_views"])
-trends = pd.read_csv(TRENDS_CSV) if TRENDS_CSV.exists() else pd.DataFrame(columns=["region", "year_month", "trends_index"])
-reddit = pd.read_csv(REDDIT_CSV) if REDDIT_CSV.exists() else pd.DataFrame(columns=["region", "year_month", "reddit_posts"])
+# Load collected data from the latest generated files
+wiki_path = get_newest_file(f"wiki_option{DATA_MODE}")
+wiki = pd.read_csv(wiki_path) if wiki_path else pd.DataFrame(columns=["region", "year_month", "wiki_views"])
+
+trends_path = get_newest_file(f"trends_option{DATA_MODE}")
+trends = pd.read_csv(trends_path) if trends_path else pd.DataFrame(columns=["region", "year_month", "trends_index"])
+
+reddit_path = get_newest_file(f"reddit_option{DATA_MODE}")
+reddit = pd.read_csv(reddit_path) if reddit_path else pd.DataFrame(columns=["region", "year_month", "reddit_posts"])
 
 # Merge
 panel = df_long.copy()
@@ -342,11 +370,9 @@ for other in [wiki, trends, reddit]:
 panel.to_csv(MERGED_CSV, index=False)
 print(f"Panel saved to {MERGED_CSV}")
 
-# Save all options merged together
-def get_newest_file(prefix):
-    files = list(OUTPUT_DIR.glob(f"{prefix}_*.csv"))
-    files.extend(OUTPUT_DIR.glob(f"{prefix}.csv")) # fallback to old names
-    return max(files, key=os.path.getmtime) if files else None
+# Remove the old duplicated get_newest_file block down here
+# function is now at top of the script
+
 
 opt1_file = get_newest_file("merged_panel_option1")
 opt2_file = get_newest_file("merged_panel_option2")

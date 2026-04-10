@@ -19,3 +19,228 @@ Plzeňský kraj
 Prov. Liège
 Main-Tauber-Kreis
 Střední Morava
+Belgium
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest
+Prov. Antwerpen
+Arr. Antwerpen
+Arr. Mechelen
+Arr. Turnhout
+Arr. Tongeren
+Arr. Hasselt
+Arr. Maaseik
+Prov. Oost-Vlaanderen
+Arr. Dendermonde
+Arr. Eeklo
+Arr. Gent
+Arr. Oudenaarde
+Arr. Sint-Niklaas
+Prov. Vlaams-Brabant
+Arr. Halle-Vilvoorde
+Arr. Leuven
+Prov. West-Vlaanderen
+Arr. Brugge
+Arr. Diksmuide
+Arr. Ieper
+Arr. Kortrijk
+Arr. Oostende
+Arr. Roeselare
+Arr. Tielt
+Arr. Veurne
+Région wallonne
+Prov. Brabant wallon
+Arr. Nivelles
+Arr. Mons
+Arr. Tournai-Mouscron
+Arr. La Louvière
+Arr. Ath
+Arr. Charleroi
+Arr. Soignies
+Arr. Thuin
+Arr. Huy
+Arr. Liège
+Arr. Waremme
+Arr. Verviers — communes francophones
+Bezirk Verviers — Deutschsprachige Gemeinschaft
+Prov. Luxembourg (BE)
+Arr. Arlon
+Arr. Bastogne
+Arr. Marche-en-Famenne
+Arr. Virton
+Prov. Namur
+Arr. Dinant
+Arr. Namur
+Arr. Philippeville
+Bulgaria
+Vidin
+Montana
+Vratsa
+Pleven
+Lovech
+Severen tsentralen
+Veliko Tarnovo
+Gabrovo
+Razgrad
+Silistra
+Severoiztochen
+Dobrich
+Shumen
+Targovishte
+Yugoiztochen
+Burgas
+Sliven
+Yambol
+Stara Zagora
+Yugozapaden
+Sofia
+Blagoevgrad
+Pernik
+Kyustendil
+Yuzhen tsentralen
+Haskovo
+Pazardzhik
+Smolyan
+Kardzhali
+Czechia
+Praha
+Hlavní město Praha
+Střední Čechy
+Středočeský kraj
+Jihozápad
+Jihočeský kraj
+Severozápad
+Karlovarský kraj
+Ústecký kraj
+Severovýchod
+Liberecký kraj
+Královéhradecký kraj
+Pardubický kraj
+Jihovýchod
+Kraj Vysočina
+Jihomoravský kraj
+Zlínský kraj
+Moravskoslezsko
+Moravskoslezský kraj
+Denmark
+Hovedstaden
+Byen København
+Nordsjælland
+Bornholm
+Østsjælland
+Vest- og Sydsjælland
+Syddanmark
+Fyn
+Sydjylland
+Midtjylland
+Vestjylland
+Østjylland
+Nordjylland
+Germany
+Baden-Württemberg
+Stuttgart, Stadtkreis
+Böblingen
+Göppingen
+Ludwigsburg
+Rems-Murr-Kreis
+Heilbronn, Stadtkreis
+Heilbronn, Landkreis
+Hohenlohekreis
+Schwäbisch Hall
+Heidenheim
+Ostalbkreis
+Karlsruhe
+Baden-Baden, Stadtkreis
+Karlsruhe, Landkreis
+Rastatt
+Mannheim, Stadtkreis
+Neckar-Odenwald-Kreis
+Rhein-Neckar-Kreis
+Pforzheim, Stadtkreis
+Calw
+Enzkreis
+Freudenstadt
+Freiburg im Breisgau, Stadtkreis
+Breisgau-Hochschwarzwald
+Emmendingen
+Ortenaukreis
+Rottweil
+Schwarzwald-Baar-Kreis
+Tuttlingen
+Konstanz
+Lörrach
+Waldshut
+Tübingen
+Reutlingen
+Tübingen, Landkreis
+Zollernalbkreis
+Alb-Donau-Kreis
+Biberach
+Bodenseekreis
+Ravensburg
+Sigmaringen
+Bayern
+Ingolstadt, Kreisfreie Stadt
+Rosenheim, Kreisfreie Stadt
+Altötting
+Berchtesgadener Land
+Bad Tölz-Wolfratshausen
+Dachau
+Ebersberg
+Eichstätt
+Fürstenfeldbruck
+Garmisch-Partenkirchen
+Landsberg am Lech
+Miesbach
+Mühldorf a. Inn
+Neuburg-Schrobenhausen
+Pfaffenhofen a. d. Ilm
+Rosenheim, Landkreis
+Starnberg
+Traunstein
+Weilheim-Schongau
+Landshut, Kreisfreie Stadt
+Passau, Kreisfreie Stadt
+Straubing, Kreisfreie Stadt
+Deggendorf
+Freyung-Grafenau
+Kelheim
+Landshut, Landkreis
+Passau, Landkreis
+Regen
+Rottal-Inn
+Dingolfing-Landau
+Oberpfalz
+Amberg, Kreisfreie Stadt
+Regensburg, Kreisfreie Stadt
+Regensburg, Landkreis
+Estonia
+Ireland
+Greece
+Spain
+France
+Croatia
+Italy
+Cyprus
+Latvia
+Lithuania
+Luxembourg
+Hungary
+Malta
+Netherlands
+Austria
+Poland
+Portugal
+Romania
+Slovenia
+Slovakia
+Finland
+Sweden
+Iceland
+Liechtenstein
+Norway
+Switzerland
+United Kingdom
+Montenegro
+North Macedonia
+Albania
+Serbia
+Türkiye

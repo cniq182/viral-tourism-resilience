@@ -1,12 +1,18 @@
+import argparse
 import requests
 import pandas as pd
 import time
 
-# Italy / Rome articles — captures both country and the city driving viral tourism
-ARTICLES = {
-    "Italy": "IT",
-    "Rome": "IT",
-    "Tourism_in_Italy": "IT",
+DESTINATIONS = {
+    "IT": {
+        "Italy": "IT",
+        "Rome": "IT",
+        "Tourism_in_Italy": "IT",
+    },
+    "JP": {
+        "Japan": "JP",
+        "Tourism_in_Japan": "JP",
+    },
 }
 
 BASE_URL = (
@@ -24,14 +30,26 @@ def fetch_pageviews(article: str) -> list[dict]:
     resp.raise_for_status()
     items = resp.json().get("items", [])
     return [
-        {"article": article, "date": item["timestamp"][:4] + "-" + item["timestamp"][4:6], "wiki_pageviews": item["views"]}
+        {
+            "article": article,
+            "date": item["timestamp"][:4] + "-" + item["timestamp"][4:6],
+            "wiki_pageviews": item["views"],
+        }
         for item in items
     ]
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--geo", required=True, choices=list(DESTINATIONS.keys()),
+                        help="Destination geo code (IT or JP)")
+    args = parser.parse_args()
+
+    articles = DESTINATIONS[args.geo]
+    output = f"data/wiki_{args.geo.lower()}.csv"
+
     rows = []
-    for article, geo in ARTICLES.items():
+    for article, geo in articles.items():
         print(f"Fetching: {article}")
         data = fetch_pageviews(article)
         for row in data:
@@ -41,9 +59,9 @@ def main():
 
     df = pd.DataFrame(rows)[["geo", "date", "article", "wiki_pageviews"]]
     df = df.sort_values(["article", "date"]).reset_index(drop=True)
-    df.to_csv("data/wiki_italy.csv", index=False)
-    print(f"Saved {len(df)} rows to data/wiki_italy.csv")
-    print(df.tail(10))
+    df.to_csv(output, index=False)
+    print(f"Saved {len(df)} rows to {output}")
+    print(df.tail(6))
 
 
 if __name__ == "__main__":

@@ -1,0 +1,187 @@
+region,country,capital,tourist_destination_1,tourist_destination_2,tourist_destination_3
+Spain,Spain,Madrid,Sagrada Família Barcelona,Prado Museum Madrid,Alhambra Granada
+Noroeste,Spain,NULL,Santiago de Compostela Cathedral,Picos de Europa,Rías Baixas Wine Region
+Galicia,Spain,NULL,Santiago de Compostela Cathedral,Rías Baixas,A Coruña Tower of Hercules
+Principado de Asturias,Spain,NULL,Picos de Europa National Park,Oviedo Cathedral,Covadonga Sanctuary
+Cantabria,Spain,NULL,Santander El Sardinero Beach,Altamira Cave Replica,Picos de Europa
+Noreste,Spain,NULL,Sagrada Família Barcelona,San Sebastián Old Town,Pamplona Running of the Bulls
+País Vasco,Spain,NULL,Guggenheim Museum Bilbao,San Sebastián Old Town,Vitoria-Gasteiz Cathedral
+Comunidad Foral de Navarra,Spain,NULL,Pamplona Running of the Bulls,Roncesvalles Monastery,Olite Castle
+La Rioja,Spain,NULL,Logroño Rioja Wine Route,La Rioja Monasteries,San Millán de la Cogolla
+Aragón,Spain,NULL,Zaragoza Basilica del Pilar,Ordesa Monte Perdido National Park,Albarracín Medieval Town
+Comunidad de Madrid,Spain,NULL,Prado Museum,Royal Palace of Madrid,Retiro Park
+Centro (ES),Spain,NULL,Toledo Old City,Salamanca Plaza Mayor,Segovia Aqueduct
+Castilla y León,Spain,NULL,Salamanca Plaza Mayor,Segovia Aqueduct,Burgos Cathedral
+Castilla-La Mancha,Spain,NULL,Toledo Old City,Cuenca Hanging Houses,La Mancha Windmills
+Extremadura,Spain,NULL,Mérida Roman Theatre,Cáceres Old Town,Guadalupe Monastery
+Este,Spain,NULL,Sagrada Família Barcelona,Valencia City of Arts and Sciences,Palma de Mallorca Cathedral
+Cataluña,Spain,NULL,Sagrada Família Barcelona,Montserrat Monastery,Costa Brava
+Comunitat Valenciana,Spain,NULL,Valencia City of Arts and Sciences,La Tomatina Buñol,Albufera Nature Park
+Illes Balears,Spain,NULL,Palma de Mallorca Cathedral,Ibiza Old Town,Menorca Binibeca Village
+Sur,Spain,NULL,Alhambra Granada,Córdoba Mezquita,Seville Alcázar
+Andalucía,Spain,NULL,Alhambra Granada,Córdoba Mezquita,Seville Alcázar
+Región de Murcia,Spain,NULL,Cartagena Roman Theatre,Cabo de Palos,Mar Menor Lagoon
+Ciudad de Ceuta,Spain,NULL,Ceuta Foso Real,Mount Acho Fortress,Ceuta Royal Walls
+Ciudad de Melilla,Spain,NULL,Melilla Renaissance Fortress,Modernista Architecture,Melilla Old Town
+Canarias,Spain,NULL,Teide National Park Tenerife,Gran Canaria Maspalomas Dunes,Lanzarote Timanfaya
+Croatia,Croatia,Zagreb,Dubrovnik Old Town,Plitvice Lakes National Park,Split Diocletian's Palace
+Hrvatska,Croatia,NULL,Dubrovnik Old Town,Plitvice Lakes,Split Diocletian's Palace
+Panonska Hrvatska,Croatia,NULL,Osijek Tvrđa Fortress,Slavonia Wine Region,Kopački Rit Nature Park
+Bjelovarsko-bilogorska županija,Croatia,NULL,Bjelovar Fortress,Daruvar Thermal Spa,Bilogora Hills
+Virovitičko-podravska županija,Croatia,NULL,Virovitica Pejačević Castle,Papuk Nature Park,Drava River
+Požeško-slavonska županija,Croatia,NULL,Požega Cathedral,Papuk Geopark,Kutjevo Wine Cellars
+Brodsko-posavska županija,Croatia,NULL,Slavonski Brod Fortress,Spačva Forest,Brodsko Posavlje Museum
+Osječko-baranjska županija,Croatia,NULL,Kopački Rit Nature Park,Osijek Tvrđa Fortress,Baranja Wine Cellars
+Vukovarsko-srijemska županija,Croatia,NULL,Vukovar Memorial Site,Ilok Wine Region,Vučedol Museum
+Karlovačka županija,Croatia,NULL,Plitvice Lakes National Park,Karlovac Beer Museum,Mrežnica River
+Sisačko-moslavačka županija,Croatia,NULL,Sisak Fortress,Lonjsko Polje Nature Park,Kutina Moslavina Region
+Jadranska Hrvatska,Croatia,NULL,Dubrovnik Old Town,Split Diocletian's Palace,Hvar Island
+Primorsko-goranska županija,Croatia,NULL,Rijeka Carnival,Krk Island,Opatija Riviera
+Ličko-senjska županija,Croatia,NULL,Plitvice Lakes National Park,Velebit Nature Park,Senj Nehaj Fortress
+Zadarska županija,Croatia,NULL,Zadar Sea Organ,Zadar Roman Forum,Kornati National Park
+Šibensko-kninska županija,Croatia,NULL,Šibenik Cathedral,Krka National Park,Knin Fortress
+Splitsko-dalmatinska županija,Croatia,NULL,Split Diocletian's Palace,Hvar Island,Makarska Riviera
+Istarska županija,Croatia,NULL,Pula Arena,Rovinj Old Town,Motovun Hill Town
+Dubrovačko-neretvanska županija,Croatia,NULL,Dubrovnik Old Town,Mljet Island National Park,Korčula Old Town
+Grad Zagreb,Croatia,NULL,Zagreb Cathedral,Dolac Market,Zagreb Museum of Broken Relationships
+Grad Zagreb,Croatia,NULL,Zagreb Cathedral,Dolac Market,Zagreb Museum of Broken Relationships
+Sjeverna Hrvatska,Croatia,NULL,Varaždin Baroque Town,Trakošćan Castle,Krapina Neanderthal Museum
+Međimurska županija,Croatia,NULL,Čakovec Castle,Štrigova Wine Route,Međimurje Cycling
+Varaždinska županija,Croatia,NULL,Varaždin Baroque Town,Trakošćan Castle,NULL
+Koprivničko-križevačka županija,Croatia,NULL,Koprivnica Naïve Art Museum,Đurđevac Picokijada,Kalnik Mountain
+Krapinsko-zagorska županija,Croatia,NULL,Krapina Neanderthal Museum,Trakošćan Castle,Varaždin Baroque
+Zagrebačka županija,Croatia,NULL,Samobor Old Town,Žumberak Nature Park,Jastrebarsko Wine
+Italy,Italy,Rome,Colosseum Rome,Venice Grand Canal,Florence Uffizi Gallery
+Nord-Ovest,Italy,NULL,Turin Mole Antonelliana,Cinque Terre,Lake Como
+Piemonte,Italy,NULL,Turin Mole Antonelliana,Langhe Wine Region,Sacra di San Michele
+Torino,Italy,NULL,Turin Mole Antonelliana,Turin Royal Palace,Turin Shroud Cathedral
+Vercelli,Italy,NULL,Vercelli Cathedral,Vercelli Rice Fields,Basilica di Sant'Andrea
+Biella,Italy,NULL,Biella Wool District,Sanctuary of Oropa,Biella Alps
+Verbano-Cusio-Ossola,Italy,NULL,Lake Maggiore Borromean Islands,Ossola Valleys,Locarno nearby
+Novara,Italy,NULL,Novara Basilica di San Gaudenzio,Novara Castello Visconteo,Lago d'Orta
+Cuneo,Italy,NULL,Cuneo Alpi Maritime Park,Cuneo Old Town Arcades,Alba White Truffle Festival
+Asti,Italy,NULL,Asti Palio Horse Race,Asti Cathedral,Monferrato Wine Landscape
+Alessandria,Italy,NULL,Acqui Terme Spa Town,Casale Monferrato Cathedral,Monferrato Wine Hills
+Valle d'Aosta/Vallée d'Aoste,Italy,NULL,Aosta Roman Amphitheatre,Gran Paradiso National Park,Monte Bianco
+Valle d'Aosta/Vallée d'Aoste,Italy,NULL,Aosta Roman Amphitheatre,Gran Paradiso National Park,Monte Bianco
+Liguria,Italy,NULL,Cinque Terre,Portofino,Genoa Old Port
+Imperia,Italy,NULL,Sanremo Casino and Music Festival,Dolceacqua Medieval Village,Bordighera Promenade
+Savona,Italy,NULL,Albenga Old Town,Finale Ligure Beach,Savona Priamar Fortress
+Genova,Italy,NULL,Genoa Old Port UNESCO,Genoa Palazzi dei Rolli,Genoa Aquarium
+La Spezia,Italy,NULL,Cinque Terre UNESCO,Portovenere UNESCO,Lerici Castle
+Lombardia,Italy,NULL,Lake Como,Milan Duomo,Lake Garda
+Varese,Italy,NULL,Lake Maggiore Varese Shore,Sacro Monte di Varese,Varese Field of Europe Garden
+Como,Italy,NULL,Lake Como Bellagio,Villa del Balbianello,Como Cathedral
+Lecco,Italy,NULL,Lecco Lake Shoreline,Manzoni Museum,Resegone Mountain
+Sondrio,Italy,NULL,Valtellina Wine Route,Bormio Spa Resort,Stelvio National Park
+Bergamo,Italy,NULL,Bergamo Alta Città Murata,Bergamo Accademia Carrara,Valle Brembana
+Brescia,Italy,NULL,Brescia Roman Ruins UNESCO,Lake Garda West Shore,Brescia Castle
+Pavia,Italy,NULL,Pavia Certosa Monastery,Pavia University Historic Centre,Lomellina Rice Fields
+Lodi,Italy,NULL,Lodi Duomo,Lodi Incoronata Church,Adda River Park
+Cremona,Italy,NULL,Cremona Violin Museum,Cremona Torrazzo Bell Tower,Cremona Nougat Festival
+Mantova,Italy,NULL,Mantua Ducal Palace,Mantua Palazzo Te,Mantua Historic Centre UNESCO
+Milano,Italy,NULL,Milan Duomo,Milan Last Supper da Vinci,Milan Brera Gallery
+Monza e della Brianza,Italy,NULL,Monza F1 Circuit,Monza Royal Villa,Brianza Lakes
+Sud,Italy,NULL,Amalfi Coast,Pompeii,Matera Sassi
+Abruzzo,Italy,NULL,Gran Sasso National Park,Pescara Beach,Majella National Park
+L'Aquila,Italy,NULL,L'Aquila Basilica di Collemaggio,Gran Sasso Cable Car,Rocca Calascio Castle
+Teramo,Italy,NULL,Gran Sasso Apennines,Teramo Cathedral,Atri Cathedral Crypt
+Pescara,Italy,NULL,Pescara Beach Promenade,D'Annunzio Birthplace Museum,Majella National Park
+Chieti,Italy,NULL,Chieti National Archaeological Museum,Lanciano Old Town,Sangro River Valley
+Molise,Italy,NULL,Molise Old Town Villages,Termoli Borgo Antico,Campitello Matese Ski
+Isernia,Italy,NULL,Pietrabbondante Samnite Theatre,Isernia Prehistoric Museum,Molise Old Villages
+Campobasso,Italy,NULL,Campobasso Castle Monforte,Campobasso Easter Procession,Saepinum Roman Ruins
+Campania,Italy,NULL,Pompeii,Amalfi Coast,Naples Centro Storico
+Caserta,Italy,NULL,Caserta Royal Palace UNESCO,San Leucio Silk Village,Capua Ancient Amphitheatre
+Benevento,Italy,NULL,Benevento Arch of Trajan,Benevento Santa Sofia UNESCO,Sannio Wine Region
+Napoli,Italy,NULL,Naples Pompeii UNESCO,Naples Centro Storico UNESCO,Castel dell'Ovo
+Avellino,Italy,NULL,Avellino Irpinia Wine Region,Montevergine Sanctuary,Parco del Partenio
+Salerno,Italy,NULL,Amalfi Coast UNESCO,Paestum Greek Temples,Cilento National Park
+Puglia,Italy,NULL,Alberobello Trulli,Lecce Baroque City,Matera Sassi
+Taranto,Italy,NULL,Taranto National Archaeological Museum,Taranto Old City Island,Magna Graecia Heritage
+Brindisi,Italy,NULL,Brindisi End of Appian Way Column,Ostuni White Town,Alberobello Trulli UNESCO
+Lecce,Italy,NULL,Lecce Baroque Architecture,Lecce Santa Croce Basilica,Otranto Cathedral Mosaic
+Foggia,Italy,NULL,Foggia Gargano National Park,Vieste Gargano Cliffs,Monte Sant'Angelo UNESCO
+Bari,Italy,NULL,Bari Basilica di San Nicola,Bari Old Town Seafront,Castel del Monte UNESCO
+Barletta-Andria-Trani,Italy,NULL,Castel del Monte UNESCO,Trani Cathedral by the Sea,Barletta Colossus Statue
+Basilicata,Italy,NULL,Matera Sassi Cave Dwellings,Maratea Coastline,Pollino National Park
+Potenza,Italy,NULL,Potenza Grumentum Roman Ruins,Maratea Coastline,Pollino National Park
+Matera,Italy,NULL,Matera Sassi UNESCO,Matera Rupestrian Churches,Crypt of Original Sin
+Calabria,Italy,NULL,Tropea Clifftop Town,Aspromonte National Park,Reggio Calabria Museo Nazionale
+Cosenza,Italy,NULL,Cosenza Old Town,Sila National Park,Rossano Codex Purpureus
+Crotone,Italy,NULL,Crotone Temple of Hera,Le Castella Aragonese,Calabria Ionian Coast
+Catanzaro,Italy,NULL,Catanzaro Silk Museum,Soverato Beach,Serra San Bruno Carthusian Monastery
+Vibo Valentia,Italy,NULL,Tropea Clifftop Town,Capo Vaticano Beach,Pizzo Gelateria & Castle
+Reggio Calabria,Italy,NULL,Reggio Calabria Riace Bronzes Museum,Aspromonte National Park,Scilla Chianalea Village
+Isole,Italy,NULL,Sicily Valley of the Temples,Sardinia Costa Smeralda,Palermo Arab-Norman UNESCO Sites
+Sicilia,Italy,NULL,Valley of the Temples Agrigento,Palermo Arab-Norman Sites,Mount Etna
+Trapani,Italy,NULL,Trapani Salt Pans,Erice Medieval Town,Egadi Islands
+Palermo,Italy,NULL,Palermo Arab-Norman UNESCO,Palermo Ballarò Market,Monreale Cathedral
+Messina,Italy,NULL,Messina Strait View,Taormina Greek Theatre,Milazzo Cape and Castle
+Agrigento,Italy,NULL,Valley of the Temples UNESCO,Scala dei Turchi,Porto Empedocle
+Caltanissetta,Italy,NULL,Caltanissetta Sulphur Mine Heritage,Sabucina Archaeological Area,Campofranco Villages
+Enna,Italy,NULL,Enna Castello di Lombardia,Pergusa Lake,Piazza Armerina Roman Villa UNESCO
+Catania,Italy,NULL,Catania Mount Etna,Catania Baroque Centre UNESCO,Catania Fish Market La Pescheria
+Ragusa,Italy,NULL,Ragusa Ibla Baroque UNESCO,Modica Chocolate Town,Donnafugata Castle
+Siracusa,Italy,NULL,Siracusa Greek Theatre,Siracusa Ortygia Island,Noto Baroque Town UNESCO
+Sardegna,Italy,NULL,Costa Smeralda,Nuraghi Su Nuraxi,Cagliari Castello District
+Sassari,Italy,NULL,Sassari Piazza d'Italia,Alghero Catalan Old Town,Porto Conte Natural Park
+Nuoro,Italy,NULL,Barbagia Traditional Villages,Orgosolo Murales,Dorgali Cala Gonone
+Cagliari,Italy,NULL,Cagliari Castello District,Cagliari Poetto Beach,Nora Archaeological Site
+Oristano,Italy,NULL,Oristano Sa Sartiglia Festival,Tharros Phoenician Ruins,Oristano Sinis Peninsula
+Sud Sardegna,Italy,NULL,Costa del Sud Beaches,Carbonia Su Nuraxi Barumini,Teulada Cape Malfatano
+Nord-Est,Italy,NULL,Venice Grand Canal,Dolomites,Verona Arena
+Provincia Autonoma di Bolzano/Bozen,Italy,NULL,Dolomites UNESCO Site,Bolzano Old Town,Merano Thermal Baths
+Bolzano-Bozen,Italy,NULL,Bolzano Iceman Ötzi Museum,Bolzano Old Town,Alpe di Siusi Plateau
+Provincia Autonoma di Trento,Italy,NULL,Trento Castle Buonconsiglio,Adamello-Brenta National Park,Lake Garda
+Trento,Italy,NULL,Trento Buonconsiglio Castle,Trento MUSE Science Museum,Adamello-Brenta Park
+Veneto,Italy,NULL,Venice Grand Canal,Verona Arena,Dolomites
+Verona,Italy,NULL,Verona Arena,Verona Juliet's Balcony,Verona Roman Theatre
+Vicenza,Italy,NULL,Vicenza Palladio Architecture UNESCO,Villa La Rotonda,Vicenza Monte Berico
+Belluno,Italy,NULL,Dolomites UNESCO,Cortina d'Ampezzo Ski Resort,Belluno Old Town
+Treviso,Italy,NULL,Treviso Old Town Canals,Prosecco Hills UNESCO,Asolo Medieval Town
+Venezia,Italy,NULL,Venice Grand Canal,Venice St Mark's Basilica,Murano Glass Island
+Padova,Italy,NULL,Padua Scrovegni Chapel,Padua Basilica di Sant'Antonio,Padua Botanical Garden UNESCO
+Rovigo,Italy,NULL,Rovigo Po Delta Park,Rovigo Pinacoteca dei Concordi,Adria Archaeological Museum
+Friuli-Venezia Giulia,Italy,NULL,Trieste Piazza Unità,Udine Piazza della Libertà,Miramare Castle
+Pordenone,Italy,NULL,Pordenone Old Town Portico,Friulian Dolomites,Spilimbergo Mosaic School
+Udine,Italy,NULL,Udine Piazza della Libertà,Udine Tiepolo Frescoes,Cividale del Friuli UNESCO
+Gorizia,Italy,NULL,Gorizia Castle,Gorizia Nova Gorica European Capital,Gorizia Karst Plateau
+Trieste,Italy,NULL,Trieste Piazza Unità d'Italia,Miramare Castle,Trieste Coffee Culture
+Emilia-Romagna,Italy,NULL,Bologna Piazza Maggiore,Parma Duomo,Ravenna Mosaics
+Piacenza,Italy,NULL,Piacenza Palazzo Farnese,Piacenza Cathedral,Val Trebbia Scenic Valley
+Parma,Italy,NULL,Parma Duomo and Baptistery,Parma National Gallery,Parma Ham and Cheese Region
+Reggio nell'Emilia,Italy,NULL,Reggio Emilia Tricolour Flag City,Reggio Emilia Musei Civici,Matildic Lands Canossa
+Modena,Italy,NULL,Modena Cathedral UNESCO,Modena Ferrari Museum Maranello,Modena Balsamic Vinegar
+Bologna,Italy,NULL,Bologna Piazza Maggiore,Bologna Two Towers,Bologna University Archiginnasio
+Ferrara,Italy,NULL,Ferrara Este Castle UNESCO,Ferrara Renaissance City,Po Delta Park
+Ravenna,Italy,NULL,Ravenna Byzantine Mosaics UNESCO,Ravenna Dante Tomb,Ravenna Classe Basilica
+Forlì-Cesena,Italy,NULL,Cesenatico Porto Canale,San Marino Republic,Forlì Musei San Domenico
+Rimini,Italy,NULL,Rimini Beach Riviera,Rimini Arch of Augustus,Rimini Malatesta Temple
+Centro (IT),Italy,NULL,Florence Uffizi Gallery,Rome Colosseum,Pisa Leaning Tower
+Toscana,Italy,NULL,Florence Uffizi Gallery,Pisa Leaning Tower,Siena Piazza del Campo
+Massa-Carrara,Italy,NULL,Carrara Marble Quarries,Massa Castle Malaspina,Lunigiana Medieval Castles
+Lucca,Italy,NULL,Lucca City Walls,Lucca Cathedral,Lucca Puccini Festival
+Pistoia,Italy,NULL,Pistoia Cathedral and Baptistery,Collodi Pinocchio Park,Abetone Ski Resort
+Firenze,Italy,NULL,Florence Uffizi Gallery,Florence Duomo,Florence Ponte Vecchio
+Prato,Italy,NULL,Prato Cathedral Holy Belt Relic,Prato Castello dell'Imperatore,Prato Textile Museum
+Livorno,Italy,NULL,Livorno Fortezza Vecchia,Livorno Terrazza Mascagni,Capraia Island
+Pisa,Italy,NULL,Pisa Leaning Tower,Pisa Campo dei Miracoli,Pisa Lungarno Promenade
+Arezzo,Italy,NULL,Arezzo Piero della Francesca Frescoes,Arezzo Antiques Market,Arezzo Cathedral
+Siena,Italy,NULL,Siena Piazza del Campo,Siena Cathedral,Siena Palio Horse Race
+Grosseto,Italy,NULL,Maremma Natural Park,Grosseto Archaeological Museum,Monte Argentario Peninsula
+Umbria,Italy,NULL,Assisi Basilica of Saint Francis,Perugia Fontana Maggiore,Orvieto Cathedral
+Perugia,Italy,NULL,Perugia Fontana Maggiore,Perugia Chocolate Festival,Assisi Basilica nearby
+Terni,Italy,NULL,Cascata delle Marmore,Orvieto Cathedral nearby,Narni Underground
+Marche,Italy,NULL,Urbino Ducal Palace,Loreto Sanctuary,Frasassi Caves
+Pesaro e Urbino,Italy,NULL,Urbino Ducal Palace UNESCO,Pesaro Rossini Opera Festival,Fano Roman Arch
+Ancona,Italy,NULL,Ancona Cathedral Monte Guasco,Conero Natural Park,Portonovo Beach
+Macerata,Italy,NULL,Macerata Sferisterio Opera,Recanati Leopardi Birthplace,Sibillini Mountains
+Ascoli Piceno,Italy,NULL,Ascoli Piceno Piazza del Popolo,Ascoli Piceno Olive Ascolane,Tronto Valley
+Fermo,Italy,NULL,Fermo Cathedral,Fermo Cisterns Roman,Porto San Giorgio Beach
+Lazio,Italy,NULL,Rome Colosseum,Vatican Museums,Tivoli Villa d'Este
+Viterbo,Italy,NULL,Viterbo Papal Palace,Viterbo Medieval Quarter,Bomarzo Monster Park
+Rieti,Italy,NULL,Rieti Greccio Sanctuary,Terminillo Ski Resort,Rieti Cathedral
+Roma,Italy,NULL,Rome Colosseum,Vatican Museums,Rome Trevi Fountain
+Latina,Italy,NULL,Latina Pontine Islands Ponza,Circeo National Park,Ninfa Romantic Garden
+Frosinone,Italy,NULL,Montecassino Abbey,Alatri Acropolis,Ciociaria Traditional Culture

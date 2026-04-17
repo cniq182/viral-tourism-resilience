@@ -25,10 +25,7 @@ from pytrends.request import TrendReq
 
 # --- 2. CONFIGURATION & DATA LOADING ---
 EU_27 = [
-    "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czechia", "Denmark", 
-    "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", 
-    "Italy", "Latvia", "Lithuania", "Luxembourg", "Malta", "Netherlands", 
-    "Poland", "Portugal", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden"
+    "France", "Croatia"
 ]
 
 START_DATE = '2020-01-01'
@@ -163,5 +160,5 @@ for country in EU_27:
 final_eu_panel = pd.concat(all_data, ignore_index=True)
 final_eu_panel.to_csv("eu_tourism_resilience_final2.csv", index=False)
 
-print("\nSuccess! Dataset created: eu_tourism_resilience_final.csv")
+print("\nSuccess! Dataset created: eu_tourism_resilience_albania.csv")
 print(final_eu_panel.head())

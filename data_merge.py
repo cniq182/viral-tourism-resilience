@@ -9,8 +9,7 @@ df_source = pd.read_csv(os.path.join(BASE_DIR, "eu_tourism_resilience_final.csv"
 
 # --- Countries to replace ---
 REPLACE_COUNTRIES = [
-    "Belgium", "Bulgaria", "Estonia",
-    "Netherlands", "Poland", "Portugal"
+    "France", "Croatia"
 ]
 
 # --- Remove those countries from the base ---

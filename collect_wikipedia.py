@@ -21,7 +21,7 @@ BASE_URL = (
 )
 
 START = "20150101"
-END = "20241201"
+END = "20241231"
 
 
 def fetch_pageviews(article: str) -> list[dict]:

@@ -1,0 +1,1876 @@
+date,country,region,county,city,gt_airbnb,gt_hotel,gt_flights,gt_attraction_1,gt_attraction_2,gt_attraction_3,nights_spent
+2020-01-01,Albania,Central Albania,Berat County,berat,0,32,0,11,0,0.0,96566.0
+2020-02-01,Albania,Central Albania,Berat County,berat,0,16,0,0,0,0.0,63781.0
+2020-03-01,Albania,Central Albania,Berat County,berat,0,0,0,0,0,0.0,17009.0
+2020-04-01,Albania,Central Albania,Berat County,berat,0,0,0,0,0,0.0,0.0
+2020-05-01,Albania,Central Albania,Berat County,berat,0,0,0,0,0,0.0,38098.0
+2020-06-01,Albania,Central Albania,Berat County,berat,0,0,0,0,0,0.0,104513.0
+2020-07-01,Albania,Central Albania,Berat County,berat,0,0,0,0,0,0.0,340007.0
+2020-08-01,Albania,Central Albania,Berat County,berat,0,0,0,0,0,0.0,568284.0
+2020-09-01,Albania,Central Albania,Berat County,berat,0,13,0,0,0,0.0,185724.0
+2020-10-01,Albania,Central Albania,Berat County,berat,0,18,0,9,0,0.0,71242.0
+2020-11-01,Albania,Central Albania,Berat County,berat,0,0,0,0,0,0.0,
+2020-12-01,Albania,Central Albania,Berat County,berat,0,10,0,0,0,100.0,
+2021-01-01,Albania,Central Albania,Berat County,berat,0,9,0,0,0,0.0,55030.0
+2021-02-01,Albania,Central Albania,Berat County,berat,0,13,0,0,0,0.0,54924.0
+2021-03-01,Albania,Central Albania,Berat County,berat,0,0,0,0,0,0.0,55045.0
+2021-04-01,Albania,Central Albania,Berat County,berat,0,15,0,0,0,0.0,87134.0
+2021-05-01,Albania,Central Albania,Berat County,berat,0,22,0,12,0,0.0,142095.0
+2021-06-01,Albania,Central Albania,Berat County,berat,0,28,0,0,0,0.0,324474.0
+2021-07-01,Albania,Central Albania,Berat County,berat,0,30,0,12,0,0.0,697052.0
+2021-08-01,Albania,Central Albania,Berat County,berat,0,36,0,0,0,0.0,986183.0
+2021-09-01,Albania,Central Albania,Berat County,berat,0,26,0,0,0,0.0,377091.0
+2021-10-01,Albania,Central Albania,Berat County,berat,0,27,0,0,0,0.0,151723.0
+2021-11-01,Albania,Central Albania,Berat County,berat,0,29,0,12,0,0.0,131065.0
+2021-12-01,Albania,Central Albania,Berat County,berat,0,13,0,0,0,0.0,123140.0
+2022-01-01,Albania,Central Albania,Berat County,berat,0,17,0,0,0,0.0,112180.0
+2022-02-01,Albania,Central Albania,Berat County,berat,0,23,0,10,0,0.0,103768.0
+2022-03-01,Albania,Central Albania,Berat County,berat,0,21,0,7,0,0.0,113136.0
+2022-04-01,Albania,Central Albania,Berat County,berat,0,20,0,9,0,0.0,138541.0
+2022-05-01,Albania,Central Albania,Berat County,berat,0,26,0,13,0,0.0,265738.0
+2022-06-01,Albania,Central Albania,Berat County,berat,0,27,0,16,9,0.0,447438.0
+2022-07-01,Albania,Central Albania,Berat County,berat,0,56,0,21,0,0.0,801208.0
+2022-08-01,Albania,Central Albania,Berat County,berat,0,52,0,20,0,0.0,961887.0
+2022-09-01,Albania,Central Albania,Berat County,berat,0,60,0,19,0,0.0,437018.0
+2022-10-01,Albania,Central Albania,Berat County,berat,0,28,0,10,0,0.0,201009.0
+2022-11-01,Albania,Central Albania,Berat County,berat,0,25,0,0,0,0.0,127511.0
+2022-12-01,Albania,Central Albania,Berat County,berat,0,16,0,0,0,0.0,121895.0
+2023-01-01,Albania,Central Albania,Berat County,berat,0,25,0,0,12,0.0,113635.0
+2023-02-01,Albania,Central Albania,Berat County,berat,0,17,0,0,0,0.0,110155.0
+2023-03-01,Albania,Central Albania,Berat County,berat,0,21,0,0,0,0.0,154007.0
+2023-04-01,Albania,Central Albania,Berat County,berat,0,43,0,12,0,0.0,250769.0
+2023-05-01,Albania,Central Albania,Berat County,berat,0,58,0,23,0,0.0,389789.0
+2023-06-01,Albania,Central Albania,Berat County,berat,0,49,0,19,0,0.0,683713.0
+2023-07-01,Albania,Central Albania,Berat County,berat,0,87,0,25,0,0.0,1187417.0
+2023-08-01,Albania,Central Albania,Berat County,berat,0,100,0,37,0,0.0,1524990.0
+2023-09-01,Albania,Central Albania,Berat County,berat,0,85,0,25,0,0.0,820741.0
+2023-10-01,Albania,Central Albania,Berat County,berat,0,51,0,26,0,0.0,339285.0
+2023-11-01,Albania,Central Albania,Berat County,berat,0,41,0,12,0,0.0,229230.0
+2023-12-01,Albania,Central Albania,Berat County,berat,0,16,0,0,0,0.0,204123.0
+2024-01-01,Albania,Central Albania,Berat County,berat,0,17,0,0,0,0.0,169714.0
+2024-02-01,Albania,Central Albania,Berat County,berat,0,28,0,0,0,0.0,168756.0
+2024-03-01,Albania,Central Albania,Berat County,berat,0,36,0,10,0,0.0,224868.0
+2024-04-01,Albania,Central Albania,Berat County,berat,0,51,0,18,0,0.0,391836.0
+2024-05-01,Albania,Central Albania,Berat County,berat,0,70,0,31,0,0.0,510285.0
+2024-06-01,Albania,Central Albania,Berat County,berat,0,70,0,35,0,0.0,869073.0
+2024-07-01,Albania,Central Albania,Berat County,berat,0,76,0,34,0,0.0,1378296.0
+2024-08-01,Albania,Central Albania,Berat County,berat,0,88,0,45,0,0.0,1697681.0
+2024-09-01,Albania,Central Albania,Berat County,berat,9,78,0,54,0,0.0,994932.0
+2024-10-01,Albania,Central Albania,Berat County,berat,0,55,0,17,0,0.0,488388.0
+2024-11-01,Albania,Central Albania,Berat County,berat,0,25,0,16,0,0.0,311262.0
+2024-12-01,Albania,Central Albania,Berat County,berat,0,32,0,0,0,0.0,240623.0
+2025-01-01,Albania,Central Albania,Berat County,berat,0,24,0,0,0,0.0,230420.0
+2025-02-01,Albania,Central Albania,Berat County,berat,0,19,0,0,0,0.0,226431.0
+2025-03-01,Albania,Central Albania,Berat County,berat,0,30,0,12,0,0.0,294082.0
+2025-04-01,Albania,Central Albania,Berat County,berat,0,38,0,18,0,0.0,475233.0
+2025-05-01,Albania,Central Albania,Berat County,berat,0,38,0,21,0,0.0,671231.0
+2025-06-01,Albania,Central Albania,Berat County,berat,0,50,0,31,0,0.0,1201253.0
+2025-07-01,Albania,Central Albania,Berat County,berat,0,59,0,26,0,0.0,1839778.0
+2025-08-01,Albania,Central Albania,Berat County,berat,0,72,0,29,0,0.0,2263355.0
+2025-09-01,Albania,Central Albania,Berat County,berat,0,68,0,26,0,0.0,1189483.0
+2025-10-01,Albania,Central Albania,Berat County,berat,0,59,0,23,0,0.0,573215.0
+2025-11-01,Albania,Central Albania,Berat County,berat,0,30,0,13,0,0.0,404055.0
+2025-12-01,Albania,Central Albania,Berat County,berat,13,15,0,0,0,0.0,303555.0
+2026-01-01,Albania,Central Albania,Berat County,berat,0,36,0,0,0,0.0,254775.0
+2026-02-01,Albania,Central Albania,Berat County,berat,0,26,0,0,0,0.0,
+2026-03-01,Albania,Central Albania,Berat County,berat,0,37,0,13,0,0.0,
+2020-01-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,15,0,0,0,,96566.0
+2020-02-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,18,0,0,0,,63781.0
+2020-03-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,0,0,0,0,,17009.0
+2020-04-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,0,0,0,0,,0.0
+2020-05-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,0,0,0,0,,38098.0
+2020-06-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,0,0,0,0,,104513.0
+2020-07-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,15,0,0,0,,340007.0
+2020-08-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,34,0,0,0,,568284.0
+2020-09-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,35,0,0,0,,185724.0
+2020-10-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,39,0,0,0,,71242.0
+2020-11-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,18,0,0,0,,
+2020-12-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,17,0,0,0,,
+2021-01-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,19,0,0,0,,55030.0
+2021-02-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,0,0,0,0,,54924.0
+2021-03-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,16,0,0,0,,55045.0
+2021-04-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,26,0,0,0,,87134.0
+2021-05-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,20,0,0,0,,142095.0
+2021-06-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,32,0,0,0,,324474.0
+2021-07-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,31,0,0,0,,697052.0
+2021-08-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,44,0,18,0,,986183.0
+2021-09-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,41,0,16,0,,377091.0
+2021-10-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,32,0,0,0,,151723.0
+2021-11-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,29,0,0,0,,131065.0
+2021-12-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,28,0,0,0,,123140.0
+2022-01-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,19,0,0,0,,112180.0
+2022-02-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,16,0,0,0,,103768.0
+2022-03-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,16,0,0,0,,113136.0
+2022-04-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,32,0,0,0,,138541.0
+2022-05-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,41,0,0,0,,265738.0
+2022-06-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,34,0,0,0,,447438.0
+2022-07-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,42,0,18,0,,801208.0
+2022-08-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,67,0,19,0,,961887.0
+2022-09-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,50,0,20,0,,437018.0
+2022-10-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,45,0,0,0,,201009.0
+2022-11-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,33,0,0,0,,127511.0
+2022-12-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,18,0,0,0,,121895.0
+2023-01-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,23,0,0,0,,113635.0
+2023-02-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,0,0,0,0,,110155.0
+2023-03-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,20,0,0,0,,154007.0
+2023-04-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,51,0,0,0,,250769.0
+2023-05-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,44,0,21,0,,389789.0
+2023-06-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,52,0,16,0,,683713.0
+2023-07-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,60,0,29,0,,1187417.0
+2023-08-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,100,0,46,0,,1524990.0
+2023-09-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,81,0,31,0,,820741.0
+2023-10-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,52,0,16,0,,339285.0
+2023-11-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,32,0,17,0,,229230.0
+2023-12-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,18,0,0,0,,204123.0
+2024-01-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,29,0,0,0,,169714.0
+2024-02-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,22,0,0,0,,168756.0
+2024-03-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,33,0,0,0,,224868.0
+2024-04-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,38,0,31,0,,391836.0
+2024-05-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,63,0,27,0,,510285.0
+2024-06-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,39,0,35,0,,869073.0
+2024-07-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,68,0,51,0,,1378296.0
+2024-08-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,94,0,50,0,,1697681.0
+2024-09-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,67,0,40,0,,994932.0
+2024-10-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,47,0,21,0,,488388.0
+2024-11-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,31,0,0,0,,311262.0
+2024-12-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,29,0,0,0,,240623.0
+2025-01-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,0,0,0,0,,230420.0
+2025-02-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,0,0,0,0,,226431.0
+2025-03-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,30,0,0,0,,294082.0
+2025-04-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,28,0,18,0,,475233.0
+2025-05-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,45,0,23,0,,671231.0
+2025-06-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,47,0,25,0,,1201253.0
+2025-07-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,44,0,34,0,,1839778.0
+2025-08-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,57,0,40,0,,2263355.0
+2025-09-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,65,0,43,0,,1189483.0
+2025-10-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,50,0,0,0,,573215.0
+2025-11-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,33,0,0,0,,404055.0
+2025-12-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,21,0,0,0,,303555.0
+2026-01-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,0,0,0,0,,254775.0
+2026-02-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,0,0,0,0,,
+2026-03-01,Albania,Southern Albania,Gjirokastër County,gjirokastra,0,0,0,0,0,,
+2020-01-01,Albania,Southern Albania,Vlorë County,sarande,0,4,0,0,39,,96566.0
+2020-02-01,Albania,Southern Albania,Vlorë County,sarande,0,4,0,0,35,,63781.0
+2020-03-01,Albania,Southern Albania,Vlorë County,sarande,0,2,0,0,24,,17009.0
+2020-04-01,Albania,Southern Albania,Vlorë County,sarande,0,0,0,0,20,,0.0
+2020-05-01,Albania,Southern Albania,Vlorë County,sarande,0,7,0,0,32,,38098.0
+2020-06-01,Albania,Southern Albania,Vlorë County,sarande,0,14,0,0,33,,104513.0
+2020-07-01,Albania,Southern Albania,Vlorë County,sarande,0,35,0,10,28,,340007.0
+2020-08-01,Albania,Southern Albania,Vlorë County,sarande,0,37,0,18,29,,568284.0
+2020-09-01,Albania,Southern Albania,Vlorë County,sarande,0,7,0,10,22,,185724.0
+2020-10-01,Albania,Southern Albania,Vlorë County,sarande,0,2,0,0,15,,71242.0
+2020-11-01,Albania,Southern Albania,Vlorë County,sarande,0,0,0,0,15,,
+2020-12-01,Albania,Southern Albania,Vlorë County,sarande,0,0,0,0,20,,
+2021-01-01,Albania,Southern Albania,Vlorë County,sarande,0,0,0,0,16,,55030.0
+2021-02-01,Albania,Southern Albania,Vlorë County,sarande,0,3,0,0,12,,54924.0
+2021-03-01,Albania,Southern Albania,Vlorë County,sarande,0,4,0,0,10,,55045.0
+2021-04-01,Albania,Southern Albania,Vlorë County,sarande,0,4,0,0,11,,87134.0
+2021-05-01,Albania,Southern Albania,Vlorë County,sarande,0,11,0,3,15,,142095.0
+2021-06-01,Albania,Southern Albania,Vlorë County,sarande,2,19,0,9,22,,324474.0
+2021-07-01,Albania,Southern Albania,Vlorë County,sarande,0,35,0,25,63,,697052.0
+2021-08-01,Albania,Southern Albania,Vlorë County,sarande,0,44,0,37,47,,986183.0
+2021-09-01,Albania,Southern Albania,Vlorë County,sarande,0,7,0,10,31,,377091.0
+2021-10-01,Albania,Southern Albania,Vlorë County,sarande,0,2,0,0,31,,151723.0
+2021-11-01,Albania,Southern Albania,Vlorë County,sarande,0,3,0,3,16,,131065.0
+2021-12-01,Albania,Southern Albania,Vlorë County,sarande,0,2,0,0,28,,123140.0
+2022-01-01,Albania,Southern Albania,Vlorë County,sarande,0,3,0,0,25,,112180.0
+2022-02-01,Albania,Southern Albania,Vlorë County,sarande,0,2,0,0,15,,103768.0
+2022-03-01,Albania,Southern Albania,Vlorë County,sarande,0,5,0,0,13,,113136.0
+2022-04-01,Albania,Southern Albania,Vlorë County,sarande,0,6,0,0,19,,138541.0
+2022-05-01,Albania,Southern Albania,Vlorë County,sarande,0,12,0,3,24,,265738.0
+2022-06-01,Albania,Southern Albania,Vlorë County,sarande,0,19,0,16,34,,447438.0
+2022-07-01,Albania,Southern Albania,Vlorë County,sarande,0,31,0,37,54,,801208.0
+2022-08-01,Albania,Southern Albania,Vlorë County,sarande,0,35,0,57,49,,961887.0
+2022-09-01,Albania,Southern Albania,Vlorë County,sarande,0,17,0,24,41,,437018.0
+2022-10-01,Albania,Southern Albania,Vlorë County,sarande,0,5,0,4,17,,201009.0
+2022-11-01,Albania,Southern Albania,Vlorë County,sarande,0,3,0,0,25,,127511.0
+2022-12-01,Albania,Southern Albania,Vlorë County,sarande,0,4,0,0,14,,121895.0
+2023-01-01,Albania,Southern Albania,Vlorë County,sarande,0,4,0,0,75,,113635.0
+2023-02-01,Albania,Southern Albania,Vlorë County,sarande,0,9,0,0,25,,110155.0
+2023-03-01,Albania,Southern Albania,Vlorë County,sarande,0,5,0,0,22,,154007.0
+2023-04-01,Albania,Southern Albania,Vlorë County,sarande,0,9,0,2,24,,250769.0
+2023-05-01,Albania,Southern Albania,Vlorë County,sarande,0,16,0,8,33,,389789.0
+2023-06-01,Albania,Southern Albania,Vlorë County,sarande,0,26,0,36,41,,683713.0
+2023-07-01,Albania,Southern Albania,Vlorë County,sarande,2,33,0,76,58,,1187417.0
+2023-08-01,Albania,Southern Albania,Vlorë County,sarande,0,38,0,100,53,,1524990.0
+2023-09-01,Albania,Southern Albania,Vlorë County,sarande,0,15,0,51,50,,820741.0
+2023-10-01,Albania,Southern Albania,Vlorë County,sarande,0,6,0,7,18,,339285.0
+2023-11-01,Albania,Southern Albania,Vlorë County,sarande,0,4,0,3,14,,229230.0
+2023-12-01,Albania,Southern Albania,Vlorë County,sarande,0,5,0,0,14,,204123.0
+2024-01-01,Albania,Southern Albania,Vlorë County,sarande,0,6,0,0,9,,169714.0
+2024-02-01,Albania,Southern Albania,Vlorë County,sarande,0,6,0,0,7,,168756.0
+2024-03-01,Albania,Southern Albania,Vlorë County,sarande,0,8,0,3,13,,224868.0
+2024-04-01,Albania,Southern Albania,Vlorë County,sarande,0,16,0,9,21,,391836.0
+2024-05-01,Albania,Southern Albania,Vlorë County,sarande,0,21,0,23,35,,510285.0
+2024-06-01,Albania,Southern Albania,Vlorë County,sarande,0,24,0,45,43,,869073.0
+2024-07-01,Albania,Southern Albania,Vlorë County,sarande,0,32,0,71,49,,1378296.0
+2024-08-01,Albania,Southern Albania,Vlorë County,sarande,0,34,0,91,49,,1697681.0
+2024-09-01,Albania,Southern Albania,Vlorë County,sarande,0,16,0,47,46,,994932.0
+2024-10-01,Albania,Southern Albania,Vlorë County,sarande,0,7,0,10,26,,488388.0
+2024-11-01,Albania,Southern Albania,Vlorë County,sarande,0,4,0,2,9,,311262.0
+2024-12-01,Albania,Southern Albania,Vlorë County,sarande,0,4,0,0,8,,240623.0
+2025-01-01,Albania,Southern Albania,Vlorë County,sarande,0,5,0,0,11,,230420.0
+2025-02-01,Albania,Southern Albania,Vlorë County,sarande,0,4,0,0,10,,226431.0
+2025-03-01,Albania,Southern Albania,Vlorë County,sarande,0,8,0,0,9,,294082.0
+2025-04-01,Albania,Southern Albania,Vlorë County,sarande,0,12,0,7,18,,475233.0
+2025-05-01,Albania,Southern Albania,Vlorë County,sarande,0,17,0,16,30,,671231.0
+2025-06-01,Albania,Southern Albania,Vlorë County,sarande,0,26,0,54,31,,1201253.0
+2025-07-01,Albania,Southern Albania,Vlorë County,sarande,0,32,0,89,40,,1839778.0
+2025-08-01,Albania,Southern Albania,Vlorë County,sarande,0,33,0,96,44,,2263355.0
+2025-09-01,Albania,Southern Albania,Vlorë County,sarande,0,17,0,54,43,,1189483.0
+2025-10-01,Albania,Southern Albania,Vlorë County,sarande,0,7,0,8,18,,573215.0
+2025-11-01,Albania,Southern Albania,Vlorë County,sarande,0,4,0,0,6,,404055.0
+2025-12-01,Albania,Southern Albania,Vlorë County,sarande,0,0,0,0,7,,303555.0
+2026-01-01,Albania,Southern Albania,Vlorë County,sarande,0,3,0,0,13,,254775.0
+2026-02-01,Albania,Southern Albania,Vlorë County,sarande,0,2,0,0,7,,
+2026-03-01,Albania,Southern Albania,Vlorë County,sarande,0,7,0,2,8,,
+2020-01-01,Albania,Northern Albania,Shkodër County,shkoder,0,30,0,0,0,0.0,96566.0
+2020-02-01,Albania,Northern Albania,Shkodër County,shkoder,0,34,0,0,0,0.0,63781.0
+2020-03-01,Albania,Northern Albania,Shkodër County,shkoder,0,12,0,0,0,0.0,17009.0
+2020-04-01,Albania,Northern Albania,Shkodër County,shkoder,0,0,0,0,0,100.0,0.0
+2020-05-01,Albania,Northern Albania,Shkodër County,shkoder,0,0,0,0,0,0.0,38098.0
+2020-06-01,Albania,Northern Albania,Shkodër County,shkoder,0,18,0,0,0,0.0,104513.0
+2020-07-01,Albania,Northern Albania,Shkodër County,shkoder,0,25,0,0,0,0.0,340007.0
+2020-08-01,Albania,Northern Albania,Shkodër County,shkoder,0,36,0,0,0,0.0,568284.0
+2020-09-01,Albania,Northern Albania,Shkodër County,shkoder,0,26,0,0,0,0.0,185724.0
+2020-10-01,Albania,Northern Albania,Shkodër County,shkoder,0,23,0,0,0,0.0,71242.0
+2020-11-01,Albania,Northern Albania,Shkodër County,shkoder,0,17,0,0,0,0.0,
+2020-12-01,Albania,Northern Albania,Shkodër County,shkoder,0,28,0,0,0,0.0,
+2021-01-01,Albania,Northern Albania,Shkodër County,shkoder,0,23,0,0,0,0.0,55030.0
+2021-02-01,Albania,Northern Albania,Shkodër County,shkoder,0,20,0,0,0,0.0,54924.0
+2021-03-01,Albania,Northern Albania,Shkodër County,shkoder,0,20,0,0,0,0.0,55045.0
+2021-04-01,Albania,Northern Albania,Shkodër County,shkoder,0,24,0,0,0,0.0,87134.0
+2021-05-01,Albania,Northern Albania,Shkodër County,shkoder,0,27,0,0,0,0.0,142095.0
+2021-06-01,Albania,Northern Albania,Shkodër County,shkoder,0,42,0,0,0,0.0,324474.0
+2021-07-01,Albania,Northern Albania,Shkodër County,shkoder,0,41,0,0,0,0.0,697052.0
+2021-08-01,Albania,Northern Albania,Shkodër County,shkoder,0,57,0,0,0,0.0,986183.0
+2021-09-01,Albania,Northern Albania,Shkodër County,shkoder,0,47,0,0,0,0.0,377091.0
+2021-10-01,Albania,Northern Albania,Shkodër County,shkoder,0,33,0,0,0,0.0,151723.0
+2021-11-01,Albania,Northern Albania,Shkodër County,shkoder,0,28,0,0,0,0.0,131065.0
+2021-12-01,Albania,Northern Albania,Shkodër County,shkoder,0,32,0,0,0,0.0,123140.0
+2022-01-01,Albania,Northern Albania,Shkodër County,shkoder,0,32,0,0,0,0.0,112180.0
+2022-02-01,Albania,Northern Albania,Shkodër County,shkoder,0,38,0,0,0,0.0,103768.0
+2022-03-01,Albania,Northern Albania,Shkodër County,shkoder,0,34,0,0,0,0.0,113136.0
+2022-04-01,Albania,Northern Albania,Shkodër County,shkoder,0,29,0,0,0,0.0,138541.0
+2022-05-01,Albania,Northern Albania,Shkodër County,shkoder,0,36,0,0,0,0.0,265738.0
+2022-06-01,Albania,Northern Albania,Shkodër County,shkoder,0,45,0,0,0,0.0,447438.0
+2022-07-01,Albania,Northern Albania,Shkodër County,shkoder,0,63,0,0,12,0.0,801208.0
+2022-08-01,Albania,Northern Albania,Shkodër County,shkoder,0,85,0,0,17,0.0,961887.0
+2022-09-01,Albania,Northern Albania,Shkodër County,shkoder,0,51,0,0,18,0.0,437018.0
+2022-10-01,Albania,Northern Albania,Shkodër County,shkoder,0,50,0,0,0,0.0,201009.0
+2022-11-01,Albania,Northern Albania,Shkodër County,shkoder,0,36,0,0,0,0.0,127511.0
+2022-12-01,Albania,Northern Albania,Shkodër County,shkoder,0,33,0,0,0,0.0,121895.0
+2023-01-01,Albania,Northern Albania,Shkodër County,shkoder,0,32,0,0,0,0.0,113635.0
+2023-02-01,Albania,Northern Albania,Shkodër County,shkoder,0,37,0,0,0,0.0,110155.0
+2023-03-01,Albania,Northern Albania,Shkodër County,shkoder,0,33,0,0,0,0.0,154007.0
+2023-04-01,Albania,Northern Albania,Shkodër County,shkoder,0,51,0,0,0,0.0,250769.0
+2023-05-01,Albania,Northern Albania,Shkodër County,shkoder,0,40,0,0,9,0.0,389789.0
+2023-06-01,Albania,Northern Albania,Shkodër County,shkoder,0,39,0,0,18,0.0,683713.0
+2023-07-01,Albania,Northern Albania,Shkodër County,shkoder,0,79,0,0,29,0.0,1187417.0
+2023-08-01,Albania,Northern Albania,Shkodër County,shkoder,0,92,0,0,27,0.0,1524990.0
+2023-09-01,Albania,Northern Albania,Shkodër County,shkoder,0,71,0,11,20,0.0,820741.0
+2023-10-01,Albania,Northern Albania,Shkodër County,shkoder,0,46,0,10,13,0.0,339285.0
+2023-11-01,Albania,Northern Albania,Shkodër County,shkoder,0,32,0,0,0,0.0,229230.0
+2023-12-01,Albania,Northern Albania,Shkodër County,shkoder,0,54,0,0,0,0.0,204123.0
+2024-01-01,Albania,Northern Albania,Shkodër County,shkoder,0,43,0,0,11,0.0,169714.0
+2024-02-01,Albania,Northern Albania,Shkodër County,shkoder,0,51,0,0,0,0.0,168756.0
+2024-03-01,Albania,Northern Albania,Shkodër County,shkoder,0,44,0,0,12,0.0,224868.0
+2024-04-01,Albania,Northern Albania,Shkodër County,shkoder,0,49,0,0,0,0.0,391836.0
+2024-05-01,Albania,Northern Albania,Shkodër County,shkoder,0,46,0,0,18,0.0,510285.0
+2024-06-01,Albania,Northern Albania,Shkodër County,shkoder,0,58,0,14,31,0.0,869073.0
+2024-07-01,Albania,Northern Albania,Shkodër County,shkoder,0,91,0,12,38,0.0,1378296.0
+2024-08-01,Albania,Northern Albania,Shkodër County,shkoder,0,100,0,0,29,0.0,1697681.0
+2024-09-01,Albania,Northern Albania,Shkodër County,shkoder,0,67,0,10,12,0.0,994932.0
+2024-10-01,Albania,Northern Albania,Shkodër County,shkoder,0,65,0,0,14,0.0,488388.0
+2024-11-01,Albania,Northern Albania,Shkodër County,shkoder,0,36,0,0,0,0.0,311262.0
+2024-12-01,Albania,Northern Albania,Shkodër County,shkoder,0,50,0,0,0,0.0,240623.0
+2025-01-01,Albania,Northern Albania,Shkodër County,shkoder,0,35,0,0,0,0.0,230420.0
+2025-02-01,Albania,Northern Albania,Shkodër County,shkoder,0,27,0,0,0,0.0,226431.0
+2025-03-01,Albania,Northern Albania,Shkodër County,shkoder,0,32,0,0,0,0.0,294082.0
+2025-04-01,Albania,Northern Albania,Shkodër County,shkoder,0,53,0,0,0,0.0,475233.0
+2025-05-01,Albania,Northern Albania,Shkodër County,shkoder,0,59,0,0,13,0.0,671231.0
+2025-06-01,Albania,Northern Albania,Shkodër County,shkoder,0,38,0,0,20,0.0,1201253.0
+2025-07-01,Albania,Northern Albania,Shkodër County,shkoder,0,71,0,0,27,0.0,1839778.0
+2025-08-01,Albania,Northern Albania,Shkodër County,shkoder,0,78,0,12,28,0.0,2263355.0
+2025-09-01,Albania,Northern Albania,Shkodër County,shkoder,0,45,0,0,20,0.0,1189483.0
+2025-10-01,Albania,Northern Albania,Shkodër County,shkoder,0,37,0,0,0,0.0,573215.0
+2025-11-01,Albania,Northern Albania,Shkodër County,shkoder,0,33,0,0,0,0.0,404055.0
+2025-12-01,Albania,Northern Albania,Shkodër County,shkoder,0,48,0,0,0,0.0,303555.0
+2026-01-01,Albania,Northern Albania,Shkodër County,shkoder,0,34,0,0,0,0.0,254775.0
+2026-02-01,Albania,Northern Albania,Shkodër County,shkoder,0,26,0,0,0,0.0,
+2026-03-01,Albania,Northern Albania,Shkodër County,shkoder,0,31,0,0,0,0.0,
+2020-01-01,Albania,Central Albania,Tirana County,tirana,4,46,36,0,0,,96566.0
+2020-02-01,Albania,Central Albania,Tirana County,tirana,2,40,24,0,0,,63781.0
+2020-03-01,Albania,Central Albania,Tirana County,tirana,0,20,17,0,0,,17009.0
+2020-04-01,Albania,Central Albania,Tirana County,tirana,0,8,4,0,0,,0.0
+2020-05-01,Albania,Central Albania,Tirana County,tirana,0,11,7,0,0,,38098.0
+2020-06-01,Albania,Central Albania,Tirana County,tirana,2,20,15,0,0,,104513.0
+2020-07-01,Albania,Central Albania,Tirana County,tirana,0,25,15,0,0,,340007.0
+2020-08-01,Albania,Central Albania,Tirana County,tirana,3,30,17,0,0,,568284.0
+2020-09-01,Albania,Central Albania,Tirana County,tirana,4,30,13,0,0,,185724.0
+2020-10-01,Albania,Central Albania,Tirana County,tirana,2,29,9,0,0,,71242.0
+2020-11-01,Albania,Central Albania,Tirana County,tirana,2,24,10,0,0,,
+2020-12-01,Albania,Central Albania,Tirana County,tirana,3,24,12,0,0,,
+2021-01-01,Albania,Central Albania,Tirana County,tirana,2,29,16,0,0,,55030.0
+2021-02-01,Albania,Central Albania,Tirana County,tirana,3,23,10,0,0,,54924.0
+2021-03-01,Albania,Central Albania,Tirana County,tirana,4,22,9,0,0,,55045.0
+2021-04-01,Albania,Central Albania,Tirana County,tirana,3,25,9,0,0,,87134.0
+2021-05-01,Albania,Central Albania,Tirana County,tirana,4,31,14,0,0,,142095.0
+2021-06-01,Albania,Central Albania,Tirana County,tirana,4,38,22,0,0,,324474.0
+2021-07-01,Albania,Central Albania,Tirana County,tirana,4,52,26,0,0,,697052.0
+2021-08-01,Albania,Central Albania,Tirana County,tirana,3,65,33,2,0,,986183.0
+2021-09-01,Albania,Central Albania,Tirana County,tirana,4,60,23,0,0,,377091.0
+2021-10-01,Albania,Central Albania,Tirana County,tirana,4,50,26,0,0,,151723.0
+2021-11-01,Albania,Central Albania,Tirana County,tirana,4,39,23,0,0,,131065.0
+2021-12-01,Albania,Central Albania,Tirana County,tirana,2,44,20,0,0,,123140.0
+2022-01-01,Albania,Central Albania,Tirana County,tirana,3,37,30,0,0,,112180.0
+2022-02-01,Albania,Central Albania,Tirana County,tirana,4,38,27,0,0,,103768.0
+2022-03-01,Albania,Central Albania,Tirana County,tirana,5,39,30,1,0,,113136.0
+2022-04-01,Albania,Central Albania,Tirana County,tirana,3,42,35,0,0,,138541.0
+2022-05-01,Albania,Central Albania,Tirana County,tirana,8,58,41,0,0,,265738.0
+2022-06-01,Albania,Central Albania,Tirana County,tirana,6,55,41,0,0,,447438.0
+2022-07-01,Albania,Central Albania,Tirana County,tirana,7,60,44,2,0,,801208.0
+2022-08-01,Albania,Central Albania,Tirana County,tirana,7,63,49,0,0,,961887.0
+2022-09-01,Albania,Central Albania,Tirana County,tirana,7,80,48,4,0,,437018.0
+2022-10-01,Albania,Central Albania,Tirana County,tirana,7,60,38,3,0,,201009.0
+2022-11-01,Albania,Central Albania,Tirana County,tirana,6,48,37,2,0,,127511.0
+2022-12-01,Albania,Central Albania,Tirana County,tirana,6,47,30,2,0,,121895.0
+2023-01-01,Albania,Central Albania,Tirana County,tirana,4,42,38,0,0,,113635.0
+2023-02-01,Albania,Central Albania,Tirana County,tirana,5,40,34,0,0,,110155.0
+2023-03-01,Albania,Central Albania,Tirana County,tirana,4,47,38,0,0,,154007.0
+2023-04-01,Albania,Central Albania,Tirana County,tirana,3,52,39,2,0,,250769.0
+2023-05-01,Albania,Central Albania,Tirana County,tirana,5,56,36,2,0,,389789.0
+2023-06-01,Albania,Central Albania,Tirana County,tirana,7,69,39,2,0,,683713.0
+2023-07-01,Albania,Central Albania,Tirana County,tirana,7,79,37,4,2,,1187417.0
+2023-08-01,Albania,Central Albania,Tirana County,tirana,7,83,41,4,0,,1524990.0
+2023-09-01,Albania,Central Albania,Tirana County,tirana,6,89,43,3,0,,820741.0
+2023-10-01,Albania,Central Albania,Tirana County,tirana,7,76,41,0,0,,339285.0
+2023-11-01,Albania,Central Albania,Tirana County,tirana,6,61,41,2,0,,229230.0
+2023-12-01,Albania,Central Albania,Tirana County,tirana,4,64,39,3,0,,204123.0
+2024-01-01,Albania,Central Albania,Tirana County,tirana,6,51,47,0,0,,169714.0
+2024-02-01,Albania,Central Albania,Tirana County,tirana,4,58,42,0,0,,168756.0
+2024-03-01,Albania,Central Albania,Tirana County,tirana,7,61,45,2,0,,224868.0
+2024-04-01,Albania,Central Albania,Tirana County,tirana,4,73,42,0,0,,391836.0
+2024-05-01,Albania,Central Albania,Tirana County,tirana,8,83,43,6,0,,510285.0
+2024-06-01,Albania,Central Albania,Tirana County,tirana,4,80,44,5,0,,869073.0
+2024-07-01,Albania,Central Albania,Tirana County,tirana,4,88,46,6,0,,1378296.0
+2024-08-01,Albania,Central Albania,Tirana County,tirana,6,89,48,4,0,,1697681.0
+2024-09-01,Albania,Central Albania,Tirana County,tirana,5,100,47,0,0,,994932.0
+2024-10-01,Albania,Central Albania,Tirana County,tirana,5,72,50,4,0,,488388.0
+2024-11-01,Albania,Central Albania,Tirana County,tirana,7,58,39,3,0,,311262.0
+2024-12-01,Albania,Central Albania,Tirana County,tirana,7,51,42,0,0,,240623.0
+2025-01-01,Albania,Central Albania,Tirana County,tirana,6,47,45,0,0,,230420.0
+2025-02-01,Albania,Central Albania,Tirana County,tirana,7,47,46,0,0,,226431.0
+2025-03-01,Albania,Central Albania,Tirana County,tirana,5,51,48,2,0,,294082.0
+2025-04-01,Albania,Central Albania,Tirana County,tirana,5,59,44,3,0,,475233.0
+2025-05-01,Albania,Central Albania,Tirana County,tirana,6,69,41,0,0,,671231.0
+2025-06-01,Albania,Central Albania,Tirana County,tirana,5,65,37,4,0,,1201253.0
+2025-07-01,Albania,Central Albania,Tirana County,tirana,6,69,43,4,0,,1839778.0
+2025-08-01,Albania,Central Albania,Tirana County,tirana,7,75,47,3,0,,2263355.0
+2025-09-01,Albania,Central Albania,Tirana County,tirana,5,76,48,4,0,,1189483.0
+2025-10-01,Albania,Central Albania,Tirana County,tirana,7,71,48,3,0,,573215.0
+2025-11-01,Albania,Central Albania,Tirana County,tirana,5,56,60,3,0,,404055.0
+2025-12-01,Albania,Central Albania,Tirana County,tirana,7,53,51,3,0,,303555.0
+2026-01-01,Albania,Central Albania,Tirana County,tirana,3,46,53,0,0,,254775.0
+2026-02-01,Albania,Central Albania,Tirana County,tirana,4,43,42,2,0,,
+2026-03-01,Albania,Central Albania,Tirana County,tirana,6,48,46,3,0,,
+2020-01-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,5,40,5,2,0,0.0,544720.0
+2020-02-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,6,46,2,0,0,0.0,610408.0
+2020-03-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,3,26,0,0,0,0.0,289593.0
+2020-04-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,2,10,2,0,0,0.0,34063.0
+2020-05-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,4,21,2,0,0,0.0,166954.0
+2020-06-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,6,52,2,3,0,0.0,3587986.0
+2020-07-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,13,72,4,11,0,12.0,14657372.0
+2020-08-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,12,79,7,22,3,21.0,16685990.0
+2020-09-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,5,42,3,4,3,12.0,3124170.0
+2020-10-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,3,27,0,0,0,0.0,617635.0
+2020-11-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,0,15,0,0,0,0.0,268521.0
+2020-12-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,0,15,0,0,0,0.0,183932.0
+2021-01-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,3,17,0,0,0,0.0,249008.0
+2021-02-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,0,27,2,0,0,0.0,245100.0
+2021-03-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,3,28,0,0,0,0.0,359537.0
+2021-04-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,4,34,0,0,0,0.0,667922.0
+2021-05-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,5,39,3,2,0,0.0,1501484.0
+2021-06-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,10,60,4,7,0,7.0,6515509.0
+2021-07-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,11,97,5,26,2,29.0,20944793.0
+2021-08-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,15,100,8,41,5,41.0,26185693.0
+2021-09-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,13,81,6,36,4,33.0,10187844.0
+2021-10-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,6,55,5,21,3,18.0,2185210.0
+2021-11-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,2,31,0,0,0,0.0,575764.0
+2021-12-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,0,35,0,0,0,0.0,553820.0
+2022-01-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,3,31,0,0,0,0.0,505088.0
+2022-02-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,4,39,0,0,0,0.0,569773.0
+2022-03-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,5,43,3,3,0,0.0,811830.0
+2022-04-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,8,60,4,14,1,18.0,2524820.0
+2022-05-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,13,65,5,23,3,33.0,4262857.0
+2022-06-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,15,75,9,42,4,46.0,13068016.0
+2022-07-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,15,81,11,48,5,54.0,25251042.0
+2022-08-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,18,79,8,48,6,57.0,27515088.0
+2022-09-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,14,83,8,39,4,57.0,11129168.0
+2022-10-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,11,70,7,23,0,37.0,2826847.0
+2022-11-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,4,42,4,5,0,0.0,800869.0
+2022-12-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,3,40,2,2,0,0.0,739985.0
+2023-01-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,6,38,3,2,0,0.0,601576.0
+2023-02-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,6,45,2,0,0,0.0,651143.0
+2023-03-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,10,52,3,6,0,0.0,982111.0
+2023-04-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,9,63,7,21,2,22.0,3040869.0
+2023-05-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,13,69,6,32,3,40.0,5570471.0
+2023-06-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,16,83,8,49,6,65.0,13182447.0
+2023-07-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,18,78,9,55,7,71.0,25028824.0
+2023-08-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,17,79,9,53,7,57.0,26886341.0
+2023-09-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,13,78,11,44,5,54.0,11570721.0
+2023-10-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,10,71,6,25,2,34.0,3164783.0
+2023-11-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,5,43,4,3,0,0.0,822758.0
+2023-12-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,5,39,3,3,0,0.0,839104.0
+2024-01-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,4,45,3,2,2,0.0,594306.0
+2024-02-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,3,51,3,0,0,0.0,702884.0
+2024-03-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,5,56,4,6,0,0.0,1321372.0
+2024-04-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,9,76,5,29,3,42.0,2774105.0
+2024-05-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,10,73,7,43,3,57.0,6902834.0
+2024-06-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,8,75,11,58,7,78.0,12520177.0
+2024-07-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,9,88,13,61,5,87.0,25159829.0
+2024-08-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,10,83,12,59,5,81.0,27171764.0
+2024-09-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,10,79,10,54,3,73.0,11177605.0
+2024-10-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,6,67,8,35,3,57.0,3450236.0
+2024-11-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,0,45,3,6,0,8.0,988398.0
+2024-12-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,3,42,3,3,0,0.0,880186.0
+2025-01-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,2,35,0,2,0,0.0,650191.0
+2025-02-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,5,41,0,0,0,0.0,707655.0
+2025-03-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,3,44,2,7,0,9.0,1001810.0
+2025-04-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,6,58,6,28,3,48.0,3285477.0
+2025-05-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,8,66,5,48,7,73.0,5868629.0
+2025-06-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,7,77,10,67,7,95.0,14338131.0
+2025-07-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,9,75,13,68,7,88.0,24949182.0
+2025-08-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,7,81,11,75,3,99.0,26698687.0
+2025-09-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,7,80,13,71,8,100.0,11878893.0
+2025-10-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,4,67,9,43,4,43.0,3534395.0
+2025-11-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,3,49,5,8,0,0.0,931046.0
+2025-12-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,0,47,4,4,0,0.0,941480.0
+2026-01-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,3,36,4,3,0,0.0,666278.0
+2026-02-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,0,37,0,0,0,0.0,
+2026-03-01,Croatia,Adriatic Croatia,Dubrovačko-neretvanska županija,dubrovnik,4,51,4,12,0,12.0,
+2020-01-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,52,7,13,43,,544720.0
+2020-02-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,54,0,10,33,,610408.0
+2020-03-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,18,0,13,36,,289593.0
+2020-04-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,12,0,8,52,,34063.0
+2020-05-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,25,0,12,91,,166954.0
+2020-06-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,45,0,20,79,,3587986.0
+2020-07-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,40,0,6,23,,14657372.0
+2020-08-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,36,0,7,39,,16685990.0
+2020-09-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,48,0,11,33,,3124170.0
+2020-10-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,41,0,8,35,,617635.0
+2020-11-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,32,0,16,45,,268521.0
+2020-12-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,25,0,9,30,,183932.0
+2021-01-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,29,0,0,38,,249008.0
+2021-02-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,37,0,9,54,,245100.0
+2021-03-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,30,0,7,44,,359537.0
+2021-04-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,45,0,16,72,,667922.0
+2021-05-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,44,0,12,100,,1501484.0
+2021-06-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,57,0,17,68,,6515509.0
+2021-07-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,45,0,12,21,,20944793.0
+2021-08-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,41,0,9,33,,26185693.0
+2021-09-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,62,0,18,45,,10187844.0
+2021-10-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,9,55,0,12,60,,2185210.0
+2021-11-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,54,0,13,38,,575764.0
+2021-12-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,56,0,12,23,,553820.0
+2022-01-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,50,0,14,40,,505088.0
+2022-02-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,59,0,6,44,,569773.0
+2022-03-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,6,48,0,14,52,,811830.0
+2022-04-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,9,59,0,14,66,,2524820.0
+2022-05-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,6,71,0,12,76,,4262857.0
+2022-06-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,43,0,17,51,,13068016.0
+2022-07-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,47,0,6,27,,25251042.0
+2022-08-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,48,0,12,29,,27515088.0
+2022-09-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,71,0,14,31,,11129168.0
+2022-10-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,73,9,17,58,,2826847.0
+2022-11-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,80,0,14,41,,800869.0
+2022-12-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,55,8,20,18,,739985.0
+2023-01-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,63,0,18,39,,601576.0
+2023-02-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,65,0,12,40,,651143.0
+2023-03-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,59,5,10,43,,982111.0
+2023-04-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,58,0,10,63,,3040869.0
+2023-05-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,54,0,13,56,,5570471.0
+2023-06-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,6,51,0,17,39,,13182447.0
+2023-07-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,39,4,6,21,,25028824.0
+2023-08-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,47,4,11,23,,26886341.0
+2023-09-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,60,12,22,33,,11570721.0
+2023-10-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,87,0,18,35,,3164783.0
+2023-11-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,65,0,16,34,,822758.0
+2023-12-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,52,0,19,18,,839104.0
+2024-01-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,57,0,13,30,,594306.0
+2024-02-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,7,66,0,11,31,,702884.0
+2024-03-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,61,0,12,31,,1321372.0
+2024-04-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,9,73,0,11,55,,2774105.0
+2024-05-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,64,0,19,59,,6902834.0
+2024-06-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,56,0,17,32,,12520177.0
+2024-07-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,44,0,11,13,,25159829.0
+2024-08-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,47,0,0,18,,27171764.0
+2024-09-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,70,0,9,29,,11177605.0
+2024-10-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,83,0,16,37,,3450236.0
+2024-11-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,6,72,0,18,32,,988398.0
+2024-12-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,68,0,20,11,,880186.0
+2025-01-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,60,0,12,27,,650191.0
+2025-02-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,67,0,10,28,,707655.0
+2025-03-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,51,0,12,30,,1001810.0
+2025-04-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,53,0,13,46,,3285477.0
+2025-05-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,63,0,13,58,,5868629.0
+2025-06-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,52,0,0,21,,14338131.0
+2025-07-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,41,7,9,19,,24949182.0
+2025-08-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,57,0,14,13,,26698687.0
+2025-09-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,68,0,8,31,,11878893.0
+2025-10-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,79,0,16,34,,3534395.0
+2025-11-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,70,0,16,26,,931046.0
+2025-12-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,55,8,20,18,,941480.0
+2026-01-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,49,0,0,21,,666278.0
+2026-02-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,56,0,7,27,,
+2026-03-01,Croatia,Pannonian Croatia,Osječko-baranjska županija,osijek,0,49,0,12,37,,
+2020-01-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,8,50,12,0,0,29.0,544720.0
+2020-02-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,8,61,6,0,0,31.0,610408.0
+2020-03-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,4,31,4,0,0,34.0,289593.0
+2020-04-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,3,11,0,0,0,24.0,34063.0
+2020-05-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,6,29,3,0,0,41.0,166954.0
+2020-06-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,10,46,4,0,0,40.0,3587986.0
+2020-07-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,17,60,4,0,0,61.0,14657372.0
+2020-08-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,14,66,11,4,2,70.0,16685990.0
+2020-09-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,4,45,5,0,0,28.0,3124170.0
+2020-10-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,5,35,4,0,0,31.0,617635.0
+2020-11-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,2,33,3,0,0,22.0,268521.0
+2020-12-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,2,26,2,0,0,43.0,183932.0
+2021-01-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,2,33,2,0,0,30.0,249008.0
+2021-02-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,4,36,2,0,0,37.0,245100.0
+2021-03-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,3,33,0,0,0,40.0,359537.0
+2021-04-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,5,40,0,0,0,29.0,667922.0
+2021-05-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,7,44,5,0,0,44.0,1501484.0
+2021-06-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,13,56,5,2,0,44.0,6515509.0
+2021-07-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,16,90,8,4,0,82.0,20944793.0
+2021-08-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,21,100,9,5,2,90.0,26185693.0
+2021-09-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,12,69,7,2,3,43.0,10187844.0
+2021-10-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,6,61,7,3,0,41.0,2185210.0
+2021-11-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,4,43,6,0,0,28.0,575764.0
+2021-12-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,3,43,4,0,0,41.0,553820.0
+2022-01-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,4,41,6,0,0,27.0,505088.0
+2022-02-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,6,51,6,0,0,30.0,569773.0
+2022-03-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,7,57,7,1,0,43.0,811830.0
+2022-04-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,10,64,10,0,0,42.0,2524820.0
+2022-05-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,19,73,12,3,1,72.0,4262857.0
+2022-06-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,21,76,14,4,3,67.0,13068016.0
+2022-07-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,29,87,19,5,3,70.0,25251042.0
+2022-08-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,21,81,16,5,3,71.0,27515088.0
+2022-09-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,17,88,14,4,2,36.0,11129168.0
+2022-10-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,13,65,11,2,0,41.0,2826847.0
+2022-11-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,9,48,9,0,0,32.0,800869.0
+2022-12-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,9,47,6,0,0,83.0,739985.0
+2023-01-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,9,54,9,0,0,44.0,601576.0
+2023-02-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,11,60,7,0,0,34.0,651143.0
+2023-03-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,15,66,11,0,0,48.0,982111.0
+2023-04-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,18,76,11,0,0,49.0,3040869.0
+2023-05-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,21,78,12,3,3,80.0,5570471.0
+2023-06-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,23,81,15,3,3,63.0,13182447.0
+2023-07-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,30,82,17,6,3,81.0,25028824.0
+2023-08-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,27,85,18,7,3,87.0,26886341.0
+2023-09-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,17,87,18,6,3,79.0,11570721.0
+2023-10-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,11,65,13,2,2,41.0,3164783.0
+2023-11-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,8,57,10,0,0,34.0,822758.0
+2023-12-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,6,51,9,0,0,68.0,839104.0
+2024-01-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,7,59,8,0,0,41.0,594306.0
+2024-02-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,6,72,10,0,0,38.0,702884.0
+2024-03-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,7,65,10,0,0,48.0,1321372.0
+2024-04-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,11,70,8,2,2,49.0,2774105.0
+2024-05-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,14,80,12,3,4,76.0,6902834.0
+2024-06-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,17,78,17,6,4,66.0,12520177.0
+2024-07-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,17,86,22,7,3,90.0,25159829.0
+2024-08-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,16,84,18,5,4,91.0,27171764.0
+2024-09-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,15,77,19,5,4,43.0,11177605.0
+2024-10-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,9,68,12,3,3,47.0,3450236.0
+2024-11-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,5,58,9,0,0,56.0,988398.0
+2024-12-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,8,49,7,0,0,80.0,880186.0
+2025-01-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,6,51,7,0,0,33.0,650191.0
+2025-02-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,5,55,7,0,0,39.0,707655.0
+2025-03-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,9,59,7,0,0,42.0,1001810.0
+2025-04-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,10,61,11,2,3,45.0,3285477.0
+2025-05-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,12,68,15,5,5,74.0,5868629.0
+2025-06-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,14,70,16,6,6,77.0,14338131.0
+2025-07-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,16,70,21,6,5,82.0,24949182.0
+2025-08-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,11,80,16,8,5,100.0,26698687.0
+2025-09-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,11,78,17,7,6,63.0,11878893.0
+2025-10-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,6,69,15,4,3,43.0,3534395.0
+2025-11-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,6,57,13,0,0,44.0,931046.0
+2025-12-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,3,56,12,0,0,71.0,941480.0
+2026-01-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,4,52,10,0,0,32.0,666278.0
+2026-02-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,4,61,10,0,0,36.0,
+2026-03-01,Croatia,Adriatic Croatia,Splitsko-dalmatinska županija,split,6,61,11,0,0,49.0,
+2020-01-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,1,,544720.0
+2020-02-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,1,,610408.0
+2020-03-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,2,0,0,1,,289593.0
+2020-04-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,0,0,0,1,,34063.0
+2020-05-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,3,0,0,2,,166954.0
+2020-06-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,5,,3587986.0
+2020-07-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,3,,14657372.0
+2020-08-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,3,0,0,6,,16685990.0
+2020-09-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,1,,3124170.0
+2020-10-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,3,0,0,0,,617635.0
+2020-11-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,2,0,0,0,,268521.0
+2020-12-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,2,0,0,1,,183932.0
+2021-01-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,2,0,0,0,,249008.0
+2021-02-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,3,0,0,0,,245100.0
+2021-03-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,0,,359537.0
+2021-04-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,0,,667922.0
+2021-05-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,3,0,0,0,,1501484.0
+2021-06-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,3,,6515509.0
+2021-07-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,7,,20944793.0
+2021-08-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,6,0,0,70,,26185693.0
+2021-09-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,1,5,0,0,2,,10187844.0
+2021-10-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,1,,2185210.0
+2021-11-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,0,,575764.0
+2021-12-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,0,,553820.0
+2022-01-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,0,,505088.0
+2022-02-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,1,0,,569773.0
+2022-03-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,0,,811830.0
+2022-04-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,1,4,0,0,1,,2524820.0
+2022-05-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,6,0,0,2,,4262857.0
+2022-06-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,4,,13068016.0
+2022-07-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,1,4,0,0,16,,25251042.0
+2022-08-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,90,,27515088.0
+2022-09-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,2,,11129168.0
+2022-10-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,6,0,0,1,,2826847.0
+2022-11-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,6,0,0,1,,800869.0
+2022-12-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,0,,739985.0
+2023-01-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,0,,601576.0
+2023-02-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,0,,651143.0
+2023-03-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,1,,982111.0
+2023-04-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,2,,3040869.0
+2023-05-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,2,,5570471.0
+2023-06-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,9,,13182447.0
+2023-07-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,3,0,0,16,,25028824.0
+2023-08-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,93,,26886341.0
+2023-09-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,2,,11570721.0
+2023-10-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,0,,3164783.0
+2023-11-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,1,,822758.0
+2023-12-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,7,0,0,0,,839104.0
+2024-01-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,6,0,0,1,,594306.0
+2024-02-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,6,0,0,0,,702884.0
+2024-03-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,6,0,0,0,,1321372.0
+2024-04-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,6,0,0,3,,2774105.0
+2024-05-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,5,,6902834.0
+2024-06-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,8,,12520177.0
+2024-07-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,14,,25159829.0
+2024-08-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,100,,27171764.0
+2024-09-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,6,,11177605.0
+2024-10-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,1,,3450236.0
+2024-11-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,0,,988398.0
+2024-12-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,0,,880186.0
+2025-01-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,0,,650191.0
+2025-02-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,1,,707655.0
+2025-03-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,0,,1001810.0
+2025-04-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,2,,3285477.0
+2025-05-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,2,,5868629.0
+2025-06-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,3,0,0,6,,14338131.0
+2025-07-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,15,,24949182.0
+2025-08-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,87,,26698687.0
+2025-09-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,5,,11878893.0
+2025-10-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,0,,3534395.0
+2025-11-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,6,0,0,0,,931046.0
+2025-12-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,5,0,0,0,,941480.0
+2026-01-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,2,,666278.0
+2026-02-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,0,,
+2026-03-01,Croatia,Northern Croatia,Varaždinska županija,varazdin,0,4,0,0,0,,
+2020-01-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,8,70,27,0,0,26.0,544720.0
+2020-02-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,66,13,0,0,32.0,610408.0
+2020-03-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,3,33,12,1,0,15.0,289593.0
+2020-04-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,1,19,5,2,0,32.0,34063.0
+2020-05-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,3,26,6,0,0,66.0,166954.0
+2020-06-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,4,41,8,0,0,53.0,3587986.0
+2020-07-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,4,41,7,0,0,23.0,14657372.0
+2020-08-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,41,8,0,0,31.0,16685990.0
+2020-09-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,46,7,0,0,52.0,3124170.0
+2020-10-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,4,39,7,0,0,60.0,617635.0
+2020-11-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,4,33,5,0,0,38.0,268521.0
+2020-12-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,3,33,7,0,0,31.0,183932.0
+2021-01-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,3,36,8,0,0,22.0,249008.0
+2021-02-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,3,38,5,0,0,36.0,245100.0
+2021-03-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,5,37,4,0,0,48.0,359537.0
+2021-04-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,4,36,5,0,0,55.0,667922.0
+2021-05-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,5,41,8,0,0,36.0,1501484.0
+2021-06-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,5,46,9,0,0,53.0,6515509.0
+2021-07-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,51,12,1,0,41.0,20944793.0
+2021-08-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,5,49,11,2,0,43.0,26185693.0
+2021-09-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,5,57,11,2,0,43.0,10187844.0
+2021-10-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,61,13,2,0,55.0,2185210.0
+2021-11-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,52,14,0,0,42.0,575764.0
+2021-12-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,65,14,0,0,31.0,553820.0
+2022-01-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,49,15,0,0,28.0,505088.0
+2022-02-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,50,19,0,0,38.0,569773.0
+2022-03-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,9,56,18,0,0,62.0,811830.0
+2022-04-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,9,60,23,1,0,67.0,2524820.0
+2022-05-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,10,63,22,0,0,81.0,4262857.0
+2022-06-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,8,62,21,0,0,62.0,13068016.0
+2022-07-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,54,19,2,0,41.0,25251042.0
+2022-08-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,55,22,1,0,36.0,27515088.0
+2022-09-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,8,69,24,1,0,53.0,11129168.0
+2022-10-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,9,72,25,1,0,79.0,2826847.0
+2022-11-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,11,77,20,0,0,41.0,800869.0
+2022-12-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,9,82,21,0,0,35.0,739985.0
+2023-01-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,58,25,0,0,39.0,601576.0
+2023-02-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,63,24,0,0,52.0,651143.0
+2023-03-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,8,63,24,0,0,70.0,982111.0
+2023-04-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,9,80,24,0,0,80.0,3040869.0
+2023-05-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,72,22,1,0,74.0,5570471.0
+2023-06-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,68,21,1,0,60.0,13182447.0
+2023-07-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,63,24,2,0,45.0,25028824.0
+2023-08-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,63,24,2,0,40.0,26886341.0
+2023-09-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,83,23,2,0,54.0,11570721.0
+2023-10-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,8,77,24,0,0,67.0,3164783.0
+2023-11-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,8,82,25,1,0,45.0,822758.0
+2023-12-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,10,100,23,1,0,55.0,839104.0
+2024-01-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,66,27,0,0,48.0,594306.0
+2024-02-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,72,32,0,0,45.0,702884.0
+2024-03-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,69,23,2,0,67.0,1321372.0
+2024-04-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,5,80,25,1,0,100.0,2774105.0
+2024-05-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,76,24,2,2,84.0,6902834.0
+2024-06-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,4,67,23,2,0,60.0,12520177.0
+2024-07-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,62,23,2,0,55.0,25159829.0
+2024-08-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,59,24,0,0,52.0,27171764.0
+2024-09-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,78,28,2,0,59.0,11177605.0
+2024-10-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,79,27,0,0,70.0,3450236.0
+2024-11-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,81,23,0,0,57.0,988398.0
+2024-12-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,83,26,2,0,41.0,880186.0
+2025-01-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,5,61,27,0,0,51.0,650191.0
+2025-02-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,62,26,0,0,51.0,707655.0
+2025-03-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,3,59,25,0,0,65.0,1001810.0
+2025-04-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,59,22,2,0,79.0,3285477.0
+2025-05-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,5,58,22,3,0,82.0,5868629.0
+2025-06-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,55,21,0,0,53.0,14338131.0
+2025-07-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,4,52,24,1,0,62.0,24949182.0
+2025-08-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,3,53,24,2,0,48.0,26698687.0
+2025-09-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,3,68,26,1,0,70.0,11878893.0
+2025-10-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,4,81,31,0,0,65.0,3534395.0
+2025-11-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,6,89,37,0,0,35.0,931046.0
+2025-12-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,5,86,33,2,0,27.0,941480.0
+2026-01-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,7,63,38,0,0,31.0,666278.0
+2026-02-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,4,72,31,0,0,38.0,
+2026-03-01,Croatia,City of Zagreb,Grad Zagreb,zagreb,3,66,32,2,0,78.0,
+2020-01-01,Italy,North-West Italy,Lombardia,milan,2,43,13,90,3,54.0,17991284.0
+2020-02-01,Italy,North-West Italy,Lombardia,milan,3,40,16,63,3,46.0,17763905.0
+2020-03-01,Italy,North-West Italy,Lombardia,milan,0,11,6,46,1,19.0,3863237.0
+2020-04-01,Italy,North-West Italy,Lombardia,milan,0,6,2,75,1,20.0,1325236.0
+2020-05-01,Italy,North-West Italy,Lombardia,milan,0,7,4,49,1,19.0,2288349.0
+2020-06-01,Italy,North-West Italy,Lombardia,milan,1,17,4,34,1,17.0,11704846.0
+2020-07-01,Italy,North-West Italy,Lombardia,milan,2,30,6,31,1,18.0,39957570.0
+2020-08-01,Italy,North-West Italy,Lombardia,milan,2,28,5,48,2,15.0,64343840.0
+2020-09-01,Italy,North-West Italy,Lombardia,milan,1,29,4,46,1,29.0,30526126.0
+2020-10-01,Italy,North-West Italy,Lombardia,milan,1,19,4,40,1,26.0,11383735.0
+2020-11-01,Italy,North-West Italy,Lombardia,milan,0,8,4,34,1,15.0,3771653.0
+2020-12-01,Italy,North-West Italy,Lombardia,milan,1,10,4,49,1,43.0,3527304.0
+2021-01-01,Italy,North-West Italy,Lombardia,milan,1,13,4,35,1,24.0,3523071.0
+2021-02-01,Italy,North-West Italy,Lombardia,milan,1,15,4,45,1,14.0,4439497.0
+2021-03-01,Italy,North-West Italy,Lombardia,milan,1,11,3,34,1,15.0,4247842.0
+2021-04-01,Italy,North-West Italy,Lombardia,milan,2,12,3,41,1,15.0,4288406.0
+2021-05-01,Italy,North-West Italy,Lombardia,milan,1,21,5,54,1,26.0,11333102.0
+2021-06-01,Italy,North-West Italy,Lombardia,milan,2,29,5,39,1,24.0,30504121.0
+2021-07-01,Italy,North-West Italy,Lombardia,milan,2,37,8,42,2,18.0,61842706.0
+2021-08-01,Italy,North-West Italy,Lombardia,milan,2,49,8,48,3,12.0,79734403.0
+2021-09-01,Italy,North-West Italy,Lombardia,milan,2,41,8,56,2,28.0,41575248.0
+2021-10-01,Italy,North-West Italy,Lombardia,milan,2,41,9,68,3,48.0,22441211.0
+2021-11-01,Italy,North-West Italy,Lombardia,milan,2,37,9,72,2,45.0,11723237.0
+2021-12-01,Italy,North-West Italy,Lombardia,milan,2,30,7,82,3,87.0,13525298.0
+2022-01-01,Italy,North-West Italy,Lombardia,milan,2,24,7,63,2,42.0,11981957.0
+2022-02-01,Italy,North-West Italy,Lombardia,milan,3,31,12,65,2,40.0,13442993.0
+2022-03-01,Italy,North-West Italy,Lombardia,milan,3,35,12,64,2,44.0,16002578.0
+2022-04-01,Italy,North-West Italy,Lombardia,milan,3,42,12,78,2,32.0,24559355.0
+2022-05-01,Italy,North-West Italy,Lombardia,milan,5,55,13,73,3,37.0,29179070.0
+2022-06-01,Italy,North-West Italy,Lombardia,milan,4,50,17,64,3,33.0,53150195.0
+2022-07-01,Italy,North-West Italy,Lombardia,milan,4,55,17,53,3,23.0,73949512.0
+2022-08-01,Italy,North-West Italy,Lombardia,milan,3,58,14,55,5,18.0,82805286.0
+2022-09-01,Italy,North-West Italy,Lombardia,milan,5,54,15,64,4,39.0,47061933.0
+2022-10-01,Italy,North-West Italy,Lombardia,milan,4,46,14,87,4,51.0,27820865.0
+2022-11-01,Italy,North-West Italy,Lombardia,milan,3,36,11,70,3,48.0,14536527.0
+2022-12-01,Italy,North-West Italy,Lombardia,milan,2,29,11,100,4,100.0,17518261.0
+2023-01-01,Italy,North-West Italy,Lombardia,milan,3,39,12,77,3,52.0,18410981.0
+2023-02-01,Italy,North-West Italy,Lombardia,milan,3,39,14,68,3,43.0,18601577.0
+2023-03-01,Italy,North-West Italy,Lombardia,milan,3,38,15,71,3,38.0,20418232.0
+2023-04-01,Italy,North-West Italy,Lombardia,milan,4,69,13,78,4,34.0,30004667.0
+2023-05-01,Italy,North-West Italy,Lombardia,milan,4,55,14,68,4,36.0,34054110.0
+2023-06-01,Italy,North-West Italy,Lombardia,milan,3,51,16,88,5,37.0,54185713.0
+2023-07-01,Italy,North-West Italy,Lombardia,milan,3,55,18,60,6,24.0,75265166.0
+2023-08-01,Italy,North-West Italy,Lombardia,milan,3,55,14,53,7,19.0,82608306.0
+2023-09-01,Italy,North-West Italy,Lombardia,milan,4,53,16,58,5,41.0,49881526.0
+2023-10-01,Italy,North-West Italy,Lombardia,milan,4,47,15,63,5,43.0,29051851.0
+2023-11-01,Italy,North-West Italy,Lombardia,milan,2,35,13,68,4,52.0,15738290.0
+2023-12-01,Italy,North-West Italy,Lombardia,milan,2,34,12,81,5,84.0,18949630.0
+2024-01-01,Italy,North-West Italy,Lombardia,milan,2,36,14,68,4,49.0,19283941.0
+2024-02-01,Italy,North-West Italy,Lombardia,milan,3,37,15,65,3,43.0,20581607.0
+2024-03-01,Italy,North-West Italy,Lombardia,milan,4,38,13,68,4,39.0,24157263.0
+2024-04-01,Italy,North-West Italy,Lombardia,milan,3,45,14,71,5,35.0,28025516.0
+2024-05-01,Italy,North-West Italy,Lombardia,milan,3,44,15,64,5,39.0,40002340.0
+2024-06-01,Italy,North-West Italy,Lombardia,milan,3,43,15,53,5,34.0,53795179.0
+2024-07-01,Italy,North-West Italy,Lombardia,milan,3,49,17,41,5,25.0,76710786.0
+2024-08-01,Italy,North-West Italy,Lombardia,milan,4,53,14,38,5,18.0,84188928.0
+2024-09-01,Italy,North-West Italy,Lombardia,milan,4,52,18,53,5,41.0,50585783.0
+2024-10-01,Italy,North-West Italy,Lombardia,milan,4,49,17,56,4,52.0,31416979.0
+2024-11-01,Italy,North-West Italy,Lombardia,milan,3,39,14,65,4,49.0,17700164.0
+2024-12-01,Italy,North-West Italy,Lombardia,milan,3,35,12,79,4,75.0,19709559.0
+2025-01-01,Italy,North-West Italy,Lombardia,milan,4,39,14,54,3,43.0,19510118.0
+2025-02-01,Italy,North-West Italy,Lombardia,milan,3,37,15,44,4,36.0,19876181.0
+2025-03-01,Italy,North-West Italy,Lombardia,milan,3,34,15,49,3,40.0,22329886.0
+2025-04-01,Italy,North-West Italy,Lombardia,milan,3,43,15,54,5,36.0,29763626.0
+2025-05-01,Italy,North-West Italy,Lombardia,milan,3,44,14,74,4,33.0,38798137.0
+2025-06-01,Italy,North-West Italy,Lombardia,milan,3,44,19,40,4,33.0,59036969.0
+2025-07-01,Italy,North-West Italy,Lombardia,milan,3,47,18,39,5,26.0,79066124.0
+2025-08-01,Italy,North-West Italy,Lombardia,milan,4,54,17,40,5,22.0,85229731.0
+2025-09-01,Italy,North-West Italy,Lombardia,milan,3,52,17,46,4,41.0,52434818.0
+2025-10-01,Italy,North-West Italy,Lombardia,milan,3,47,18,50,4,43.0,32578759.0
+2025-11-01,Italy,North-West Italy,Lombardia,milan,3,46,29,64,4,52.0,17254247.0
+2025-12-01,Italy,North-West Italy,Lombardia,milan,2,45,25,73,4,72.0,20974953.0
+2026-01-01,Italy,North-West Italy,Lombardia,milan,3,45,25,49,4,40.0,21443453.0
+2026-02-01,Italy,North-West Italy,Lombardia,milan,5,50,27,65,4,31.0,
+2026-03-01,Italy,North-West Italy,Lombardia,milan,4,48,32,48,3,34.0,
+2020-01-01,Italy,Southern Italy,Campania,naples,0,5,2,2,29,18.0,17991284.0
+2020-02-01,Italy,Southern Italy,Campania,naples,1,6,2,2,31,18.0,17763905.0
+2020-03-01,Italy,Southern Italy,Campania,naples,0,2,1,0,13,6.0,3863237.0
+2020-04-01,Italy,Southern Italy,Campania,naples,0,0,0,0,10,6.0,1325236.0
+2020-05-01,Italy,Southern Italy,Campania,naples,0,1,1,0,12,9.0,2288349.0
+2020-06-01,Italy,Southern Italy,Campania,naples,0,2,1,1,12,21.0,11704846.0
+2020-07-01,Italy,Southern Italy,Campania,naples,0,3,1,1,19,33.0,39957570.0
+2020-08-01,Italy,Southern Italy,Campania,naples,0,6,2,3,31,40.0,64343840.0
+2020-09-01,Italy,Southern Italy,Campania,naples,0,5,2,2,28,30.0,30526126.0
+2020-10-01,Italy,Southern Italy,Campania,naples,0,2,1,1,18,14.0,11383735.0
+2020-11-01,Italy,Southern Italy,Campania,naples,0,1,1,0,9,7.0,3771653.0
+2020-12-01,Italy,Southern Italy,Campania,naples,0,1,1,0,11,5.0,3527304.0
+2021-01-01,Italy,Southern Italy,Campania,naples,0,1,1,0,9,8.0,3523071.0
+2021-02-01,Italy,Southern Italy,Campania,naples,0,2,0,0,11,9.0,4439497.0
+2021-03-01,Italy,Southern Italy,Campania,naples,0,1,0,0,9,8.0,4247842.0
+2021-04-01,Italy,Southern Italy,Campania,naples,0,2,0,1,10,9.0,4288406.0
+2021-05-01,Italy,Southern Italy,Campania,naples,0,2,1,1,14,21.0,11333102.0
+2021-06-01,Italy,Southern Italy,Campania,naples,0,4,1,1,18,27.0,30504121.0
+2021-07-01,Italy,Southern Italy,Campania,naples,1,6,2,2,38,46.0,61842706.0
+2021-08-01,Italy,Southern Italy,Campania,naples,1,11,2,2,48,49.0,79734403.0
+2021-09-01,Italy,Southern Italy,Campania,naples,0,7,3,2,45,45.0,41575248.0
+2021-10-01,Italy,Southern Italy,Campania,naples,0,7,2,2,43,31.0,22441211.0
+2021-11-01,Italy,Southern Italy,Campania,naples,0,4,2,1,25,13.0,11723237.0
+2021-12-01,Italy,Southern Italy,Campania,naples,0,3,1,1,18,12.0,13525298.0
+2022-01-01,Italy,Southern Italy,Campania,naples,0,3,2,1,16,13.0,11981957.0
+2022-02-01,Italy,Southern Italy,Campania,naples,1,4,2,1,20,18.0,13442993.0
+2022-03-01,Italy,Southern Italy,Campania,naples,0,5,2,2,30,26.0,16002578.0
+2022-04-01,Italy,Southern Italy,Campania,naples,1,8,3,4,51,44.0,24559355.0
+2022-05-01,Italy,Southern Italy,Campania,naples,1,10,4,5,56,60.0,29179070.0
+2022-06-01,Italy,Southern Italy,Campania,naples,1,10,5,5,67,82.0,53150195.0
+2022-07-01,Italy,Southern Italy,Campania,naples,1,10,6,5,76,86.0,73949512.0
+2022-08-01,Italy,Southern Italy,Campania,naples,1,12,4,6,69,76.0,82805286.0
+2022-09-01,Italy,Southern Italy,Campania,naples,1,11,5,5,66,71.0,47061933.0
+2022-10-01,Italy,Southern Italy,Campania,naples,1,9,3,5,58,50.0,27820865.0
+2022-11-01,Italy,Southern Italy,Campania,naples,0,5,2,2,28,18.0,14536527.0
+2022-12-01,Italy,Southern Italy,Campania,naples,0,5,2,1,22,13.0,17518261.0
+2023-01-01,Italy,Southern Italy,Campania,naples,0,5,2,1,22,15.0,18410981.0
+2023-02-01,Italy,Southern Italy,Campania,naples,1,6,2,2,24,18.0,18601577.0
+2023-03-01,Italy,Southern Italy,Campania,naples,1,8,3,2,39,29.0,20418232.0
+2023-04-01,Italy,Southern Italy,Campania,naples,1,10,4,4,68,57.0,30004667.0
+2023-05-01,Italy,Southern Italy,Campania,naples,1,10,4,5,66,79.0,34054110.0
+2023-06-01,Italy,Southern Italy,Campania,naples,1,12,5,7,82,97.0,54185713.0
+2023-07-01,Italy,Southern Italy,Campania,naples,1,11,6,7,86,100.0,75265166.0
+2023-08-01,Italy,Southern Italy,Campania,naples,1,11,4,6,77,89.0,82608306.0
+2023-09-01,Italy,Southern Italy,Campania,naples,1,12,5,5,81,89.0,49881526.0
+2023-10-01,Italy,Southern Italy,Campania,naples,1,9,3,5,70,56.0,29051851.0
+2023-11-01,Italy,Southern Italy,Campania,naples,0,5,2,1,33,20.0,15738290.0
+2023-12-01,Italy,Southern Italy,Campania,naples,0,5,1,1,27,16.0,18949630.0
+2024-01-01,Italy,Southern Italy,Campania,naples,0,4,2,1,25,15.0,19283941.0
+2024-02-01,Italy,Southern Italy,Campania,naples,0,6,3,1,26,24.0,20581607.0
+2024-03-01,Italy,Southern Italy,Campania,naples,1,6,2,2,42,34.0,24157263.0
+2024-04-01,Italy,Southern Italy,Campania,naples,1,9,2,5,66,56.0,28025516.0
+2024-05-01,Italy,Southern Italy,Campania,naples,1,10,3,5,76,77.0,40002340.0
+2024-06-01,Italy,Southern Italy,Campania,naples,1,10,5,6,81,95.0,53795179.0
+2024-07-01,Italy,Southern Italy,Campania,naples,1,11,6,6,76,97.0,76710786.0
+2024-08-01,Italy,Southern Italy,Campania,naples,1,11,4,5,73,91.0,84188928.0
+2024-09-01,Italy,Southern Italy,Campania,naples,1,11,5,6,84,84.0,50585783.0
+2024-10-01,Italy,Southern Italy,Campania,naples,1,11,4,6,81,64.0,31416979.0
+2024-11-01,Italy,Southern Italy,Campania,naples,0,6,2,2,58,22.0,17700164.0
+2024-12-01,Italy,Southern Italy,Campania,naples,0,5,1,1,93,16.0,19709559.0
+2025-01-01,Italy,Southern Italy,Campania,naples,0,5,3,1,44,18.0,19510118.0
+2025-02-01,Italy,Southern Italy,Campania,naples,1,5,2,2,34,19.0,19876181.0
+2025-03-01,Italy,Southern Italy,Campania,naples,0,6,2,2,52,34.0,22329886.0
+2025-04-01,Italy,Southern Italy,Campania,naples,1,8,3,5,100,58.0,29763626.0
+2025-05-01,Italy,Southern Italy,Campania,naples,1,9,3,6,87,69.0,38798137.0
+2025-06-01,Italy,Southern Italy,Campania,naples,1,10,6,6,90,88.0,59036969.0
+2025-07-01,Italy,Southern Italy,Campania,naples,1,11,5,8,86,88.0,79066124.0
+2025-08-01,Italy,Southern Italy,Campania,naples,1,11,6,8,88,86.0,85229731.0
+2025-09-01,Italy,Southern Italy,Campania,naples,1,14,5,7,89,86.0,52434818.0
+2025-10-01,Italy,Southern Italy,Campania,naples,0,11,3,5,80,57.0,32578759.0
+2025-11-01,Italy,Southern Italy,Campania,naples,1,10,7,2,45,23.0,17254247.0
+2025-12-01,Italy,Southern Italy,Campania,naples,0,8,6,2,36,18.0,20974953.0
+2026-01-01,Italy,Southern Italy,Campania,naples,0,6,4,1,32,17.0,21443453.0
+2026-02-01,Italy,Southern Italy,Campania,naples,0,7,4,2,34,28.0,
+2026-03-01,Italy,Southern Italy,Campania,naples,1,9,5,3,51,35.0,
+2020-01-01,Italy,Islands,Sicilia,palermo,4,60,18,1,1,0.0,17991284.0
+2020-02-01,Italy,Islands,Sicilia,palermo,3,68,4,1,2,0.0,17763905.0
+2020-03-01,Italy,Islands,Sicilia,palermo,1,18,1,0,0,0.0,3863237.0
+2020-04-01,Italy,Islands,Sicilia,palermo,1,10,1,0,0,0.0,1325236.0
+2020-05-01,Italy,Islands,Sicilia,palermo,2,17,2,0,0,0.0,2288349.0
+2020-06-01,Italy,Islands,Sicilia,palermo,5,45,3,0,0,0.0,11704846.0
+2020-07-01,Italy,Islands,Sicilia,palermo,7,76,0,1,1,0.0,39957570.0
+2020-08-01,Italy,Islands,Sicilia,palermo,6,89,2,1,3,23.0,64343840.0
+2020-09-01,Italy,Islands,Sicilia,palermo,3,57,1,1,4,22.0,30526126.0
+2020-10-01,Italy,Islands,Sicilia,palermo,2,42,1,1,3,19.0,11383735.0
+2020-11-01,Italy,Islands,Sicilia,palermo,1,17,0,0,0,0.0,3771653.0
+2020-12-01,Italy,Islands,Sicilia,palermo,1,18,1,0,1,0.0,3527304.0
+2021-01-01,Italy,Islands,Sicilia,palermo,2,26,1,0,1,0.0,3523071.0
+2021-02-01,Italy,Islands,Sicilia,palermo,1,30,1,0,2,0.0,4439497.0
+2021-03-01,Italy,Islands,Sicilia,palermo,1,23,0,0,1,0.0,4247842.0
+2021-04-01,Italy,Islands,Sicilia,palermo,3,35,0,0,1,0.0,4288406.0
+2021-05-01,Italy,Islands,Sicilia,palermo,5,56,1,0,1,0.0,11333102.0
+2021-06-01,Italy,Islands,Sicilia,palermo,7,81,1,0,1,17.0,30504121.0
+2021-07-01,Italy,Islands,Sicilia,palermo,6,92,1,1,2,20.0,61842706.0
+2021-08-01,Italy,Islands,Sicilia,palermo,6,100,1,1,3,31.0,79734403.0
+2021-09-01,Italy,Islands,Sicilia,palermo,4,73,1,1,3,26.0,41575248.0
+2021-10-01,Italy,Islands,Sicilia,palermo,3,71,2,2,3,25.0,22441211.0
+2021-11-01,Italy,Islands,Sicilia,palermo,3,49,1,0,1,0.0,11723237.0
+2021-12-01,Italy,Islands,Sicilia,palermo,3,48,0,0,2,0.0,13525298.0
+2022-01-01,Italy,Islands,Sicilia,palermo,3,44,1,0,1,0.0,11981957.0
+2022-02-01,Italy,Islands,Sicilia,palermo,5,67,2,0,2,16.0,13442993.0
+2022-03-01,Italy,Islands,Sicilia,palermo,8,67,2,1,2,20.0,16002578.0
+2022-04-01,Italy,Islands,Sicilia,palermo,9,78,2,2,3,22.0,24559355.0
+2022-05-01,Italy,Islands,Sicilia,palermo,8,97,2,1,5,36.0,29179070.0
+2022-06-01,Italy,Islands,Sicilia,palermo,8,89,3,2,5,39.0,53150195.0
+2022-07-01,Italy,Islands,Sicilia,palermo,8,85,3,2,6,40.0,73949512.0
+2022-08-01,Italy,Islands,Sicilia,palermo,8,91,3,2,5,20.0,82805286.0
+2022-09-01,Italy,Islands,Sicilia,palermo,5,74,2,2,5,50.0,47061933.0
+2022-10-01,Italy,Islands,Sicilia,palermo,4,65,3,2,5,50.0,27820865.0
+2022-11-01,Italy,Islands,Sicilia,palermo,3,52,1,1,2,18.0,14536527.0
+2022-12-01,Italy,Islands,Sicilia,palermo,3,56,1,1,1,20.0,17518261.0
+2023-01-01,Italy,Islands,Sicilia,palermo,4,70,2,0,2,15.0,18410981.0
+2023-02-01,Italy,Islands,Sicilia,palermo,4,65,2,1,2,25.0,18601577.0
+2023-03-01,Italy,Islands,Sicilia,palermo,6,84,2,1,2,35.0,20418232.0
+2023-04-01,Italy,Islands,Sicilia,palermo,8,81,3,2,4,36.0,30004667.0
+2023-05-01,Italy,Islands,Sicilia,palermo,7,75,3,2,9,44.0,34054110.0
+2023-06-01,Italy,Islands,Sicilia,palermo,8,83,3,2,7,63.0,54185713.0
+2023-07-01,Italy,Islands,Sicilia,palermo,9,87,6,2,7,65.0,75265166.0
+2023-08-01,Italy,Islands,Sicilia,palermo,6,87,4,2,8,60.0,82608306.0
+2023-09-01,Italy,Islands,Sicilia,palermo,5,73,3,4,7,61.0,49881526.0
+2023-10-01,Italy,Islands,Sicilia,palermo,4,64,2,3,6,48.0,29051851.0
+2023-11-01,Italy,Islands,Sicilia,palermo,3,52,2,1,4,14.0,15738290.0
+2023-12-01,Italy,Islands,Sicilia,palermo,2,53,2,1,2,0.0,18949630.0
+2024-01-01,Italy,Islands,Sicilia,palermo,3,60,2,0,2,19.0,19283941.0
+2024-02-01,Italy,Islands,Sicilia,palermo,4,62,3,1,2,17.0,20581607.0
+2024-03-01,Italy,Islands,Sicilia,palermo,5,71,3,1,2,39.0,24157263.0
+2024-04-01,Italy,Islands,Sicilia,palermo,6,76,3,2,6,50.0,28025516.0
+2024-05-01,Italy,Islands,Sicilia,palermo,6,76,3,3,7,47.0,40002340.0
+2024-06-01,Italy,Islands,Sicilia,palermo,6,72,4,3,7,82.0,53795179.0
+2024-07-01,Italy,Islands,Sicilia,palermo,6,79,4,3,16,56.0,76710786.0
+2024-08-01,Italy,Islands,Sicilia,palermo,5,79,4,2,12,69.0,84188928.0
+2024-09-01,Italy,Islands,Sicilia,palermo,5,66,3,3,8,100.0,50585783.0
+2024-10-01,Italy,Islands,Sicilia,palermo,4,64,3,3,8,78.0,31416979.0
+2024-11-01,Italy,Islands,Sicilia,palermo,3,44,1,1,3,31.0,17700164.0
+2024-12-01,Italy,Islands,Sicilia,palermo,2,42,2,1,2,0.0,19709559.0
+2025-01-01,Italy,Islands,Sicilia,palermo,4,51,2,0,2,22.0,19510118.0
+2025-02-01,Italy,Islands,Sicilia,palermo,4,51,2,0,3,24.0,19876181.0
+2025-03-01,Italy,Islands,Sicilia,palermo,5,61,3,2,2,42.0,22329886.0
+2025-04-01,Italy,Islands,Sicilia,palermo,5,56,3,3,8,52.0,29763626.0
+2025-05-01,Italy,Islands,Sicilia,palermo,5,57,2,3,7,54.0,38798137.0
+2025-06-01,Italy,Islands,Sicilia,palermo,5,56,4,3,20,69.0,59036969.0
+2025-07-01,Italy,Islands,Sicilia,palermo,5,69,3,3,9,74.0,79066124.0
+2025-08-01,Italy,Islands,Sicilia,palermo,5,68,4,2,10,53.0,85229731.0
+2025-09-01,Italy,Islands,Sicilia,palermo,3,61,4,4,9,84.0,52434818.0
+2025-10-01,Italy,Islands,Sicilia,palermo,4,50,4,4,8,77.0,32578759.0
+2025-11-01,Italy,Islands,Sicilia,palermo,3,48,6,1,3,36.0,17254247.0
+2025-12-01,Italy,Islands,Sicilia,palermo,2,42,4,1,3,19.0,20974953.0
+2026-01-01,Italy,Islands,Sicilia,palermo,3,45,3,1,3,27.0,21443453.0
+2026-02-01,Italy,Islands,Sicilia,palermo,3,51,4,0,3,28.0,
+2026-03-01,Italy,Islands,Sicilia,palermo,4,59,5,2,4,38.0,
+2020-01-01,Italy,Central Italy,Lazio,rome,3,47,16,55,14,50.0,17991284.0
+2020-02-01,Italy,Central Italy,Lazio,rome,3,47,16,54,13,44.0,17763905.0
+2020-03-01,Italy,Central Italy,Lazio,rome,1,14,12,15,2,29.0,3863237.0
+2020-04-01,Italy,Central Italy,Lazio,rome,0,6,3,9,0,35.0,1325236.0
+2020-05-01,Italy,Central Italy,Lazio,rome,0,6,5,9,1,40.0,2288349.0
+2020-06-01,Italy,Central Italy,Lazio,rome,1,12,7,13,1,28.0,11704846.0
+2020-07-01,Italy,Central Italy,Lazio,rome,2,21,7,19,2,30.0,39957570.0
+2020-08-01,Italy,Central Italy,Lazio,rome,2,25,7,27,4,38.0,64343840.0
+2020-09-01,Italy,Central Italy,Lazio,rome,1,27,6,28,4,38.0,30526126.0
+2020-10-01,Italy,Central Italy,Lazio,rome,1,18,5,19,3,34.0,11383735.0
+2020-11-01,Italy,Central Italy,Lazio,rome,0,9,4,12,1,26.0,3771653.0
+2020-12-01,Italy,Central Italy,Lazio,rome,0,10,4,9,1,28.0,3527304.0
+2021-01-01,Italy,Central Italy,Lazio,rome,0,10,4,9,1,27.0,3523071.0
+2021-02-01,Italy,Central Italy,Lazio,rome,0,13,4,10,1,30.0,4439497.0
+2021-03-01,Italy,Central Italy,Lazio,rome,0,9,4,8,1,28.0,4247842.0
+2021-04-01,Italy,Central Italy,Lazio,rome,0,11,4,9,0,30.0,4288406.0
+2021-05-01,Italy,Central Italy,Lazio,rome,1,18,5,14,1,39.0,11333102.0
+2021-06-01,Italy,Central Italy,Lazio,rome,1,24,8,18,2,36.0,30504121.0
+2021-07-01,Italy,Central Italy,Lazio,rome,2,39,10,43,7,39.0,61842706.0
+2021-08-01,Italy,Central Italy,Lazio,rome,2,46,10,50,9,48.0,79734403.0
+2021-09-01,Italy,Central Italy,Lazio,rome,3,46,12,47,9,48.0,41575248.0
+2021-10-01,Italy,Central Italy,Lazio,rome,2,53,12,54,11,51.0,22441211.0
+2021-11-01,Italy,Central Italy,Lazio,rome,1,39,10,40,8,56.0,11723237.0
+2021-12-01,Italy,Central Italy,Lazio,rome,1,32,9,32,6,48.0,13525298.0
+2022-01-01,Italy,Central Italy,Lazio,rome,1,22,10,23,3,48.0,11981957.0
+2022-02-01,Italy,Central Italy,Lazio,rome,2,32,14,37,8,50.0,13442993.0
+2022-03-01,Italy,Central Italy,Lazio,rome,3,43,13,50,10,63.0,16002578.0
+2022-04-01,Italy,Central Italy,Lazio,rome,4,56,13,67,14,81.0,24559355.0
+2022-05-01,Italy,Central Italy,Lazio,rome,3,60,15,64,19,80.0,29179070.0
+2022-06-01,Italy,Central Italy,Lazio,rome,4,65,20,81,28,58.0,53150195.0
+2022-07-01,Italy,Central Italy,Lazio,rome,4,69,21,90,28,62.0,73949512.0
+2022-08-01,Italy,Central Italy,Lazio,rome,3,59,16,76,24,66.0,82805286.0
+2022-09-01,Italy,Central Italy,Lazio,rome,5,73,20,76,26,69.0,47061933.0
+2022-10-01,Italy,Central Italy,Lazio,rome,4,66,18,73,22,76.0,27820865.0
+2022-11-01,Italy,Central Italy,Lazio,rome,2,46,13,50,14,61.0,14536527.0
+2022-12-01,Italy,Central Italy,Lazio,rome,2,42,11,50,11,70.0,17518261.0
+2023-01-01,Italy,Central Italy,Lazio,rome,2,41,14,43,10,70.0,18410981.0
+2023-02-01,Italy,Central Italy,Lazio,rome,3,43,16,50,12,64.0,18601577.0
+2023-03-01,Italy,Central Italy,Lazio,rome,4,54,16,61,16,86.0,20418232.0
+2023-04-01,Italy,Central Italy,Lazio,rome,3,64,14,81,24,96.0,30004667.0
+2023-05-01,Italy,Central Italy,Lazio,rome,4,69,16,84,31,87.0,34054110.0
+2023-06-01,Italy,Central Italy,Lazio,rome,4,77,18,97,38,84.0,54185713.0
+2023-07-01,Italy,Central Italy,Lazio,rome,4,84,22,91,41,96.0,75265166.0
+2023-08-01,Italy,Central Italy,Lazio,rome,3,68,19,94,32,77.0,82608306.0
+2023-09-01,Italy,Central Italy,Lazio,rome,5,80,24,87,34,82.0,49881526.0
+2023-10-01,Italy,Central Italy,Lazio,rome,4,75,18,84,28,83.0,29051851.0
+2023-11-01,Italy,Central Italy,Lazio,rome,3,51,14,62,17,61.0,15738290.0
+2023-12-01,Italy,Central Italy,Lazio,rome,2,44,12,54,13,68.0,18949630.0
+2024-01-01,Italy,Central Italy,Lazio,rome,2,42,15,49,11,60.0,19283941.0
+2024-02-01,Italy,Central Italy,Lazio,rome,3,47,17,55,13,67.0,20581607.0
+2024-03-01,Italy,Central Italy,Lazio,rome,3,53,16,72,18,79.0,24157263.0
+2024-04-01,Italy,Central Italy,Lazio,rome,3,61,15,85,23,100.0,28025516.0
+2024-05-01,Italy,Central Italy,Lazio,rome,4,72,17,89,32,92.0,40002340.0
+2024-06-01,Italy,Central Italy,Lazio,rome,4,73,19,93,38,77.0,53795179.0
+2024-07-01,Italy,Central Italy,Lazio,rome,3,70,22,98,38,73.0,76710786.0
+2024-08-01,Italy,Central Italy,Lazio,rome,3,67,21,99,32,64.0,84188928.0
+2024-09-01,Italy,Central Italy,Lazio,rome,5,79,21,97,35,74.0,50585783.0
+2024-10-01,Italy,Central Italy,Lazio,rome,4,75,19,96,29,84.0,31416979.0
+2024-11-01,Italy,Central Italy,Lazio,rome,2,52,15,67,14,62.0,17700164.0
+2024-12-01,Italy,Central Italy,Lazio,rome,2,42,11,51,14,58.0,19709559.0
+2025-01-01,Italy,Central Italy,Lazio,rome,4,40,17,47,12,58.0,19510118.0
+2025-02-01,Italy,Central Italy,Lazio,rome,3,46,17,48,13,60.0,19876181.0
+2025-03-01,Italy,Central Italy,Lazio,rome,3,53,16,60,20,69.0,22329886.0
+2025-04-01,Italy,Central Italy,Lazio,rome,4,60,15,79,25,75.0,29763626.0
+2025-05-01,Italy,Central Italy,Lazio,rome,4,70,15,87,33,81.0,38798137.0
+2025-06-01,Italy,Central Italy,Lazio,rome,4,73,23,98,40,71.0,59036969.0
+2025-07-01,Italy,Central Italy,Lazio,rome,3,74,22,100,38,68.0,79066124.0
+2025-08-01,Italy,Central Italy,Lazio,rome,4,68,23,99,34,69.0,85229731.0
+2025-09-01,Italy,Central Italy,Lazio,rome,5,78,21,96,37,80.0,52434818.0
+2025-10-01,Italy,Central Italy,Lazio,rome,4,76,22,90,32,96.0,32578759.0
+2025-11-01,Italy,Central Italy,Lazio,rome,5,67,33,66,19,70.0,17254247.0
+2025-12-01,Italy,Central Italy,Lazio,rome,4,59,25,61,17,73.0,20974953.0
+2026-01-01,Italy,Central Italy,Lazio,rome,4,47,25,49,14,57.0,21443453.0
+2026-02-01,Italy,Central Italy,Lazio,rome,5,59,26,62,15,71.0,
+2026-03-01,Italy,Central Italy,Lazio,rome,5,73,29,81,21,76.0,
+2020-01-01,Italy,North-East Italy,Veneto,venice,4,50,14,0,9,11.0,17991284.0
+2020-02-01,Italy,North-East Italy,Veneto,venice,3,62,13,0,8,19.0,17763905.0
+2020-03-01,Italy,North-East Italy,Veneto,venice,0,72,8,0,3,0.0,3863237.0
+2020-04-01,Italy,North-East Italy,Veneto,venice,0,31,2,0,3,0.0,1325236.0
+2020-05-01,Italy,North-East Italy,Veneto,venice,0,18,3,0,0,0.0,2288349.0
+2020-06-01,Italy,North-East Italy,Veneto,venice,2,30,6,0,3,0.0,11704846.0
+2020-07-01,Italy,North-East Italy,Veneto,venice,2,42,6,0,5,9.0,39957570.0
+2020-08-01,Italy,North-East Italy,Veneto,venice,3,63,6,0,11,14.0,64343840.0
+2020-09-01,Italy,North-East Italy,Veneto,venice,2,55,7,0,8,11.0,30526126.0
+2020-10-01,Italy,North-East Italy,Veneto,venice,2,33,3,0,5,0.0,11383735.0
+2020-11-01,Italy,North-East Italy,Veneto,venice,0,11,4,0,3,0.0,3771653.0
+2020-12-01,Italy,North-East Italy,Veneto,venice,0,9,5,0,2,0.0,3527304.0
+2021-01-01,Italy,North-East Italy,Veneto,venice,0,10,2,0,2,0.0,3523071.0
+2021-02-01,Italy,North-East Italy,Veneto,venice,0,15,3,0,4,0.0,4439497.0
+2021-03-01,Italy,North-East Italy,Veneto,venice,0,11,3,0,3,0.0,4247842.0
+2021-04-01,Italy,North-East Italy,Veneto,venice,2,15,3,0,2,0.0,4288406.0
+2021-05-01,Italy,North-East Italy,Veneto,venice,0,29,4,0,5,0.0,11333102.0
+2021-06-01,Italy,North-East Italy,Veneto,venice,2,38,6,0,6,0.0,30504121.0
+2021-07-01,Italy,North-East Italy,Veneto,venice,3,47,10,0,10,13.0,61842706.0
+2021-08-01,Italy,North-East Italy,Veneto,venice,3,66,9,0,14,29.0,79734403.0
+2021-09-01,Italy,North-East Italy,Veneto,venice,3,63,10,0,12,23.0,41575248.0
+2021-10-01,Italy,North-East Italy,Veneto,venice,2,58,9,0,15,22.0,22441211.0
+2021-11-01,Italy,North-East Italy,Veneto,venice,2,37,8,0,11,16.0,11723237.0
+2021-12-01,Italy,North-East Italy,Veneto,venice,0,35,7,0,8,0.0,13525298.0
+2022-01-01,Italy,North-East Italy,Veneto,venice,2,36,7,0,8,0.0,11981957.0
+2022-02-01,Italy,North-East Italy,Veneto,venice,4,51,11,0,9,12.0,13442993.0
+2022-03-01,Italy,North-East Italy,Veneto,venice,3,52,11,0,10,28.0,16002578.0
+2022-04-01,Italy,North-East Italy,Veneto,venice,4,72,11,0,12,43.0,24559355.0
+2022-05-01,Italy,North-East Italy,Veneto,venice,5,71,13,0,13,54.0,29179070.0
+2022-06-01,Italy,North-East Italy,Veneto,venice,5,74,21,0,16,67.0,53150195.0
+2022-07-01,Italy,North-East Italy,Veneto,venice,5,77,21,0,16,74.0,73949512.0
+2022-08-01,Italy,North-East Italy,Veneto,venice,5,84,18,0,14,62.0,82805286.0
+2022-09-01,Italy,North-East Italy,Veneto,venice,6,89,17,0,15,66.0,47061933.0
+2022-10-01,Italy,North-East Italy,Veneto,venice,5,78,14,0,13,62.0,27820865.0
+2022-11-01,Italy,North-East Italy,Veneto,venice,3,47,10,0,9,32.0,14536527.0
+2022-12-01,Italy,North-East Italy,Veneto,venice,2,42,11,0,8,35.0,17518261.0
+2023-01-01,Italy,North-East Italy,Veneto,venice,4,49,13,0,10,26.0,18410981.0
+2023-02-01,Italy,North-East Italy,Veneto,venice,4,52,14,0,11,19.0,18601577.0
+2023-03-01,Italy,North-East Italy,Veneto,venice,3,64,15,0,11,56.0,20418232.0
+2023-04-01,Italy,North-East Italy,Veneto,venice,3,70,14,0,14,81.0,30004667.0
+2023-05-01,Italy,North-East Italy,Veneto,venice,4,72,17,0,12,76.0,34054110.0
+2023-06-01,Italy,North-East Italy,Veneto,venice,5,88,22,0,17,100.0,54185713.0
+2023-07-01,Italy,North-East Italy,Veneto,venice,3,87,21,0,14,88.0,75265166.0
+2023-08-01,Italy,North-East Italy,Veneto,venice,3,78,19,0,15,73.0,82608306.0
+2023-09-01,Italy,North-East Italy,Veneto,venice,4,93,18,0,15,91.0,49881526.0
+2023-10-01,Italy,North-East Italy,Veneto,venice,4,75,16,0,13,92.0,29051851.0
+2023-11-01,Italy,North-East Italy,Veneto,venice,2,52,11,0,9,31.0,15738290.0
+2023-12-01,Italy,North-East Italy,Veneto,venice,3,49,10,0,10,34.0,18949630.0
+2024-01-01,Italy,North-East Italy,Veneto,venice,3,48,11,0,10,27.0,19283941.0
+2024-02-01,Italy,North-East Italy,Veneto,venice,3,56,13,0,8,45.0,20581607.0
+2024-03-01,Italy,North-East Italy,Veneto,venice,3,60,15,0,13,58.0,24157263.0
+2024-04-01,Italy,North-East Italy,Veneto,venice,4,70,14,0,11,76.0,28025516.0
+2024-05-01,Italy,North-East Italy,Veneto,venice,5,79,13,0,16,97.0,40002340.0
+2024-06-01,Italy,North-East Italy,Veneto,venice,4,78,18,0,14,96.0,53795179.0
+2024-07-01,Italy,North-East Italy,Veneto,venice,3,89,20,0,15,86.0,76710786.0
+2024-08-01,Italy,North-East Italy,Veneto,venice,3,83,16,0,15,81.0,84188928.0
+2024-09-01,Italy,North-East Italy,Veneto,venice,4,87,17,0,13,89.0,50585783.0
+2024-10-01,Italy,North-East Italy,Veneto,venice,4,81,15,0,15,76.0,31416979.0
+2024-11-01,Italy,North-East Italy,Veneto,venice,2,53,13,0,9,45.0,17700164.0
+2024-12-01,Italy,North-East Italy,Veneto,venice,2,48,11,0,9,32.0,19709559.0
+2025-01-01,Italy,North-East Italy,Veneto,venice,3,51,13,0,10,29.0,19510118.0
+2025-02-01,Italy,North-East Italy,Veneto,venice,4,53,12,0,10,29.0,19876181.0
+2025-03-01,Italy,North-East Italy,Veneto,venice,4,59,13,0,11,42.0,22329886.0
+2025-04-01,Italy,North-East Italy,Veneto,venice,3,63,13,0,14,68.0,29763626.0
+2025-05-01,Italy,North-East Italy,Veneto,venice,4,68,12,0,13,78.0,38798137.0
+2025-06-01,Italy,North-East Italy,Veneto,venice,5,100,20,2,13,87.0,59036969.0
+2025-07-01,Italy,North-East Italy,Veneto,venice,3,81,19,0,14,87.0,79066124.0
+2025-08-01,Italy,North-East Italy,Veneto,venice,4,82,20,0,14,63.0,85229731.0
+2025-09-01,Italy,North-East Italy,Veneto,venice,4,91,18,2,14,82.0,52434818.0
+2025-10-01,Italy,North-East Italy,Veneto,venice,4,76,12,2,12,89.0,32578759.0
+2025-11-01,Italy,North-East Italy,Veneto,venice,3,61,27,0,13,41.0,17254247.0
+2025-12-01,Italy,North-East Italy,Veneto,venice,2,60,21,0,11,36.0,20974953.0
+2026-01-01,Italy,North-East Italy,Veneto,venice,0,57,19,0,12,35.0,21443453.0
+2026-02-01,Italy,North-East Italy,Veneto,venice,4,72,22,0,19,22.0,
+2026-03-01,Italy,North-East Italy,Veneto,venice,3,82,24,0,15,45.0,
+2020-01-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,82,0,0,0.0,498068.0
+2020-02-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,73,0,0,0.0,588991.0
+2020-03-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,55,0,0,0.0,244927.0
+2020-04-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,18,0,0,0.0,11673.0
+2020-05-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,26,0,0,0.0,13172.0
+2020-06-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,38,0,0,0.0,39340.0
+2020-07-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,40,0,0,0.0,294995.0
+2020-08-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,35,0,0,0.0,503816.0
+2020-09-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,30,0,0,0.0,290155.0
+2020-10-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,26,0,0,0.0,234469.0
+2020-11-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,22,0,0,0.0,105890.0
+2020-12-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,23,0,0,0.0,119688.0
+2021-01-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,23,0,0,0.0,98277.0
+2021-02-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,21,0,0,0.0,127162.0
+2021-03-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,20,0,0,0.0,79675.0
+2021-04-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,31,0,0,0.0,69629.0
+2021-05-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,43,0,0,0.0,142267.0
+2021-06-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,46,0,0,0.0,385593.0
+2021-07-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,49,0,0,0.0,638256.0
+2021-08-01,Malta,Eastern Region,Northern Harbour,st_julians,0,3,55,0,0,0.0,791896.0
+2021-09-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,61,0,0,0.0,738422.0
+2021-10-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,62,0,0,0.0,712734.0
+2021-11-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,59,0,0,0.0,493453.0
+2021-12-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,40,0,0,0.0,335595.0
+2022-01-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,49,0,0,0.0,242195.0
+2022-02-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,57,0,0,0.0,345389.0
+2022-03-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,64,0,0,0.0,448634.0
+2022-04-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,71,0,0,0.0,694893.0
+2022-05-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,82,0,0,0.0,746507.0
+2022-06-01,Malta,Eastern Region,Northern Harbour,st_julians,0,3,92,0,0,0.0,830430.0
+2022-07-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,100,0,0,0.0,991837.0
+2022-08-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,97,0,0,0.0,1096000.0
+2022-09-01,Malta,Eastern Region,Northern Harbour,st_julians,0,4,91,0,0,0.0,846574.0
+2022-10-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,80,0,0,0.0,845231.0
+2022-11-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,75,0,0,0.0,622816.0
+2022-12-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,67,3,0,0.0,499918.0
+2023-01-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,82,0,0,0.0,446954.0
+2023-02-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,77,0,0,0.0,535911.0
+2023-03-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,83,0,0,0.0,676516.0
+2023-04-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,78,0,0,0.0,852786.0
+2023-05-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,68,0,0,0.0,887067.0
+2023-06-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,76,0,0,0.0,944312.0
+2023-07-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,85,0,0,0.0,1096007.0
+2023-08-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,93,0,0,0.0,1200154.0
+2023-09-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,87,0,0,0.0,962553.0
+2023-10-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,76,0,0,0.0,982766.0
+2023-11-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,76,0,0,0.0,720205.0
+2023-12-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,73,0,0,0.0,586992.0
+2024-01-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,83,0,0,0.0,529557.0
+2024-02-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,64,0,0,0.0,647382.0
+2024-03-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,66,0,0,0.0,809466.0
+2024-04-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,62,0,0,0.0,934202.0
+2024-05-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,57,0,0,0.0,1034372.0
+2024-06-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,65,0,0,0.0,1046824.0
+2024-07-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,79,0,0,0.0,1257738.0
+2024-08-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,69,0,0,0.0,1320338.0
+2024-09-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,82,0,0,0.0,1074009.0
+2024-10-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,73,0,0,0.0,1108735.0
+2024-11-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,63,0,0,0.0,869836.0
+2024-12-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,62,0,0,0.0,688004.0
+2025-01-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,71,0,0,0.0,603443.0
+2025-02-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,59,0,0,0.0,777390.0
+2025-03-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,59,0,0,0.0,943394.0
+2025-04-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,55,0,0,0.0,1075140.0
+2025-05-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,59,0,0,0.0,1100903.0
+2025-06-01,Malta,Eastern Region,Northern Harbour,st_julians,0,3,55,0,0,0.0,1137220.0
+2025-07-01,Malta,Eastern Region,Northern Harbour,st_julians,0,5,65,0,0,0.0,1319543.0
+2025-08-01,Malta,Eastern Region,Northern Harbour,st_julians,0,2,66,0,2,100.0,1404114.0
+2025-09-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,72,0,3,0.0,1145145.0
+2025-10-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,53,0,0,0.0,1255898.0
+2025-11-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,71,0,0,0.0,924061.0
+2025-12-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,62,0,0,0.0,777165.0
+2026-01-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,65,0,0,0.0,
+2026-02-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,59,0,0,0.0,
+2026-03-01,Malta,Eastern Region,Northern Harbour,st_julians,0,0,59,0,0,0.0,
+2020-01-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,82,0,10,17.0,498068.0
+2020-02-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,73,0,10,25.0,588991.0
+2020-03-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,55,0,4,18.0,244927.0
+2020-04-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,18,0,0,13.0,11673.0
+2020-05-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,26,0,2,20.0,13172.0
+2020-06-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,38,0,0,24.0,39340.0
+2020-07-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,40,0,6,51.0,294995.0
+2020-08-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,35,3,6,69.0,503816.0
+2020-09-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,30,0,7,46.0,290155.0
+2020-10-01,Malta,Northern Region,Northern,st_pauls_bay,3,0,26,0,4,31.0,234469.0
+2020-11-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,22,0,3,0.0,105890.0
+2020-12-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,23,0,0,0.0,119688.0
+2021-01-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,23,0,0,0.0,98277.0
+2021-02-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,21,0,0,0.0,127162.0
+2021-03-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,20,0,0,18.0,79675.0
+2021-04-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,31,0,0,0.0,69629.0
+2021-05-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,43,0,3,20.0,142267.0
+2021-06-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,46,0,4,42.0,385593.0
+2021-07-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,49,0,9,56.0,638256.0
+2021-08-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,55,3,9,86.0,791896.0
+2021-09-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,61,0,10,78.0,738422.0
+2021-10-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,62,0,6,62.0,712734.0
+2021-11-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,59,0,4,28.0,493453.0
+2021-12-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,40,0,5,16.0,335595.0
+2022-01-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,49,0,0,14.0,242195.0
+2022-02-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,57,0,3,27.0,345389.0
+2022-03-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,64,0,5,19.0,448634.0
+2022-04-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,71,0,7,38.0,694893.0
+2022-05-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,82,0,6,63.0,746507.0
+2022-06-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,92,0,9,67.0,830430.0
+2022-07-01,Malta,Northern Region,Northern,st_pauls_bay,0,3,100,5,9,87.0,991837.0
+2022-08-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,97,0,13,96.0,1096000.0
+2022-09-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,91,0,7,50.0,846574.0
+2022-10-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,80,0,6,29.0,845231.0
+2022-11-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,75,0,7,0.0,622816.0
+2022-12-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,67,0,5,17.0,499918.0
+2023-01-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,82,0,5,0.0,446954.0
+2023-02-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,77,0,7,16.0,535911.0
+2023-03-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,83,0,4,25.0,676516.0
+2023-04-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,78,0,7,33.0,852786.0
+2023-05-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,68,0,5,53.0,887067.0
+2023-06-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,76,4,8,76.0,944312.0
+2023-07-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,85,3,9,89.0,1096007.0
+2023-08-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,93,4,13,83.0,1200154.0
+2023-09-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,87,0,10,74.0,962553.0
+2023-10-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,76,0,7,56.0,982766.0
+2023-11-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,76,0,8,21.0,720205.0
+2023-12-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,73,0,7,17.0,586992.0
+2024-01-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,83,0,4,15.0,529557.0
+2024-02-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,64,0,5,24.0,647382.0
+2024-03-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,66,0,7,20.0,809466.0
+2024-04-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,62,0,9,56.0,934202.0
+2024-05-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,57,0,8,77.0,1034372.0
+2024-06-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,65,3,8,69.0,1046824.0
+2024-07-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,79,3,10,76.0,1257738.0
+2024-08-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,69,2,13,100.0,1320338.0
+2024-09-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,82,0,9,67.0,1074009.0
+2024-10-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,73,0,7,45.0,1108735.0
+2024-11-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,63,0,4,25.0,869836.0
+2024-12-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,62,0,3,0.0,688004.0
+2025-01-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,71,0,3,12.0,603443.0
+2025-02-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,59,0,5,28.0,777390.0
+2025-03-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,59,0,5,29.0,943394.0
+2025-04-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,55,0,6,41.0,1075140.0
+2025-05-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,59,0,5,46.0,1100903.0
+2025-06-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,55,0,7,59.0,1137220.0
+2025-07-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,65,3,9,91.0,1319543.0
+2025-08-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,66,3,8,72.0,1404114.0
+2025-09-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,72,0,8,48.0,1145145.0
+2025-10-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,53,0,6,44.0,1255898.0
+2025-11-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,71,0,4,26.0,924061.0
+2025-12-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,62,0,5,0.0,777165.0
+2026-01-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,65,0,5,0.0,
+2026-02-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,59,0,5,17.0,
+2026-03-01,Malta,Northern Region,Northern,st_pauls_bay,0,0,59,0,5,29.0,
+2020-01-01,Malta,Malta,Southern Harbour,valletta,0,35,0,0,0,,498068.0
+2020-02-01,Malta,Malta,Southern Harbour,valletta,0,48,0,0,0,,588991.0
+2020-03-01,Malta,Malta,Southern Harbour,valletta,0,31,0,0,0,,244927.0
+2020-04-01,Malta,Malta,Southern Harbour,valletta,0,0,0,0,0,,11673.0
+2020-05-01,Malta,Malta,Southern Harbour,valletta,0,0,0,0,0,,13172.0
+2020-06-01,Malta,Malta,Southern Harbour,valletta,0,0,0,0,0,,39340.0
+2020-07-01,Malta,Malta,Southern Harbour,valletta,0,44,0,0,0,,294995.0
+2020-08-01,Malta,Malta,Southern Harbour,valletta,0,91,0,0,31,,503816.0
+2020-09-01,Malta,Malta,Southern Harbour,valletta,0,54,0,0,0,,290155.0
+2020-10-01,Malta,Malta,Southern Harbour,valletta,0,39,0,0,0,,234469.0
+2020-11-01,Malta,Malta,Southern Harbour,valletta,0,38,0,0,0,,105890.0
+2020-12-01,Malta,Malta,Southern Harbour,valletta,0,56,0,0,0,,119688.0
+2021-01-01,Malta,Malta,Southern Harbour,valletta,0,66,0,0,0,,98277.0
+2021-02-01,Malta,Malta,Southern Harbour,valletta,0,57,0,0,0,,127162.0
+2021-03-01,Malta,Malta,Southern Harbour,valletta,0,29,0,0,0,,79675.0
+2021-04-01,Malta,Malta,Southern Harbour,valletta,0,0,0,0,0,,69629.0
+2021-05-01,Malta,Malta,Southern Harbour,valletta,0,32,0,0,0,,142267.0
+2021-06-01,Malta,Malta,Southern Harbour,valletta,0,31,0,0,0,,385593.0
+2021-07-01,Malta,Malta,Southern Harbour,valletta,0,62,0,0,0,,638256.0
+2021-08-01,Malta,Malta,Southern Harbour,valletta,0,70,0,0,0,,791896.0
+2021-09-01,Malta,Malta,Southern Harbour,valletta,0,100,0,35,0,,738422.0
+2021-10-01,Malta,Malta,Southern Harbour,valletta,0,48,0,0,0,,712734.0
+2021-11-01,Malta,Malta,Southern Harbour,valletta,0,82,0,0,0,,493453.0
+2021-12-01,Malta,Malta,Southern Harbour,valletta,0,49,0,0,0,,335595.0
+2022-01-01,Malta,Malta,Southern Harbour,valletta,0,34,0,0,0,,242195.0
+2022-02-01,Malta,Malta,Southern Harbour,valletta,0,61,0,0,0,,345389.0
+2022-03-01,Malta,Malta,Southern Harbour,valletta,0,31,0,28,0,,448634.0
+2022-04-01,Malta,Malta,Southern Harbour,valletta,0,57,0,22,0,,694893.0
+2022-05-01,Malta,Malta,Southern Harbour,valletta,0,53,0,26,0,,746507.0
+2022-06-01,Malta,Malta,Southern Harbour,valletta,0,62,0,0,0,,830430.0
+2022-07-01,Malta,Malta,Southern Harbour,valletta,0,48,0,0,0,,991837.0
+2022-08-01,Malta,Malta,Southern Harbour,valletta,0,69,0,0,0,,1096000.0
+2022-09-01,Malta,Malta,Southern Harbour,valletta,25,50,0,0,0,,846574.0
+2022-10-01,Malta,Malta,Southern Harbour,valletta,0,59,0,0,0,,845231.0
+2022-11-01,Malta,Malta,Southern Harbour,valletta,0,37,0,0,0,,622816.0
+2022-12-01,Malta,Malta,Southern Harbour,valletta,0,58,0,0,0,,499918.0
+2023-01-01,Malta,Malta,Southern Harbour,valletta,0,47,0,27,0,,446954.0
+2023-02-01,Malta,Malta,Southern Harbour,valletta,0,45,0,28,0,,535911.0
+2023-03-01,Malta,Malta,Southern Harbour,valletta,0,50,0,0,0,,676516.0
+2023-04-01,Malta,Malta,Southern Harbour,valletta,0,59,0,24,0,,852786.0
+2023-05-01,Malta,Malta,Southern Harbour,valletta,0,47,0,35,0,,887067.0
+2023-06-01,Malta,Malta,Southern Harbour,valletta,0,56,0,33,28,,944312.0
+2023-07-01,Malta,Malta,Southern Harbour,valletta,0,37,0,27,0,,1096007.0
+2023-08-01,Malta,Malta,Southern Harbour,valletta,0,58,0,31,27,,1200154.0
+2023-09-01,Malta,Malta,Southern Harbour,valletta,22,66,0,0,0,,962553.0
+2023-10-01,Malta,Malta,Southern Harbour,valletta,0,50,0,25,0,,982766.0
+2023-11-01,Malta,Malta,Southern Harbour,valletta,0,53,0,27,0,,720205.0
+2023-12-01,Malta,Malta,Southern Harbour,valletta,0,43,0,0,0,,586992.0
+2024-01-01,Malta,Malta,Southern Harbour,valletta,0,36,0,0,0,,529557.0
+2024-02-01,Malta,Malta,Southern Harbour,valletta,0,59,0,0,0,,647382.0
+2024-03-01,Malta,Malta,Southern Harbour,valletta,0,46,0,0,0,,809466.0
+2024-04-01,Malta,Malta,Southern Harbour,valletta,0,42,0,32,33,,934202.0
+2024-05-01,Malta,Malta,Southern Harbour,valletta,0,46,0,24,0,,1034372.0
+2024-06-01,Malta,Malta,Southern Harbour,valletta,0,31,0,0,0,,1046824.0
+2024-07-01,Malta,Malta,Southern Harbour,valletta,0,47,0,34,0,,1257738.0
+2024-08-01,Malta,Malta,Southern Harbour,valletta,0,56,0,26,0,,1320338.0
+2024-09-01,Malta,Malta,Southern Harbour,valletta,0,48,0,31,0,,1074009.0
+2024-10-01,Malta,Malta,Southern Harbour,valletta,0,46,0,31,0,,1108735.0
+2024-11-01,Malta,Malta,Southern Harbour,valletta,0,54,0,0,0,,869836.0
+2024-12-01,Malta,Malta,Southern Harbour,valletta,0,43,0,0,0,,688004.0
+2025-01-01,Malta,Malta,Southern Harbour,valletta,0,47,0,0,0,,603443.0
+2025-02-01,Malta,Malta,Southern Harbour,valletta,0,53,0,0,0,,777390.0
+2025-03-01,Malta,Malta,Southern Harbour,valletta,0,49,0,0,0,,943394.0
+2025-04-01,Malta,Malta,Southern Harbour,valletta,0,29,0,29,0,,1075140.0
+2025-05-01,Malta,Malta,Southern Harbour,valletta,0,25,0,0,0,,1100903.0
+2025-06-01,Malta,Malta,Southern Harbour,valletta,0,58,0,0,0,,1137220.0
+2025-07-01,Malta,Malta,Southern Harbour,valletta,0,46,0,30,0,,1319543.0
+2025-08-01,Malta,Malta,Southern Harbour,valletta,0,43,0,49,0,,1404114.0
+2025-09-01,Malta,Malta,Southern Harbour,valletta,0,61,0,43,0,,1145145.0
+2025-10-01,Malta,Malta,Southern Harbour,valletta,0,52,0,28,0,,1255898.0
+2025-11-01,Malta,Malta,Southern Harbour,valletta,0,78,0,33,0,,924061.0
+2025-12-01,Malta,Malta,Southern Harbour,valletta,0,47,0,42,0,,777165.0
+2026-01-01,Malta,Malta,Southern Harbour,valletta,0,33,0,23,0,,
+2026-02-01,Malta,Malta,Southern Harbour,valletta,0,38,0,24,0,,
+2026-03-01,Malta,Malta,Southern Harbour,valletta,0,41,0,24,0,,
+2020-01-01,Malta,Gozo and Comino,Gozo,victoria_gozo,10,51,0,0,0,17.0,498068.0
+2020-02-01,Malta,Gozo and Comino,Gozo,victoria_gozo,14,48,0,0,0,25.0,588991.0
+2020-03-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,27,0,0,0,0.0,244927.0
+2020-04-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,7,0,0,0,9.0,11673.0
+2020-05-01,Malta,Gozo and Comino,Gozo,victoria_gozo,10,17,0,0,0,0.0,13172.0
+2020-06-01,Malta,Gozo and Comino,Gozo,victoria_gozo,16,58,0,0,0,12.0,39340.0
+2020-07-01,Malta,Gozo and Comino,Gozo,victoria_gozo,16,91,0,0,0,30.0,294995.0
+2020-08-01,Malta,Gozo and Comino,Gozo,victoria_gozo,13,76,0,0,16,48.0,503816.0
+2020-09-01,Malta,Gozo and Comino,Gozo,victoria_gozo,7,62,0,0,7,19.0,290155.0
+2020-10-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,49,0,0,0,18.0,234469.0
+2020-11-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,27,0,0,0,0.0,105890.0
+2020-12-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,28,0,0,0,0.0,119688.0
+2021-01-01,Malta,Gozo and Comino,Gozo,victoria_gozo,8,30,0,0,0,0.0,98277.0
+2021-02-01,Malta,Gozo and Comino,Gozo,victoria_gozo,8,36,0,0,0,0.0,127162.0
+2021-03-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,16,0,0,0,0.0,79675.0
+2021-04-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,14,0,0,0,0.0,69629.0
+2021-05-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,42,0,0,0,9.0,142267.0
+2021-06-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,69,0,0,0,33.0,385593.0
+2021-07-01,Malta,Gozo and Comino,Gozo,victoria_gozo,10,85,0,0,10,57.0,638256.0
+2021-08-01,Malta,Gozo and Comino,Gozo,victoria_gozo,11,100,0,0,13,81.0,791896.0
+2021-09-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,70,0,0,9,70.0,738422.0
+2021-10-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,46,0,0,0,44.0,712734.0
+2021-11-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,34,0,0,0,22.0,493453.0
+2021-12-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,46,0,0,0,14.0,335595.0
+2022-01-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,35,0,0,0,0.0,242195.0
+2022-02-01,Malta,Gozo and Comino,Gozo,victoria_gozo,7,37,0,0,0,10.0,345389.0
+2022-03-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,35,0,0,0,18.0,448634.0
+2022-04-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,47,0,0,6,18.0,694893.0
+2022-05-01,Malta,Gozo and Comino,Gozo,victoria_gozo,11,44,0,0,6,42.0,746507.0
+2022-06-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,48,0,0,8,59.0,830430.0
+2022-07-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,68,0,0,0,71.0,991837.0
+2022-08-01,Malta,Gozo and Comino,Gozo,victoria_gozo,7,60,0,0,12,78.0,1096000.0
+2022-09-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,51,0,0,0,33.0,846574.0
+2022-10-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,41,0,0,0,32.0,845231.0
+2022-11-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,37,0,0,0,18.0,622816.0
+2022-12-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,36,0,0,0,16.0,499918.0
+2023-01-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,37,0,0,0,11.0,446954.0
+2023-02-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,38,0,0,0,20.0,535911.0
+2023-03-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,39,0,0,0,19.0,676516.0
+2023-04-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,42,0,0,0,34.0,852786.0
+2023-05-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,38,0,0,7,30.0,887067.0
+2023-06-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,46,0,0,12,63.0,944312.0
+2023-07-01,Malta,Gozo and Comino,Gozo,victoria_gozo,7,59,0,0,6,90.0,1096007.0
+2023-08-01,Malta,Gozo and Comino,Gozo,victoria_gozo,7,71,0,0,10,89.0,1200154.0
+2023-09-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,49,0,0,12,54.0,962553.0
+2023-10-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,46,0,0,10,56.0,982766.0
+2023-11-01,Malta,Gozo and Comino,Gozo,victoria_gozo,8,44,0,0,0,32.0,720205.0
+2023-12-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,38,0,0,0,0.0,586992.0
+2024-01-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,40,0,0,0,10.0,529557.0
+2024-02-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,43,0,0,0,9.0,647382.0
+2024-03-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,44,0,0,0,28.0,809466.0
+2024-04-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,41,0,0,0,39.0,934202.0
+2024-05-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,44,0,0,0,51.0,1034372.0
+2024-06-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,50,0,0,10,61.0,1046824.0
+2024-07-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,57,0,6,0,85.0,1257738.0
+2024-08-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,66,7,0,9,84.0,1320338.0
+2024-09-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,55,0,0,7,65.0,1074009.0
+2024-10-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,43,0,0,7,39.0,1108735.0
+2024-11-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,22,0,0,0,16.0,869836.0
+2024-12-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,36,0,0,8,11.0,688004.0
+2025-01-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,26,0,0,0,15.0,603443.0
+2025-02-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,24,0,0,0,17.0,777390.0
+2025-03-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,34,0,0,0,20.0,943394.0
+2025-04-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,46,0,0,0,34.0,1075140.0
+2025-05-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,28,0,0,0,48.0,1100903.0
+2025-06-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,48,0,0,0,78.0,1137220.0
+2025-07-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,52,0,0,0,90.0,1319543.0
+2025-08-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,56,0,0,8,100.0,1404114.0
+2025-09-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,48,0,0,0,70.0,1145145.0
+2025-10-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,42,0,0,7,55.0,1255898.0
+2025-11-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,38,0,0,0,24.0,924061.0
+2025-12-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,36,0,0,0,18.0,777165.0
+2026-01-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,43,0,0,0,14.0,
+2026-02-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,33,0,0,0,28.0,
+2026-03-01,Malta,Gozo and Comino,Gozo,victoria_gozo,0,40,0,0,6,17.0,
+2020-01-01,Spain,Andalusia,Seville Province,andalusia,0,2,10,86,1,8.0,21539039.0
+2020-02-01,Spain,Andalusia,Seville Province,andalusia,0,2,6,92,2,13.0,23579845.0
+2020-03-01,Spain,Andalusia,Seville Province,andalusia,0,1,8,58,1,10.0,10975525.0
+2020-04-01,Spain,Andalusia,Seville Province,andalusia,0,0,2,36,0,12.0,0.0
+2020-05-01,Spain,Andalusia,Seville Province,andalusia,0,0,2,40,0,2.0,572162.0
+2020-06-01,Spain,Andalusia,Seville Province,andalusia,0,0,2,59,0,1.0,3916553.0
+2020-07-01,Spain,Andalusia,Seville Province,andalusia,0,1,3,65,0,1.0,21755739.0
+2020-08-01,Spain,Andalusia,Seville Province,andalusia,0,1,2,80,0,1.0,31661014.0
+2020-09-01,Spain,Andalusia,Seville Province,andalusia,0,1,2,65,0,1.0,13395196.0
+2020-10-01,Spain,Andalusia,Seville Province,andalusia,0,1,2,58,0,1.0,7849462.0
+2020-11-01,Spain,Andalusia,Seville Province,andalusia,0,0,2,40,0,1.0,4357310.0
+2020-12-01,Spain,Andalusia,Seville Province,andalusia,0,0,1,46,0,1.0,5074994.0
+2021-01-01,Spain,Andalusia,Seville Province,andalusia,0,0,1,38,0,1.0,3905773.0
+2021-02-01,Spain,Andalusia,Seville Province,andalusia,0,0,1,45,0,2.0,3691649.0
+2021-03-01,Spain,Andalusia,Seville Province,andalusia,0,0,1,45,0,3.0,5591945.0
+2021-04-01,Spain,Andalusia,Seville Province,andalusia,0,0,1,47,0,9.0,6910432.0
+2021-05-01,Spain,Andalusia,Seville Province,andalusia,0,1,2,66,0,2.0,11092892.0
+2021-06-01,Spain,Andalusia,Seville Province,andalusia,0,1,3,78,0,1.0,21634497.0
+2021-07-01,Spain,Andalusia,Seville Province,andalusia,0,1,3,83,1,1.0,42349731.0
+2021-08-01,Spain,Andalusia,Seville Province,andalusia,0,2,4,99,1,1.0,56753849.0
+2021-09-01,Spain,Andalusia,Seville Province,andalusia,0,2,4,86,1,2.0,36255305.0
+2021-10-01,Spain,Andalusia,Seville Province,andalusia,0,2,4,84,1,2.0,32217680.0
+2021-11-01,Spain,Andalusia,Seville Province,andalusia,0,2,3,77,1,2.0,20237815.0
+2021-12-01,Spain,Andalusia,Seville Province,andalusia,0,1,3,70,1,2.0,18790741.0
+2022-01-01,Spain,Andalusia,Seville Province,andalusia,0,1,3,75,1,5.0,15394675.0
+2022-02-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,88,1,10.0,18990282.0
+2022-03-01,Spain,Andalusia,Seville Province,andalusia,0,2,4,80,2,18.0,23600888.0
+2022-04-01,Spain,Andalusia,Seville Province,andalusia,0,2,4,96,2,63.0,34558347.0
+2022-05-01,Spain,Andalusia,Seville Province,andalusia,0,3,5,85,2,33.0,39486464.0
+2022-06-01,Spain,Andalusia,Seville Province,andalusia,0,2,6,81,2,2.0,48649387.0
+2022-07-01,Spain,Andalusia,Seville Province,andalusia,0,2,7,84,2,2.0,63965423.0
+2022-08-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,91,1,2.0,72032841.0
+2022-09-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,82,2,2.0,49012409.0
+2022-10-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,88,2,2.0,39265874.0
+2022-11-01,Spain,Andalusia,Seville Province,andalusia,0,2,4,81,1,3.0,23611518.0
+2022-12-01,Spain,Andalusia,Seville Province,andalusia,0,1,3,73,1,3.0,23056834.0
+2023-01-01,Spain,Andalusia,Seville Province,andalusia,0,1,4,77,1,8.0,21452922.0
+2023-02-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,78,1,13.0,23000407.0
+2023-03-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,86,2,21.0,27550793.0
+2023-04-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,100,2,100.0,38929992.0
+2023-05-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,73,2,10.0,42696790.0
+2023-06-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,84,2,2.0,49720530.0
+2023-07-01,Spain,Andalusia,Seville Province,andalusia,0,2,6,80,2,2.0,64451123.0
+2023-08-01,Spain,Andalusia,Seville Province,andalusia,0,2,7,87,2,3.0,72495554.0
+2023-09-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,90,2,3.0,51485539.0
+2023-10-01,Spain,Andalusia,Seville Province,andalusia,0,3,5,95,3,3.0,42557520.0
+2023-11-01,Spain,Andalusia,Seville Province,andalusia,0,2,4,82,2,3.0,25542702.0
+2023-12-01,Spain,Andalusia,Seville Province,andalusia,0,2,4,85,1,4.0,25026456.0
+2024-01-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,79,1,10.0,22812617.0
+2024-02-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,86,2,15.0,25168963.0
+2024-03-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,91,3,22.0,33696858.0
+2024-04-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,88,3,81.0,36094089.0
+2024-05-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,79,3,14.0,47236039.0
+2024-06-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,77,2,2.0,52253673.0
+2024-07-01,Spain,Andalusia,Seville Province,andalusia,0,2,6,78,1,2.0,65504997.0
+2024-08-01,Spain,Andalusia,Seville Province,andalusia,0,2,6,84,2,2.0,73791179.0
+2024-09-01,Spain,Andalusia,Seville Province,andalusia,0,2,6,97,3,3.0,52868884.0
+2024-10-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,88,3,3.0,43871373.0
+2024-11-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,76,2,3.0,26806814.0
+2024-12-01,Spain,Andalusia,Seville Province,andalusia,0,1,4,73,2,4.0,24979937.0
+2025-01-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,73,1,9.0,23619948.0
+2025-02-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,81,2,11.0,25264418.0
+2025-03-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,78,2,21.0,30251402.0
+2025-04-01,Spain,Andalusia,Seville Province,andalusia,0,2,5,91,3,52.0,39809109.0
+2025-05-01,Spain,Andalusia,Seville Province,andalusia,0,2,4,76,2,36.0,47170360.0
+2025-06-01,Spain,Andalusia,Seville Province,andalusia,0,3,5,71,2,2.0,54175564.0
+2025-07-01,Spain,Andalusia,Seville Province,andalusia,0,2,6,75,2,2.0,67091411.0
+2025-08-01,Spain,Andalusia,Seville Province,andalusia,0,3,6,89,2,2.0,74367338.0
+2025-09-01,Spain,Andalusia,Seville Province,andalusia,0,3,5,85,3,3.0,53888369.0
+2025-10-01,Spain,Andalusia,Seville Province,andalusia,0,3,5,82,3,3.0,44751911.0
+2025-11-01,Spain,Andalusia,Seville Province,andalusia,0,2,7,80,3,4.0,27377889.0
+2025-12-01,Spain,Andalusia,Seville Province,andalusia,0,2,6,71,2,4.0,25809552.0
+2026-01-01,Spain,Andalusia,Seville Province,andalusia,0,2,6,70,2,11.0,24000682.0
+2026-02-01,Spain,Andalusia,Seville Province,andalusia,0,2,6,76,2,14.0,
+2026-03-01,Spain,Andalusia,Seville Province,andalusia,0,3,7,82,3,24.0,
+2020-01-01,Spain,Balearic Islands,Balearic Islands,balearics,1,11,1,74,13,22.0,21539039.0
+2020-02-01,Spain,Balearic Islands,Balearic Islands,balearics,1,12,1,72,16,31.0,23579845.0
+2020-03-01,Spain,Balearic Islands,Balearic Islands,balearics,0,7,1,54,11,17.0,10975525.0
+2020-04-01,Spain,Balearic Islands,Balearic Islands,balearics,0,2,0,38,12,12.0,0.0
+2020-05-01,Spain,Balearic Islands,Balearic Islands,balearics,1,4,0,56,24,15.0,572162.0
+2020-06-01,Spain,Balearic Islands,Balearic Islands,balearics,2,9,0,67,44,11.0,3916553.0
+2020-07-01,Spain,Balearic Islands,Balearic Islands,balearics,2,17,0,77,71,17.0,21755739.0
+2020-08-01,Spain,Balearic Islands,Balearic Islands,balearics,2,18,0,82,96,21.0,31661014.0
+2020-09-01,Spain,Balearic Islands,Balearic Islands,balearics,1,9,0,73,52,20.0,13395196.0
+2020-10-01,Spain,Balearic Islands,Balearic Islands,balearics,0,6,0,62,17,13.0,7849462.0
+2020-11-01,Spain,Balearic Islands,Balearic Islands,balearics,0,4,0,54,10,10.0,4357310.0
+2020-12-01,Spain,Balearic Islands,Balearic Islands,balearics,0,4,0,58,11,8.0,5074994.0
+2021-01-01,Spain,Balearic Islands,Balearic Islands,balearics,0,3,0,54,11,8.0,3905773.0
+2021-02-01,Spain,Balearic Islands,Balearic Islands,balearics,0,5,0,55,13,12.0,3691649.0
+2021-03-01,Spain,Balearic Islands,Balearic Islands,balearics,1,7,0,58,18,9.0,5591945.0
+2021-04-01,Spain,Balearic Islands,Balearic Islands,balearics,1,8,0,59,23,15.0,6910432.0
+2021-05-01,Spain,Balearic Islands,Balearic Islands,balearics,1,14,0,70,44,20.0,11092892.0
+2021-06-01,Spain,Balearic Islands,Balearic Islands,balearics,2,25,0,85,72,24.0,21634497.0
+2021-07-01,Spain,Balearic Islands,Balearic Islands,balearics,1,26,1,84,78,39.0,42349731.0
+2021-08-01,Spain,Balearic Islands,Balearic Islands,balearics,1,26,0,88,89,46.0,56753849.0
+2021-09-01,Spain,Balearic Islands,Balearic Islands,balearics,1,15,1,93,51,41.0,36255305.0
+2021-10-01,Spain,Balearic Islands,Balearic Islands,balearics,1,12,0,77,27,57.0,32217680.0
+2021-11-01,Spain,Balearic Islands,Balearic Islands,balearics,0,7,0,69,13,16.0,20237815.0
+2021-12-01,Spain,Balearic Islands,Balearic Islands,balearics,0,7,0,58,16,8.0,18790741.0
+2022-01-01,Spain,Balearic Islands,Balearic Islands,balearics,1,9,0,64,20,22.0,15394675.0
+2022-02-01,Spain,Balearic Islands,Balearic Islands,balearics,1,12,0,71,23,31.0,18990282.0
+2022-03-01,Spain,Balearic Islands,Balearic Islands,balearics,1,14,1,82,27,30.0,23600888.0
+2022-04-01,Spain,Balearic Islands,Balearic Islands,balearics,2,20,1,90,37,54.0,34558347.0
+2022-05-01,Spain,Balearic Islands,Balearic Islands,balearics,2,23,1,87,49,63.0,39486464.0
+2022-06-01,Spain,Balearic Islands,Balearic Islands,balearics,2,28,1,97,65,74.0,48649387.0
+2022-07-01,Spain,Balearic Islands,Balearic Islands,balearics,2,26,1,98,68,100.0,63965423.0
+2022-08-01,Spain,Balearic Islands,Balearic Islands,balearics,2,24,1,100,76,81.0,72032841.0
+2022-09-01,Spain,Balearic Islands,Balearic Islands,balearics,1,18,1,92,49,55.0,49012409.0
+2022-10-01,Spain,Balearic Islands,Balearic Islands,balearics,1,11,1,75,25,81.0,39265874.0
+2022-11-01,Spain,Balearic Islands,Balearic Islands,balearics,1,8,0,63,13,23.0,23611518.0
+2022-12-01,Spain,Balearic Islands,Balearic Islands,balearics,0,7,0,59,12,16.0,23056834.0
+2023-01-01,Spain,Balearic Islands,Balearic Islands,balearics,1,10,0,68,15,17.0,21452922.0
+2023-02-01,Spain,Balearic Islands,Balearic Islands,balearics,1,12,1,70,17,23.0,23000407.0
+2023-03-01,Spain,Balearic Islands,Balearic Islands,balearics,1,15,1,73,23,35.0,27550793.0
+2023-04-01,Spain,Balearic Islands,Balearic Islands,balearics,2,18,1,81,33,59.0,38929992.0
+2023-05-01,Spain,Balearic Islands,Balearic Islands,balearics,1,19,1,86,47,72.0,42696790.0
+2023-06-01,Spain,Balearic Islands,Balearic Islands,balearics,2,23,1,84,61,65.0,49720530.0
+2023-07-01,Spain,Balearic Islands,Balearic Islands,balearics,2,25,1,88,73,80.0,64451123.0
+2023-08-01,Spain,Balearic Islands,Balearic Islands,balearics,1,23,1,92,71,84.0,72495554.0
+2023-09-01,Spain,Balearic Islands,Balearic Islands,balearics,1,14,1,81,48,53.0,51485539.0
+2023-10-01,Spain,Balearic Islands,Balearic Islands,balearics,1,13,1,70,24,44.0,42557520.0
+2023-11-01,Spain,Balearic Islands,Balearic Islands,balearics,1,9,0,59,13,49.0,25542702.0
+2023-12-01,Spain,Balearic Islands,Balearic Islands,balearics,1,8,0,59,12,15.0,25026456.0
+2024-01-01,Spain,Balearic Islands,Balearic Islands,balearics,1,10,1,60,14,24.0,22812617.0
+2024-02-01,Spain,Balearic Islands,Balearic Islands,balearics,1,13,1,58,17,30.0,25168963.0
+2024-03-01,Spain,Balearic Islands,Balearic Islands,balearics,1,13,1,64,22,27.0,33696858.0
+2024-04-01,Spain,Balearic Islands,Balearic Islands,balearics,2,15,1,66,29,38.0,36094089.0
+2024-05-01,Spain,Balearic Islands,Balearic Islands,balearics,1,16,1,72,42,66.0,47236039.0
+2024-06-01,Spain,Balearic Islands,Balearic Islands,balearics,1,19,1,70,55,60.0,52253673.0
+2024-07-01,Spain,Balearic Islands,Balearic Islands,balearics,1,19,1,69,64,54.0,65504997.0
+2024-08-01,Spain,Balearic Islands,Balearic Islands,balearics,1,19,1,78,76,62.0,73791179.0
+2024-09-01,Spain,Balearic Islands,Balearic Islands,balearics,1,14,1,68,41,61.0,52868884.0
+2024-10-01,Spain,Balearic Islands,Balearic Islands,balearics,0,10,1,61,22,31.0,43871373.0
+2024-11-01,Spain,Balearic Islands,Balearic Islands,balearics,0,7,0,52,11,37.0,26806814.0
+2024-12-01,Spain,Balearic Islands,Balearic Islands,balearics,0,6,0,49,12,14.0,24979937.0
+2025-01-01,Spain,Balearic Islands,Balearic Islands,balearics,1,9,0,53,13,14.0,23619948.0
+2025-02-01,Spain,Balearic Islands,Balearic Islands,balearics,1,11,1,56,15,23.0,25264418.0
+2025-03-01,Spain,Balearic Islands,Balearic Islands,balearics,1,12,1,58,17,25.0,30251402.0
+2025-04-01,Spain,Balearic Islands,Balearic Islands,balearics,1,12,1,63,27,48.0,39809109.0
+2025-05-01,Spain,Balearic Islands,Balearic Islands,balearics,1,13,1,60,40,49.0,47170360.0
+2025-06-01,Spain,Balearic Islands,Balearic Islands,balearics,1,16,1,62,50,52.0,54175564.0
+2025-07-01,Spain,Balearic Islands,Balearic Islands,balearics,1,17,1,76,59,71.0,67091411.0
+2025-08-01,Spain,Balearic Islands,Balearic Islands,balearics,1,15,1,76,63,46.0,74367338.0
+2025-09-01,Spain,Balearic Islands,Balearic Islands,balearics,1,13,1,67,40,67.0,53888369.0
+2025-10-01,Spain,Balearic Islands,Balearic Islands,balearics,1,12,1,61,22,29.0,44751911.0
+2025-11-01,Spain,Balearic Islands,Balearic Islands,balearics,1,7,1,54,12,17.0,27377889.0
+2025-12-01,Spain,Balearic Islands,Balearic Islands,balearics,1,6,1,50,10,12.0,25809552.0
+2026-01-01,Spain,Balearic Islands,Balearic Islands,balearics,1,8,1,54,13,22.0,24000682.0
+2026-02-01,Spain,Balearic Islands,Balearic Islands,balearics,1,10,1,68,15,25.0,
+2026-03-01,Spain,Balearic Islands,Balearic Islands,balearics,1,12,1,64,19,31.0,
+2020-01-01,Spain,Catalonia,Barcelona Province,barcelona,4,54,12,48,6,29.0,21539039.0
+2020-02-01,Spain,Catalonia,Barcelona Province,barcelona,4,58,6,50,7,50.0,23579845.0
+2020-03-01,Spain,Catalonia,Barcelona Province,barcelona,2,27,5,36,3,22.0,10975525.0
+2020-04-01,Spain,Catalonia,Barcelona Province,barcelona,1,10,1,25,0,10.0,0.0
+2020-05-01,Spain,Catalonia,Barcelona Province,barcelona,2,12,2,31,1,10.0,572162.0
+2020-06-01,Spain,Catalonia,Barcelona Province,barcelona,3,23,2,36,2,12.0,3916553.0
+2020-07-01,Spain,Catalonia,Barcelona Province,barcelona,3,32,2,28,2,12.0,21755739.0
+2020-08-01,Spain,Catalonia,Barcelona Province,barcelona,3,33,2,30,2,7.0,31661014.0
+2020-09-01,Spain,Catalonia,Barcelona Province,barcelona,2,28,2,40,2,11.0,13395196.0
+2020-10-01,Spain,Catalonia,Barcelona Province,barcelona,2,24,2,34,2,12.0,7849462.0
+2020-11-01,Spain,Catalonia,Barcelona Province,barcelona,1,18,1,29,1,7.0,4357310.0
+2020-12-01,Spain,Catalonia,Barcelona Province,barcelona,1,23,1,30,1,5.0,5074994.0
+2021-01-01,Spain,Catalonia,Barcelona Province,barcelona,1,19,1,23,1,5.0,3905773.0
+2021-02-01,Spain,Catalonia,Barcelona Province,barcelona,2,24,1,30,1,7.0,3691649.0
+2021-03-01,Spain,Catalonia,Barcelona Province,barcelona,2,27,1,30,1,8.0,5591945.0
+2021-04-01,Spain,Catalonia,Barcelona Province,barcelona,2,25,1,29,1,14.0,6910432.0
+2021-05-01,Spain,Catalonia,Barcelona Province,barcelona,3,38,2,34,2,19.0,11092892.0
+2021-06-01,Spain,Catalonia,Barcelona Province,barcelona,4,46,2,38,3,23.0,21634497.0
+2021-07-01,Spain,Catalonia,Barcelona Province,barcelona,4,54,3,41,6,24.0,42349731.0
+2021-08-01,Spain,Catalonia,Barcelona Province,barcelona,3,68,3,46,8,14.0,56753849.0
+2021-09-01,Spain,Catalonia,Barcelona Province,barcelona,3,52,3,55,6,17.0,36255305.0
+2021-10-01,Spain,Catalonia,Barcelona Province,barcelona,3,51,4,51,7,26.0,32217680.0
+2021-11-01,Spain,Catalonia,Barcelona Province,barcelona,3,45,3,51,6,31.0,20237815.0
+2021-12-01,Spain,Catalonia,Barcelona Province,barcelona,3,43,3,72,6,16.0,18790741.0
+2022-01-01,Spain,Catalonia,Barcelona Province,barcelona,4,43,3,44,4,17.0,15394675.0
+2022-02-01,Spain,Catalonia,Barcelona Province,barcelona,5,59,5,48,6,33.0,18990282.0
+2022-03-01,Spain,Catalonia,Barcelona Province,barcelona,5,55,5,50,7,37.0,23600888.0
+2022-04-01,Spain,Catalonia,Barcelona Province,barcelona,5,62,5,59,10,46.0,34558347.0
+2022-05-01,Spain,Catalonia,Barcelona Province,barcelona,6,64,5,58,10,56.0,39486464.0
+2022-06-01,Spain,Catalonia,Barcelona Province,barcelona,5,67,7,59,11,79.0,48649387.0
+2022-07-01,Spain,Catalonia,Barcelona Province,barcelona,6,67,7,59,13,100.0,63965423.0
+2022-08-01,Spain,Catalonia,Barcelona Province,barcelona,5,67,5,64,13,39.0,72032841.0
+2022-09-01,Spain,Catalonia,Barcelona Province,barcelona,5,58,6,63,10,37.0,49012409.0
+2022-10-01,Spain,Catalonia,Barcelona Province,barcelona,4,51,6,100,10,35.0,39265874.0
+2022-11-01,Spain,Catalonia,Barcelona Province,barcelona,4,49,5,68,7,26.0,23611518.0
+2022-12-01,Spain,Catalonia,Barcelona Province,barcelona,3,45,4,64,6,26.0,23056834.0
+2023-01-01,Spain,Catalonia,Barcelona Province,barcelona,5,52,6,55,6,27.0,21452922.0
+2023-02-01,Spain,Catalonia,Barcelona Province,barcelona,6,53,5,57,8,39.0,23000407.0
+2023-03-01,Spain,Catalonia,Barcelona Province,barcelona,6,58,6,57,9,46.0,27550793.0
+2023-04-01,Spain,Catalonia,Barcelona Province,barcelona,5,64,6,69,13,53.0,38929992.0
+2023-05-01,Spain,Catalonia,Barcelona Province,barcelona,5,57,6,66,12,61.0,42696790.0
+2023-06-01,Spain,Catalonia,Barcelona Province,barcelona,5,58,6,59,12,76.0,49720530.0
+2023-07-01,Spain,Catalonia,Barcelona Province,barcelona,5,62,7,62,14,75.0,64451123.0
+2023-08-01,Spain,Catalonia,Barcelona Province,barcelona,4,58,6,64,15,36.0,72495554.0
+2023-09-01,Spain,Catalonia,Barcelona Province,barcelona,4,53,6,67,13,46.0,51485539.0
+2023-10-01,Spain,Catalonia,Barcelona Province,barcelona,4,53,6,63,12,42.0,42557520.0
+2023-11-01,Spain,Catalonia,Barcelona Province,barcelona,3,48,5,71,10,30.0,25542702.0
+2023-12-01,Spain,Catalonia,Barcelona Province,barcelona,3,46,4,70,9,30.0,25026456.0
+2024-01-01,Spain,Catalonia,Barcelona Province,barcelona,4,46,7,53,7,28.0,22812617.0
+2024-02-01,Spain,Catalonia,Barcelona Province,barcelona,4,49,7,54,9,42.0,25168963.0
+2024-03-01,Spain,Catalonia,Barcelona Province,barcelona,4,48,7,63,11,45.0,33696858.0
+2024-04-01,Spain,Catalonia,Barcelona Province,barcelona,5,53,6,63,12,47.0,36094089.0
+2024-05-01,Spain,Catalonia,Barcelona Province,barcelona,4,51,7,60,13,57.0,47236039.0
+2024-06-01,Spain,Catalonia,Barcelona Province,barcelona,4,51,7,57,12,85.0,52253673.0
+2024-07-01,Spain,Catalonia,Barcelona Province,barcelona,4,53,7,57,13,69.0,65504997.0
+2024-08-01,Spain,Catalonia,Barcelona Province,barcelona,4,53,7,58,13,39.0,73791179.0
+2024-09-01,Spain,Catalonia,Barcelona Province,barcelona,4,49,8,62,12,38.0,52868884.0
+2024-10-01,Spain,Catalonia,Barcelona Province,barcelona,4,44,7,55,11,41.0,43871373.0
+2024-11-01,Spain,Catalonia,Barcelona Province,barcelona,3,39,6,47,8,34.0,26806814.0
+2024-12-01,Spain,Catalonia,Barcelona Province,barcelona,3,38,5,52,6,24.0,24979937.0
+2025-01-01,Spain,Catalonia,Barcelona Province,barcelona,4,41,7,42,6,25.0,23619948.0
+2025-02-01,Spain,Catalonia,Barcelona Province,barcelona,4,43,7,47,7,39.0,25264418.0
+2025-03-01,Spain,Catalonia,Barcelona Province,barcelona,3,40,7,45,8,39.0,30251402.0
+2025-04-01,Spain,Catalonia,Barcelona Province,barcelona,4,42,7,51,10,42.0,39809109.0
+2025-05-01,Spain,Catalonia,Barcelona Province,barcelona,4,43,6,50,10,51.0,47170360.0
+2025-06-01,Spain,Catalonia,Barcelona Province,barcelona,4,43,7,50,11,61.0,54175564.0
+2025-07-01,Spain,Catalonia,Barcelona Province,barcelona,4,49,7,52,12,57.0,67091411.0
+2025-08-01,Spain,Catalonia,Barcelona Province,barcelona,4,47,7,59,12,34.0,74367338.0
+2025-09-01,Spain,Catalonia,Barcelona Province,barcelona,3,46,7,57,10,35.0,53888369.0
+2025-10-01,Spain,Catalonia,Barcelona Province,barcelona,3,45,7,54,11,40.0,44751911.0
+2025-11-01,Spain,Catalonia,Barcelona Province,barcelona,3,44,13,53,8,33.0,27377889.0
+2025-12-01,Spain,Catalonia,Barcelona Province,barcelona,3,43,10,56,6,27.0,25809552.0
+2026-01-01,Spain,Catalonia,Barcelona Province,barcelona,3,42,10,47,5,22.0,24000682.0
+2026-02-01,Spain,Catalonia,Barcelona Province,barcelona,4,42,10,56,8,33.0,
+2026-03-01,Spain,Catalonia,Barcelona Province,barcelona,4,47,13,63,10,39.0,
+2020-01-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,9,2,0,68,0.0,21539039.0
+2020-02-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,11,1,0,80,0.0,23579845.0
+2020-03-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,4,1,0,52,0.0,10975525.0
+2020-04-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,1,0,0,31,80.0,0.0
+2020-05-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,2,0,0,42,0.0,572162.0
+2020-06-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,5,0,0,54,0.0,3916553.0
+2020-07-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,7,0,0,63,0.0,21755739.0
+2020-08-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,8,0,0,73,0.0,31661014.0
+2020-09-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,6,0,0,56,0.0,13395196.0
+2020-10-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,4,0,0,54,0.0,7849462.0
+2020-11-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,3,0,0,51,0.0,4357310.0
+2020-12-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,3,0,0,52,0.0,5074994.0
+2021-01-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,3,0,0,55,0.0,3905773.0
+2021-02-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,4,0,0,53,0.0,3691649.0
+2021-03-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,5,0,0,51,0.0,5591945.0
+2021-04-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,5,0,0,56,0.0,6910432.0
+2021-05-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,7,0,0,60,0.0,11092892.0
+2021-06-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,11,0,0,66,0.0,21634497.0
+2021-07-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,11,0,0,81,0.0,42349731.0
+2021-08-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,11,0,0,82,0.0,56753849.0
+2021-09-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,8,0,1,82,0.0,36255305.0
+2021-10-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,6,0,0,72,0.0,32217680.0
+2021-11-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,7,0,0,70,0.0,20237815.0
+2021-12-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,6,0,0,71,0.0,18790741.0
+2022-01-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,7,0,0,83,0.0,15394675.0
+2022-02-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,8,1,0,82,0.0,18990282.0
+2022-03-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,9,0,0,82,0.0,23600888.0
+2022-04-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,9,0,0,83,0.0,34558347.0
+2022-05-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,10,0,0,78,0.0,39486464.0
+2022-06-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,11,1,0,84,0.0,48649387.0
+2022-07-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,12,1,0,100,0.0,63965423.0
+2022-08-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,11,0,0,90,0.0,72032841.0
+2022-09-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,9,1,0,87,0.0,49012409.0
+2022-10-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,7,0,0,74,0.0,39265874.0
+2022-11-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,6,0,0,74,0.0,23611518.0
+2022-12-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,6,1,0,79,0.0,23056834.0
+2023-01-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,8,1,0,81,94.0,21452922.0
+2023-02-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,7,1,0,84,0.0,23000407.0
+2023-03-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,8,1,0,80,0.0,27550793.0
+2023-04-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,9,1,0,84,0.0,38929992.0
+2023-05-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,8,0,0,82,0.0,42696790.0
+2023-06-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,9,1,0,85,0.0,49720530.0
+2023-07-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,10,0,0,98,0.0,64451123.0
+2023-08-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,9,1,0,92,0.0,72495554.0
+2023-09-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,6,0,0,76,0.0,51485539.0
+2023-10-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,7,0,0,81,0.0,42557520.0
+2023-11-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,7,0,0,77,0.0,25542702.0
+2023-12-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,5,0,0,82,0.0,25026456.0
+2024-01-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,8,1,0,85,0.0,22812617.0
+2024-02-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,7,1,0,82,0.0,25168963.0
+2024-03-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,7,1,0,80,0.0,33696858.0
+2024-04-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,7,0,0,75,0.0,36094089.0
+2024-05-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,7,0,0,74,0.0,47236039.0
+2024-06-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,8,0,0,78,0.0,52253673.0
+2024-07-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,8,0,0,82,0.0,65504997.0
+2024-08-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,9,0,0,87,0.0,73791179.0
+2024-09-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,7,0,0,83,0.0,52868884.0
+2024-10-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,5,0,0,75,0.0,43871373.0
+2024-11-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,5,0,0,79,0.0,26806814.0
+2024-12-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,5,0,0,78,0.0,24979937.0
+2025-01-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,1,6,1,0,77,0.0,23619948.0
+2025-02-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,6,0,0,81,0.0,25264418.0
+2025-03-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,7,0,0,85,0.0,30251402.0
+2025-04-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,6,0,0,85,0.0,39809109.0
+2025-05-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,6,0,0,78,0.0,47170360.0
+2025-06-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,7,0,0,76,0.0,54175564.0
+2025-07-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,7,0,0,94,0.0,67091411.0
+2025-08-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,7,0,0,86,0.0,74367338.0
+2025-09-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,5,0,0,80,0.0,53888369.0
+2025-10-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,5,0,0,77,0.0,44751911.0
+2025-11-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,5,1,0,83,0.0,27377889.0
+2025-12-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,5,1,0,82,0.0,25809552.0
+2026-01-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,6,1,0,83,0.0,24000682.0
+2026-02-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,6,1,0,86,100.0,
+2026-03-01,Spain,Canary Islands,Santa Cruz de Tenerife,canary,0,6,1,0,97,0.0,
+2020-01-01,Spain,Community of Madrid,Madrid,madrid,8,91,14,1,1,28.0,21539039.0
+2020-02-01,Spain,Community of Madrid,Madrid,madrid,8,97,7,2,1,48.0,23579845.0
+2020-03-01,Spain,Community of Madrid,Madrid,madrid,3,39,4,1,0,15.0,10975525.0
+2020-04-01,Spain,Community of Madrid,Madrid,madrid,1,12,2,0,0,6.0,0.0
+2020-05-01,Spain,Community of Madrid,Madrid,madrid,3,21,2,0,0,5.0,572162.0
+2020-06-01,Spain,Community of Madrid,Madrid,madrid,5,36,2,0,0,7.0,3916553.0
+2020-07-01,Spain,Community of Madrid,Madrid,madrid,5,45,2,0,1,7.0,21755739.0
+2020-08-01,Spain,Community of Madrid,Madrid,madrid,4,45,2,0,1,5.0,31661014.0
+2020-09-01,Spain,Community of Madrid,Madrid,madrid,3,39,1,0,0,6.0,13395196.0
+2020-10-01,Spain,Community of Madrid,Madrid,madrid,2,30,1,0,0,7.0,7849462.0
+2020-11-01,Spain,Community of Madrid,Madrid,madrid,3,31,1,0,0,8.0,4357310.0
+2020-12-01,Spain,Community of Madrid,Madrid,madrid,3,37,1,0,0,4.0,5074994.0
+2021-01-01,Spain,Community of Madrid,Madrid,madrid,3,35,1,0,0,4.0,3905773.0
+2021-02-01,Spain,Community of Madrid,Madrid,madrid,3,39,1,0,0,7.0,3691649.0
+2021-03-01,Spain,Community of Madrid,Madrid,madrid,4,40,1,0,0,5.0,5591945.0
+2021-04-01,Spain,Community of Madrid,Madrid,madrid,3,44,1,0,0,8.0,6910432.0
+2021-05-01,Spain,Community of Madrid,Madrid,madrid,5,59,2,0,1,13.0,11092892.0
+2021-06-01,Spain,Community of Madrid,Madrid,madrid,6,83,2,1,1,14.0,21634497.0
+2021-07-01,Spain,Community of Madrid,Madrid,madrid,5,75,3,1,1,11.0,42349731.0
+2021-08-01,Spain,Community of Madrid,Madrid,madrid,5,77,2,1,1,9.0,56753849.0
+2021-09-01,Spain,Community of Madrid,Madrid,madrid,6,91,3,1,1,14.0,36255305.0
+2021-10-01,Spain,Community of Madrid,Madrid,madrid,7,100,4,2,1,33.0,32217680.0
+2021-11-01,Spain,Community of Madrid,Madrid,madrid,8,98,3,2,1,18.0,20237815.0
+2021-12-01,Spain,Community of Madrid,Madrid,madrid,5,80,3,1,1,16.0,18790741.0
+2022-01-01,Spain,Community of Madrid,Madrid,madrid,7,83,3,1,1,17.0,15394675.0
+2022-02-01,Spain,Community of Madrid,Madrid,madrid,9,97,5,1,1,26.0,18990282.0
+2022-03-01,Spain,Community of Madrid,Madrid,madrid,9,96,5,2,1,30.0,23600888.0
+2022-04-01,Spain,Community of Madrid,Madrid,madrid,8,95,5,2,1,48.0,34558347.0
+2022-05-01,Spain,Community of Madrid,Madrid,madrid,9,96,5,2,1,41.0,39486464.0
+2022-06-01,Spain,Community of Madrid,Madrid,madrid,8,96,5,2,1,58.0,48649387.0
+2022-07-01,Spain,Community of Madrid,Madrid,madrid,7,89,6,2,1,100.0,63965423.0
+2022-08-01,Spain,Community of Madrid,Madrid,madrid,7,90,4,2,1,29.0,72032841.0
+2022-09-01,Spain,Community of Madrid,Madrid,madrid,8,95,5,2,1,29.0,49012409.0
+2022-10-01,Spain,Community of Madrid,Madrid,madrid,9,100,5,2,1,21.0,39265874.0
+2022-11-01,Spain,Community of Madrid,Madrid,madrid,9,99,5,2,1,22.0,23611518.0
+2022-12-01,Spain,Community of Madrid,Madrid,madrid,6,81,4,1,1,17.0,23056834.0
+2023-01-01,Spain,Community of Madrid,Madrid,madrid,9,92,6,2,1,21.0,21452922.0
+2023-02-01,Spain,Community of Madrid,Madrid,madrid,9,92,5,2,1,30.0,23000407.0
+2023-03-01,Spain,Community of Madrid,Madrid,madrid,9,81,6,2,1,30.0,27550793.0
+2023-04-01,Spain,Community of Madrid,Madrid,madrid,9,92,5,2,2,36.0,38929992.0
+2023-05-01,Spain,Community of Madrid,Madrid,madrid,7,82,5,2,1,43.0,42696790.0
+2023-06-01,Spain,Community of Madrid,Madrid,madrid,9,88,5,2,2,64.0,49720530.0
+2023-07-01,Spain,Community of Madrid,Madrid,madrid,7,88,6,2,2,76.0,64451123.0
+2023-08-01,Spain,Community of Madrid,Madrid,madrid,7,80,5,2,1,25.0,72495554.0
+2023-09-01,Spain,Community of Madrid,Madrid,madrid,8,88,6,3,2,37.0,51485539.0
+2023-10-01,Spain,Community of Madrid,Madrid,madrid,9,88,6,3,1,43.0,42557520.0
+2023-11-01,Spain,Community of Madrid,Madrid,madrid,9,93,6,2,1,21.0,25542702.0
+2023-12-01,Spain,Community of Madrid,Madrid,madrid,7,84,5,2,1,18.0,25026456.0
+2024-01-01,Spain,Community of Madrid,Madrid,madrid,8,85,7,2,1,18.0,22812617.0
+2024-02-01,Spain,Community of Madrid,Madrid,madrid,8,87,8,2,1,28.0,25168963.0
+2024-03-01,Spain,Community of Madrid,Madrid,madrid,7,80,7,3,2,25.0,33696858.0
+2024-04-01,Spain,Community of Madrid,Madrid,madrid,8,84,7,3,2,30.0,36094089.0
+2024-05-01,Spain,Community of Madrid,Madrid,madrid,8,86,7,3,2,39.0,47236039.0
+2024-06-01,Spain,Community of Madrid,Madrid,madrid,7,81,7,3,2,52.0,52253673.0
+2024-07-01,Spain,Community of Madrid,Madrid,madrid,7,78,7,2,1,39.0,65504997.0
+2024-08-01,Spain,Community of Madrid,Madrid,madrid,6,79,7,2,1,25.0,73791179.0
+2024-09-01,Spain,Community of Madrid,Madrid,madrid,7,87,8,3,1,34.0,52868884.0
+2024-10-01,Spain,Community of Madrid,Madrid,madrid,8,82,8,3,1,25.0,43871373.0
+2024-11-01,Spain,Community of Madrid,Madrid,madrid,7,82,6,2,1,21.0,26806814.0
+2024-12-01,Spain,Community of Madrid,Madrid,madrid,6,65,6,2,1,15.0,24979937.0
+2025-01-01,Spain,Community of Madrid,Madrid,madrid,7,72,8,2,1,17.0,23619948.0
+2025-02-01,Spain,Community of Madrid,Madrid,madrid,7,72,8,2,1,28.0,25264418.0
+2025-03-01,Spain,Community of Madrid,Madrid,madrid,7,69,8,3,1,21.0,30251402.0
+2025-04-01,Spain,Community of Madrid,Madrid,madrid,6,69,7,3,1,26.0,39809109.0
+2025-05-01,Spain,Community of Madrid,Madrid,madrid,6,65,7,3,2,35.0,47170360.0
+2025-06-01,Spain,Community of Madrid,Madrid,madrid,6,66,6,3,2,41.0,54175564.0
+2025-07-01,Spain,Community of Madrid,Madrid,madrid,6,66,6,2,1,31.0,67091411.0
+2025-08-01,Spain,Community of Madrid,Madrid,madrid,6,70,7,2,2,19.0,74367338.0
+2025-09-01,Spain,Community of Madrid,Madrid,madrid,7,78,8,3,1,35.0,53888369.0
+2025-10-01,Spain,Community of Madrid,Madrid,madrid,6,79,8,3,1,21.0,44751911.0
+2025-11-01,Spain,Community of Madrid,Madrid,madrid,6,80,16,2,1,21.0,27377889.0
+2025-12-01,Spain,Community of Madrid,Madrid,madrid,5,70,13,2,1,15.0,25809552.0
+2026-01-01,Spain,Community of Madrid,Madrid,madrid,7,70,12,2,1,19.0,24000682.0
+2026-02-01,Spain,Community of Madrid,Madrid,madrid,6,72,12,2,1,28.0,
+2026-03-01,Spain,Community of Madrid,Madrid,madrid,7,74,14,2,1,31.0,
+2020-01-01,Spain,Valencia,Valencia Province,valencia,6,63,10,0,0,7.0,21539039.0
+2020-02-01,Spain,Valencia,Valencia Province,valencia,6,72,4,0,1,23.0,23579845.0
+2020-03-01,Spain,Valencia,Valencia Province,valencia,3,42,2,0,0,88.0,10975525.0
+2020-04-01,Spain,Valencia,Valencia Province,valencia,1,9,1,0,0,5.0,0.0
+2020-05-01,Spain,Valencia,Valencia Province,valencia,3,14,1,0,0,4.0,572162.0
+2020-06-01,Spain,Valencia,Valencia Province,valencia,6,33,2,0,0,3.0,3916553.0
+2020-07-01,Spain,Valencia,Valencia Province,valencia,7,57,1,0,0,2.0,21755739.0
+2020-08-01,Spain,Valencia,Valencia Province,valencia,6,67,1,0,0,2.0,31661014.0
+2020-09-01,Spain,Valencia,Valencia Province,valencia,4,39,1,0,0,2.0,13395196.0
+2020-10-01,Spain,Valencia,Valencia Province,valencia,3,35,1,0,0,3.0,7849462.0
+2020-11-01,Spain,Valencia,Valencia Province,valencia,2,25,1,0,0,3.0,4357310.0
+2020-12-01,Spain,Valencia,Valencia Province,valencia,2,27,1,0,0,2.0,5074994.0
+2021-01-01,Spain,Valencia,Valencia Province,valencia,2,21,1,0,0,4.0,3905773.0
+2021-02-01,Spain,Valencia,Valencia Province,valencia,2,25,1,0,0,4.0,3691649.0
+2021-03-01,Spain,Valencia,Valencia Province,valencia,3,33,1,0,0,9.0,5591945.0
+2021-04-01,Spain,Valencia,Valencia Province,valencia,3,37,1,0,0,2.0,6910432.0
+2021-05-01,Spain,Valencia,Valencia Province,valencia,6,62,1,0,0,6.0,11092892.0
+2021-06-01,Spain,Valencia,Valencia Province,valencia,9,83,2,0,0,4.0,21634497.0
+2021-07-01,Spain,Valencia,Valencia Province,valencia,8,90,2,0,0,3.0,42349731.0
+2021-08-01,Spain,Valencia,Valencia Province,valencia,7,100,2,0,0,22.0,56753849.0
+2021-09-01,Spain,Valencia,Valencia Province,valencia,5,65,2,0,0,26.0,36255305.0
+2021-10-01,Spain,Valencia,Valencia Province,valencia,5,68,2,0,0,5.0,32217680.0
+2021-11-01,Spain,Valencia,Valencia Province,valencia,5,53,2,0,0,4.0,20237815.0
+2021-12-01,Spain,Valencia,Valencia Province,valencia,4,44,2,0,0,3.0,18790741.0
+2022-01-01,Spain,Valencia,Valencia Province,valencia,6,51,2,0,0,7.0,15394675.0
+2022-02-01,Spain,Valencia,Valencia Province,valencia,8,86,3,0,0,24.0,18990282.0
+2022-03-01,Spain,Valencia,Valencia Province,valencia,9,76,3,0,0,63.0,23600888.0
+2022-04-01,Spain,Valencia,Valencia Province,valencia,9,79,3,0,1,5.0,34558347.0
+2022-05-01,Spain,Valencia,Valencia Province,valencia,9,79,4,0,0,5.0,39486464.0
+2022-06-01,Spain,Valencia,Valencia Province,valencia,10,85,4,1,1,5.0,48649387.0
+2022-07-01,Spain,Valencia,Valencia Province,valencia,10,95,4,0,1,3.0,63965423.0
+2022-08-01,Spain,Valencia,Valencia Province,valencia,8,92,3,0,1,3.0,72032841.0
+2022-09-01,Spain,Valencia,Valencia Province,valencia,7,75,4,0,1,4.0,49012409.0
+2022-10-01,Spain,Valencia,Valencia Province,valencia,6,65,3,0,1,5.0,39265874.0
+2022-11-01,Spain,Valencia,Valencia Province,valencia,5,60,3,0,0,5.0,23611518.0
+2022-12-01,Spain,Valencia,Valencia Province,valencia,5,53,2,0,0,4.0,23056834.0
+2023-01-01,Spain,Valencia,Valencia Province,valencia,7,70,4,0,0,9.0,21452922.0
+2023-02-01,Spain,Valencia,Valencia Province,valencia,9,74,4,0,1,26.0,23000407.0
+2023-03-01,Spain,Valencia,Valencia Province,valencia,10,77,4,0,1,84.0,27550793.0
+2023-04-01,Spain,Valencia,Valencia Province,valencia,9,80,4,0,1,5.0,38929992.0
+2023-05-01,Spain,Valencia,Valencia Province,valencia,8,65,4,1,1,4.0,42696790.0
+2023-06-01,Spain,Valencia,Valencia Province,valencia,10,82,3,1,1,5.0,49720530.0
+2023-07-01,Spain,Valencia,Valencia Province,valencia,10,82,3,1,1,3.0,64451123.0
+2023-08-01,Spain,Valencia,Valencia Province,valencia,9,84,4,1,1,3.0,72495554.0
+2023-09-01,Spain,Valencia,Valencia Province,valencia,7,67,3,1,1,4.0,51485539.0
+2023-10-01,Spain,Valencia,Valencia Province,valencia,7,60,4,1,1,6.0,42557520.0
+2023-11-01,Spain,Valencia,Valencia Province,valencia,5,57,3,0,1,5.0,25542702.0
+2023-12-01,Spain,Valencia,Valencia Province,valencia,5,60,3,0,0,5.0,25026456.0
+2024-01-01,Spain,Valencia,Valencia Province,valencia,6,59,4,0,0,12.0,22812617.0
+2024-02-01,Spain,Valencia,Valencia Province,valencia,8,74,5,0,1,30.0,25168963.0
+2024-03-01,Spain,Valencia,Valencia Province,valencia,8,69,4,1,1,87.0,33696858.0
+2024-04-01,Spain,Valencia,Valencia Province,valencia,7,63,4,0,1,6.0,36094089.0
+2024-05-01,Spain,Valencia,Valencia Province,valencia,7,65,4,1,1,4.0,47236039.0
+2024-06-01,Spain,Valencia,Valencia Province,valencia,8,75,4,1,1,5.0,52253673.0
+2024-07-01,Spain,Valencia,Valencia Province,valencia,8,79,5,1,1,3.0,65504997.0
+2024-08-01,Spain,Valencia,Valencia Province,valencia,7,79,4,0,1,3.0,73791179.0
+2024-09-01,Spain,Valencia,Valencia Province,valencia,5,63,5,1,1,5.0,52868884.0
+2024-10-01,Spain,Valencia,Valencia Province,valencia,5,54,5,0,1,5.0,43871373.0
+2024-11-01,Spain,Valencia,Valencia Province,valencia,4,49,4,0,0,6.0,26806814.0
+2024-12-01,Spain,Valencia,Valencia Province,valencia,3,39,3,0,0,5.0,24979937.0
+2025-01-01,Spain,Valencia,Valencia Province,valencia,5,45,4,0,0,10.0,23619948.0
+2025-02-01,Spain,Valencia,Valencia Province,valencia,5,50,5,0,0,29.0,25264418.0
+2025-03-01,Spain,Valencia,Valencia Province,valencia,5,48,4,0,1,76.0,30251402.0
+2025-04-01,Spain,Valencia,Valencia Province,valencia,6,55,5,0,1,5.0,39809109.0
+2025-05-01,Spain,Valencia,Valencia Province,valencia,5,53,4,1,1,4.0,47170360.0
+2025-06-01,Spain,Valencia,Valencia Province,valencia,6,53,5,1,1,5.0,54175564.0
+2025-07-01,Spain,Valencia,Valencia Province,valencia,6,57,5,1,1,3.0,67091411.0
+2025-08-01,Spain,Valencia,Valencia Province,valencia,6,60,4,1,1,3.0,74367338.0
+2025-09-01,Spain,Valencia,Valencia Province,valencia,5,54,5,0,1,5.0,53888369.0
+2025-10-01,Spain,Valencia,Valencia Province,valencia,5,46,4,0,1,6.0,44751911.0
+2025-11-01,Spain,Valencia,Valencia Province,valencia,4,49,9,1,1,6.0,27377889.0
+2025-12-01,Spain,Valencia,Valencia Province,valencia,4,44,7,0,1,5.0,25809552.0
+2026-01-01,Spain,Valencia,Valencia Province,valencia,4,42,6,1,0,12.0,24000682.0
+2026-02-01,Spain,Valencia,Valencia Province,valencia,5,49,7,1,1,32.0,
+2026-03-01,Spain,Valencia,Valencia Province,valencia,6,60,8,1,2,100.0,

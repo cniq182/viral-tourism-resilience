@@ -1,0 +1,379 @@
+# CSV-File created with merge-csv.com
+# -----------------------------------------------------------
+
+date,region,county,city,gt_airbnb,gt_hotel,gt_flights,gt_attr1,gt_attr2,gt_attr3,wiki_views
+2020-01-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.49,0.5164835164835165,0.7191011235955056,0.0,0.0,0.3,1.0
+2020-02-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.43,0.43956043956043966,0.5280898876404495,0.0,0.0,0.0,0.7915668423574509
+2020-03-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.16,0.13186813186813187,0.20224719101123598,0.0,0.0,0.0,0.7637757546717776
+2020-04-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.0,0.0,0.02247191011235955,0.0,0.0,0.0,0.8064206995687591
+2020-05-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.11,0.0879120879120879,0.056179775280898875,0.0,0.0,0.27,0.646861523718256
+2020-06-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.33,0.25274725274725274,0.14606741573033707,0.0,0.0,0.32,0.5936751317680882
+2020-07-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.5,0.5054945054945056,0.3033707865168539,0.0,0.0,0.46,0.6075706756109247
+2020-08-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.31,0.3846153846153847,0.2584269662921348,0.0,0.0,0.39,0.6061332055582176
+2020-09-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.08,0.1208791208791209,0.07865168539325842,0.0,0.0,0.0,0.5155725922376617
+2020-10-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.05,0.06593406593406595,0.06741573033707865,0.0,0.0,0.0,0.5749880210828942
+2020-11-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.07,0.043956043956043966,0.02247191011235955,0.0,0.0,0.0,0.7043603258265454
+2020-12-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.05,0.043956043956043966,0.033707865168539325,0.0,0.0,0.0,0.840440824149497
+2021-01-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.07,0.054945054945054944,0.02247191011235955,0.0,0.0,0.0,0.8854815524676569
+2021-02-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.12,0.054945054945054944,0.0,0.0,0.0,0.0,0.769046478198371
+2021-03-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.1,0.09890109890109891,0.0449438202247191,0.0,0.0,0.0,0.6233828461907045
+2021-04-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.15,0.13186813186813187,0.06741573033707865,0.0,0.0,0.0,0.5869669381887879
+2021-05-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.36,0.3076923076923077,0.0898876404494382,0.0,0.0,0.28,0.794920939147101
+2021-06-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.51,0.4725274725274726,0.16853932584269662,0.0,0.0,0.0,0.6827982750359367
+2021-07-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.63,0.7692307692307693,0.3146067415730337,0.0,0.0,0.55,0.8773358888356493
+2021-08-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.58,0.7472527472527474,0.3146067415730337,0.0,0.0,0.6,0.7930043124101582
+2021-09-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.19,0.34065934065934067,0.19101123595505617,0.0,0.0,0.0,0.5649257307139435
+2021-10-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.1,0.1978021978021978,0.15730337078651688,0.0,0.0,0.0,0.5007187350263537
+2021-11-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.1,0.14285714285714288,0.11235955056179775,0.0,0.0,0.0,0.36032582654528034
+2021-12-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.06,0.09890109890109891,0.033707865168539325,0.0,0.0,0.0,0.26880689985625306
+2022-01-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.32,0.3296703296703297,0.2696629213483146,0.0,0.0,0.0,0.4446574029707715
+2022-02-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.36,0.3626373626373627,0.3258426966292135,0.0,0.0,0.0,0.3593675131768088
+2022-03-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.56,0.3846153846153847,0.348314606741573,0.0,0.0,0.27,0.47580258744609494
+2022-04-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.75,0.5274725274725275,0.5730337078651685,0.0,0.0,0.35000000000000003,0.5519885002395784
+2022-05-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,1.0,0.7252747252747254,0.6629213483146067,0.0,0.0,0.5,0.5840919980833732
+2022-06-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.96,0.7582417582417583,0.7078651685393259,0.0,0.0,0.47000000000000003,0.5888835649257307
+2022-07-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.98,0.8021978021978022,0.6853932584269663,1.0,0.0,0.68,0.6348826066123623
+2022-08-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.65,0.6923076923076924,0.5056179775280899,0.0,0.0,0.5,0.609008145663632
+2022-09-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.35000000000000003,0.43956043956043966,0.3146067415730337,0.0,0.0,0.27,0.44130330618112124
+2022-10-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.23,0.25274725274725274,0.21348314606741572,0.0,0.0,0.26,0.4226161954959272
+2022-11-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.19,0.18681318681318684,0.19101123595505617,0.0,0.0,0.0,0.3128893148059416
+2022-12-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.27,0.18681318681318684,0.20224719101123598,0.0,0.0,0.0,0.36799233349305227
+2023-01-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.78,0.4835164835164836,0.5617977528089888,0.0,0.0,0.22,0.4494489698131289
+2023-02-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.65,0.4285714285714286,0.4831460674157303,0.0,0.0,0.26,0.22232870148538575
+2023-03-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.63,0.4835164835164836,0.5168539325842697,0.0,0.0,0.35000000000000003,0.25634882606612364
+2023-04-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.72,0.5384615384615385,0.550561797752809,0.0,0.0,0.29,0.22759942501197894
+2023-05-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.81,0.5934065934065935,0.5842696629213483,0.0,0.0,0.6,0.6444657402970773
+2023-06-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.8300000000000001,0.7032967032967034,0.6067415730337079,0.0,0.0,0.42,0.3282223287014854
+2023-07-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.91,0.8351648351648353,0.6629213483146067,0.9400000000000001,0.0,0.79,0.345951126018208
+2023-08-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.61,0.6153846153846154,0.4831460674157303,0.0,0.0,0.49,0.4326784858648779
+2023-09-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.38,0.46153846153846156,0.3707865168539326,0.0,0.0,0.5700000000000001,0.34499281264973647
+2023-10-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.25,0.2637362637362638,0.19101123595505617,0.0,0.0,0.24,0.2956396741734547
+2023-11-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.22,0.18681318681318684,0.15730337078651688,0.0,0.0,0.0,0.26209870627695264
+2023-12-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.22,0.2087912087912088,0.20224719101123598,0.0,0.0,0.35000000000000003,0.21801629132726408
+2024-01-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.52,0.39560439560439564,0.4831460674157303,0.0,0.0,0.0,0.36655486344034505
+2024-02-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.44,0.4725274725274726,0.5056179775280899,0.0,0.0,0.43,0.6128413991375181
+2024-03-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.58,0.5164835164835165,0.4831460674157303,0.0,0.0,0.35000000000000003,0.28605654048873985
+2024-04-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.64,0.5714285714285715,0.5168539325842697,0.0,0.0,0.39,0.8059415428845234
+2024-05-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.6,0.6593406593406594,0.5730337078651685,0.0,0.0,0.8200000000000001,0.49880210828941063
+2024-06-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.71,0.7252747252747254,0.7303370786516854,0.0,0.0,0.48,0.29803545759463346
+2024-07-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.74,0.8461538461538463,0.7865168539325843,0.0,0.0,0.9500000000000001,0.3287014853857212
+2024-08-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.51,0.7142857142857144,0.6292134831460674,0.0,0.0,0.77,0.43651173933876386
+2024-09-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.28,0.41758241758241765,0.4831460674157303,0.0,0.0,0.35000000000000003,0.38380450407283184
+2024-10-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.17,0.3076923076923077,0.2808988764044944,0.0,0.0,0.26,0.2831816003833254
+2024-11-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.19,0.24175824175824176,0.22471910112359547,0.0,0.0,0.0,0.11020603737422141
+2024-12-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.24,0.2197802197802198,0.24719101123595508,0.0,0.0,0.33,0.18639195016770482
+2025-01-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.45,0.4505494505494506,0.5280898876404495,0.0,0.0,0.0,0.225682798275036
+2025-02-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.44,0.43956043956043966,0.449438202247191,0.0,0.0,0.0,0.12074748442740779
+2025-03-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.49,0.5494505494505495,0.5393258426966292,0.87,0.0,0.0,0.18878773358888357
+2025-04-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.47000000000000003,0.5934065934065935,0.5280898876404495,0.0,0.0,0.38,0.18255869669381886
+2025-05-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.59,0.7142857142857144,0.6404494382022472,0.0,0.0,0.6,0.1787254432199329
+2025-06-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.6900000000000001,0.7252747252747254,0.7528089887640449,0.0,0.0,0.64,0.25107810253953045
+2025-07-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.59,0.8021978021978022,0.7865168539325843,0.0,1.0,1.0,0.26880689985625306
+2025-08-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.5700000000000001,1.0,1.0,0.0,0.0,0.8300000000000001,0.3814087206516531
+2025-09-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.35000000000000003,0.6153846153846154,0.651685393258427,0.0,0.0,0.63,0.3517010062290369
+2025-10-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.26,0.41758241758241765,0.449438202247191,0.0,0.0,0.0,0.2319118351701006
+2025-11-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.24,0.3846153846153847,0.4044943820224719,0.0,0.0,0.35000000000000003,0.1562050790608529
+2025-12-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.22,0.34065934065934067,0.3707865168539326,0.0,0.0,0.34,0.172975563009104
+2026-01-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.48,0.6153846153846154,0.6404494382022472,0.0,0.0,0.0,0.19789171058936272
+2026-02-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.41000000000000003,0.6263736263736265,0.7977528089887641,0.0,0.0,0.32,0.0
+2026-03-01,Adriatic Croatia,Splitsko-dalmatinska županija,Split,0.42,0.7362637362637363,0.8202247191011236,0.87,0.0,0.48,0.02539530426449449
+2020-01-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.53,0.9058823529411764,0.8876404494382023,0.28,0.0,0.0,0.3503661033417774
+2020-02-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.55,0.7529411764705882,0.5955056179775281,0.15,0.0,0.0,0.2188118124718048
+2020-03-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.14,0.18823529411764706,0.17977528089887637,0.13,0.0,0.0,0.12365964534823193
+2020-04-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.0,0.0,0.011235955056179775,0.0,0.0,0.0,0.22009577679841763
+2020-05-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.09,0.08235294117647057,0.06741573033707865,0.0,0.0,0.0,0.1786792518305167
+2020-06-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.28,0.37647058823529417,0.16853932584269662,0.0,0.0,0.0,0.15268764965124748
+2020-07-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.39,0.6588235294117648,0.3033707865168539,0.19,0.0,0.09,0.28798972828538705
+2020-08-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.22,0.5529411764705883,0.2696629213483146,0.11,0.0,0.15,0.31642780303293194
+2020-09-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.09,0.11764705882352944,0.0898876404494382,0.0,0.0,0.0,0.14271089981608076
+2020-10-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.0,0.09411764705882353,0.0,0.0,0.0,0.0,0.08590415379810529
+2020-11-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.0,0.0,0.011235955056179775,0.0,0.0,0.0,0.0
+2020-12-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.0,0.02352941176470591,0.0,0.0,0.0,0.0,0.025939549571433518
+2021-01-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.0,0.03529411764705884,0.033707865168539325,0.0,0.0,0.0,0.08163583995558177
+2021-02-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.0,0.05882352941176472,0.0,0.0,0.0,0.0,0.06570774195787205
+2021-03-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.08,0.07058823529411767,0.033707865168539325,0.0,0.0,0.0,0.1340354651768053
+2021-04-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.21,0.1294117647058824,0.0898876404494382,0.0,0.0,0.0,0.14151368983586077
+2021-05-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.28,0.27058823529411763,0.14606741573033707,0.0,0.0,0.0,0.23149529791442547
+2021-06-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.45,0.5176470588235293,0.2696629213483146,0.0,0.0,0.0,0.2981399868133393
+2021-07-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.62,0.9176470588235293,0.3820224719101124,0.27,0.0,0.26,0.5616823402852483
+2021-08-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.56,0.9647058823529411,0.3932584269662921,0.36,0.0,0.3,0.7081236769962176
+2021-09-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.23,0.5176470588235293,0.3033707865168539,0.22,0.0,0.19,0.3952007495575528
+2021-10-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.16,0.25882352941176473,0.15730337078651688,0.0,0.0,0.0,0.2929347260297741
+2021-11-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.1,0.09411764705882353,0.10112359550561797,0.0,0.0,0.0,0.04521636533990353
+2021-12-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.09,0.07058823529411767,0.056179775280898875,0.0,0.0,0.0,0.03667973765485649
+2022-01-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.27,0.3058823529411765,0.3146067415730337,0.0,0.0,0.0,0.1996564527882847
+2022-02-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.38,0.411764705882353,0.3595505617977528,0.16,0.0,0.0,0.17840163792205987
+2022-03-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.45,0.39999999999999997,0.3707865168539326,0.16,0.0,0.0,0.2557171114272825
+2022-04-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.67,0.6588235294117648,0.6067415730337079,0.3,0.6,0.14,0.3583475032099108
+2022-05-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,1.0,0.9058823529411764,0.7415730337078652,0.36,0.0,0.29,0.6245965922892738
+2022-06-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.98,0.9529411764705882,0.7191011235955056,0.55,0.0,0.31,0.5960197105875005
+2022-07-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.93,0.9882352941176471,0.7303370786516854,0.59,0.0,0.47000000000000003,0.7796439601624041
+2022-08-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.73,0.776470588235294,0.5280898876404495,0.48,0.0,0.5,0.7869660269979526
+2022-09-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.27,0.4941176470588235,0.4382022471910113,0.36,0.63,0.42,0.6363951833986883
+2022-10-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.23,0.32941176470588235,0.3370786516853933,0.26,0.0,0.26,0.5098032411423812
+2022-11-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.19,0.1647058823529412,0.15730337078651688,0.0,0.0,0.0,0.2342540861297151
+2022-12-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.17,0.1647058823529412,0.19101123595505617,0.0,0.0,0.0,0.244959572474581
+2023-01-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.55,0.4705882352941177,0.6179775280898877,0.29,0.0,0.0,0.3828122288926675
+2023-02-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.5,0.4941176470588235,0.5056179775280899,0.21,0.0,0.0,0.2132768851719471
+2023-03-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.64,0.5176470588235293,0.4606741573033708,0.32,0.0,0.08,0.350227296387549
+2023-04-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.6900000000000001,0.6588235294117648,0.6067415730337079,0.39,0.0,0.24,0.45922545719540553
+2023-05-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.75,0.6941176470588235,0.550561797752809,0.47000000000000003,0.0,0.34,0.625203872714023
+2023-06-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.75,0.8470588235294116,0.6292134831460674,0.47000000000000003,0.0,0.54,0.9140611444633375
+2023-07-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.7000000000000001,0.9411764705882353,0.6629213483146067,0.62,0.0,0.61,1.0
+2023-08-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.5,0.7882352941176471,0.5393258426966292,0.6,0.0,0.53,0.966929243155082
+2023-09-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.34,0.4941176470588235,0.3820224719101124,0.52,0.0,0.55,0.5974077801297845
+2023-10-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.24,0.32941176470588235,0.24719101123595508,0.25,0.0,0.26,0.3680986917444564
+2023-11-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.18,0.1764705882352941,0.15730337078651688,0.08,0.0,0.0,0.11335322899677269
+2023-12-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.2,0.1764705882352941,0.16853932584269662,0.0,0.0,0.0,0.12260124232224034
+2024-01-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.47000000000000003,0.5058823529411764,0.5168539325842697,0.18,0.0,0.0,0.33669361835027933
+2024-02-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.53,0.6235294117647059,0.5168539325842697,0.2,0.0,0.0,0.21353714821112535
+2024-03-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.59,0.6823529411764706,0.5056179775280899,0.35000000000000003,0.0,0.12,0.3594926605822951
+2024-04-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.6900000000000001,0.7529411764705882,0.6404494382022472,0.43,0.72,0.36,0.4585314224242635
+2024-05-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.73,0.8235294117647058,0.5730337078651685,0.59,0.0,0.66,0.5128569941354062
+2024-06-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.9400000000000001,0.9058823529411764,0.7528089887640449,0.78,0.0,0.77,0.5564423777631259
+2024-07-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.9,1.0,0.7415730337078652,0.68,0.0,0.92,0.6853419856334801
+2024-08-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.56,0.8705882352941177,0.651685393258427,0.77,0.0,0.91,0.5796231391192699
+2024-09-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.42,0.5529411764705883,0.4606741573033708,0.49,0.0,0.6900000000000001,0.4420827983481972
+2024-10-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.21,0.4235294117647059,0.3820224719101124,0.26,0.0,0.5,0.3078391227400492
+2024-11-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.12,0.24705882352941178,0.2696629213483146,0.12,0.0,0.12,0.0665405836832425
+2024-12-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.21,0.2,0.2584269662921348,0.15,0.0,0.0,0.06721726758510599
+2025-01-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.45,0.4588235294117647,0.5955056179775281,0.21,0.0,0.0,0.15159454488669877
+2025-02-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.45,0.4941176470588235,0.5730337078651685,0.39,0.0,0.14,0.10013186660651696
+2025-03-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.49,0.6000000000000001,0.5955056179775281,0.36,0.77,0.18,0.23408057743692956
+2025-04-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.74,0.6941176470588235,0.651685393258427,0.52,0.0,0.42,0.3481278412048443
+2025-05-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.7000000000000001,0.8235294117647058,0.6853932584269663,0.72,0.0,0.81,0.49108165319082486
+2025-06-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.78,0.9176470588235293,0.651685393258427,0.67,0.0,0.76,0.6478641079918104
+2025-07-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.53,0.9411764705882353,0.7977528089887641,0.78,0.73,0.77,0.400215150779054
+2025-08-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.45,0.8941176470588235,0.8089887640449438,1.0,1.0,1.0,0.4433320609362529
+2025-09-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.16,0.588235294117647,0.5393258426966292,0.66,0.0,0.73,0.33808168789256343
+2025-10-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.17,0.36470588235294116,0.3820224719101124,0.42,0.0,0.38,0.22781691362737266
+2025-11-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.11,0.23529411764705882,0.2696629213483146,0.19,0.0,0.0,0.09071034458826382
+2025-12-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.12,0.1764705882352941,0.24719101123595508,0.13,0.0,0.0,0.08071624388381854
+2026-01-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.34,0.4470588235294118,0.5730337078651685,0.31,0.0,0.0,0.1893326855675469
+2026-02-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.32,0.5058823529411764,1.0,0.27,0.0,0.11,0.05236492348266647
+2026-03-01,Adriatic Croatia,Dubrovačko-neretvanska županija,Dubrovnik,0.38,0.6588235294117648,0.6404494382022472,0.4,0.88,0.19,0.0006072804247492791
+2020-01-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.73,0.0,0,0.39,0.0,0.2513981011835089
+2020-02-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.10846664065548184
+2020-03-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.28,0.0,0.07855377812459352
+2020-04-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.35000000000000003,0.0,0.17869683964104566
+2020-05-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.64,0.0,0.1143191572376121
+2020-06-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.74,0.0,0.07985433736506697
+2020-07-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.13070620366757701
+2020-08-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.39,0.0,0.10352451554168285
+2020-09-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.29,0.0,0.07036025490961106
+2020-10-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.0
+2020-11-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.28,0.0,0.07491221225126798
+2020-12-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.13057614774352966
+2021-01-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.27,0.0,0.0886981402002861
+2021-02-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.34,0.0,0.21381193913382757
+2021-03-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.4,0.0,0.25816100923397056
+2021-04-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.47000000000000003,0.0,0.18220834959032384
+2021-05-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,1.0,0.0,0.23306021589283388
+2021-06-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.54,0.0,0.31954740538431525
+2021-07-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.97,0.0,0,0.23,0.0,0.3321628300169073
+2021-08-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.29,0.0,0.284302249967486
+2021-09-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.24,0.0,0.20301729743789831
+2021-10-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.37,0.0,0.20197685004551957
+2021-11-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.15255559890753023
+2021-12-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.16543113538821685
+2022-01-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.45,0.0,0.3628560280920796
+2022-02-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.29,0.0,0.1958642216152946
+2022-03-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.45,0.0,0.22928859409546098
+2022-04-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.38,0.0,0.2948367798153205
+2022-05-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.5700000000000001,0.0,0,0.78,0.0,0.3537521134087658
+2022-06-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.5,1.0,0.35154116269996094
+2022-07-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.23,0.0,0.37976329821823385
+2022-08-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.68,0.0,0,0.24,0.0,0.38457536740798537
+2022-09-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.8200000000000001,0.0,0,0.3,0.0,0.4202106905969566
+2022-10-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.66,0.0,0.3550526726492391
+2022-11-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.2,0.0,0.26804525946156843
+2022-12-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.49408245545584595
+2023-01-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.35000000000000003,0.0,0.5455846013785929
+2023-02-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.88,0.0,0,0.39,0.0,0.2428144101963844
+2023-03-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.28,0.0,0.40421381193913375
+2023-04-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.52,0.0,0.36038496553518007
+2023-05-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.72,0.0,0,0.42,0.0,0.5219144232019769
+2023-06-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.79,0.0,0,0.33,0.0,0.536090518923137
+2023-07-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.6900000000000001,0,0.0,0.0,0.6579529197554949
+2023-08-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.22,0.0,0.8111587982832619
+2023-09-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.31,0.0,0.4259331512550396
+2023-10-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.33,0.0,0.5052672649239173
+2023-11-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.31,0.0,0.2425542983482898
+2023-12-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.67,0.0,0,0.28,0.0,0.2755885030563142
+2024-01-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.35000000000000003,0.0,0.5657432696059305
+2024-02-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.46586031993757315
+2024-03-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.29,0.0,0.4026531408505657
+2024-04-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.73,0.0,0,0.37,0.0,0.4691117180387566
+2024-05-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.53,0.0,0.6169853036805827
+2024-06-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.24,0.0,0.5924047340356354
+2024-07-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.8791780465600209
+2024-08-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.7596566523605149
+2024-09-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.5691247236311615
+2024-10-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.46,0.0,0.32188841201716734
+2024-11-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.72,0.0,0,0.24,0.0,0.23058915333593444
+2024-12-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.73,0.0,0,0.0,0.0,0.24541552867733119
+2025-01-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.7000000000000001,0.89,0,0.0,0.0,0.5363506307712317
+2025-02-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.86,0.0,0,0.0,0.0,0.2828716348029653
+2025-03-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.28,0.0,0.38782676550916884
+2025-04-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.27,0.0,0.37911301859799706
+2025-05-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.6900000000000001,0.0,0,0.52,0.0,0.427623878267655
+2025-06-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.0,0.0,0.4130576147743529
+2025-07-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.26,0.0,0.5790089738587593
+2025-08-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.8300000000000001,0.0,0,0.23,0.0,0.611002731174405
+2025-09-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.88,1.0,0,0.26,0.0,0.3750812849525297
+2025-10-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.26,0.0,0.4628690336844844
+2025-11-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,1.0,0.0,0,0.0,0.0,0.8984263233190272
+2025-12-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.24,0.0,0.9694368578488751
+2026-01-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.24,0.0,1.0
+2026-02-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.34,0.0,0.15047470412277275
+2026-03-01,Pannonian Croatia,Osječko-baranjska županija,Osijek,0,0.0,0.0,0,0.25,0.0,0.09259981792170624
+2020-01-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.1379104477611941
+2020-02-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.03940298507462692
+2020-03-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.23791044776119408
+2020-04-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.1065671641791045
+2020-05-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.10089552238805977
+2020-06-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.0343283582089553
+2020-07-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.20388059701492545
+2020-08-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.12208955223880602
+2020-09-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.051940298507462734
+2020-10-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.58,0,0,0.0,0,0.055522388059701555
+2020-11-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.018208955223880663
+2020-12-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.05850746268656726
+2021-01-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.1564179104477612
+2021-02-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.04597014925373144
+2021-03-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.18507462686567167
+2021-04-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.043582089552238856
+2021-05-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.13611940298507463
+2021-06-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.1767164179104478
+2021-07-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.1997014925373135
+2021-08-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.24029850746268666
+2021-09-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.1408955223880598
+2021-10-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.12059701492537322
+2021-11-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.2026865671641791
+2021-12-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.0991044776119403
+2022-01-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.2116417910447762
+2022-02-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.05671641791044779
+2022-03-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.05731343283582091
+2022-04-01,Northern Croatia,Varaždinska županija,Varaždin,0,1.0,0,0,0.0,0,0.6355223880597016
+2022-05-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.22447761194029858
+2022-06-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.3143283582089553
+2022-07-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.4307462686567165
+2022-08-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,1.0,0,0.6277611940298509
+2022-09-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.2644776119402985
+2022-10-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.1877611940298508
+2022-11-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.10477611940298515
+2022-12-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.29850746268656714
+2023-01-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.2355223880597015
+2023-02-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.1035820895522388
+2023-03-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.2683582089552239
+2023-04-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.77,0,0,0.0,0,0.2280597014925374
+2023-05-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.277910447761194
+2023-06-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.3540298507462687
+2023-07-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.3689552238805971
+2023-08-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.66,0,0,0.79,0,0.5340298507462686
+2023-09-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.3600000000000001
+2023-10-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.16208955223880606
+2023-11-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.08746268656716427
+2023-12-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.184179104477612
+2024-01-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.3734328358208956
+2024-02-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.2570149253731344
+2024-03-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.20328358208955233
+2024-04-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.20925373134328362
+2024-05-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.37611940298507474
+2024-06-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.2797014925373136
+2024-07-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.23910447761194042
+2024-08-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.9400000000000001,0,0.30746268656716413
+2024-09-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.22149253731343288
+2024-10-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.16507462686567165
+2024-11-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.16597014925373144
+2024-12-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.2886567164179106
+2025-01-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,1.0
+2025-02-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.12835820895522387
+2025-03-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.18537313432835822
+2025-04-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.20985074626865674
+2025-05-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.25313432835820904
+2025-06-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.2370149253731344
+2025-07-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.3585074626865672
+2025-08-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.89,0,0,1.0,0,0.40059701492537325
+2025-09-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.29761194029850757
+2025-10-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.3680597014925373
+2025-11-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.14119402985074636
+2025-12-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.78,0,0,0.0,0,0.14119402985074636
+2026-01-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.184179104477612
+2026-02-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.03343283582089562
+2026-03-01,Northern Croatia,Varaždinska županija,Varaždin,0,0.0,0,0,0.0,0,0.0
+2020-01-01,City of Zagreb,Grad Zagreb,Zagreb,0.7471264367816093,0.9466666666666667,0.7073170731707318,0.21,0.0,0.37,0.2225992599835126
+2020-02-01,City of Zagreb,Grad Zagreb,Zagreb,0.6436781609195403,0.8133333333333334,0.426829268292683,0.0,0.0,0.3,0.11477924119552929
+2020-03-01,City of Zagreb,Grad Zagreb,Zagreb,0.09195402298850575,0.33333333333333337,0.24390243902439027,1.0,0.0,0.0,0.3501850041218535
+2020-04-01,City of Zagreb,Grad Zagreb,Zagreb,0.0,0.0,0.012195121951219523,0.38,0.0,0.32,0.18922183240351997
+2020-05-01,City of Zagreb,Grad Zagreb,Zagreb,0.08045977011494254,0.08000000000000002,0.06097560975609759,0.18,0.0,0.47000000000000003,0.11485592684189339
+2020-06-01,City of Zagreb,Grad Zagreb,Zagreb,0.21839080459770116,0.31999999999999995,0.21951219512195122,0.0,0.0,0.43,0.0
+2020-07-01,City of Zagreb,Grad Zagreb,Zagreb,0.24137931034482757,0.36,0.14634146341463414,0.18,0.0,0.3,0.07486436226299342
+2020-08-01,City of Zagreb,Grad Zagreb,Zagreb,0.35632183908045983,0.3466666666666667,0.13414634146341467,0.19,0.0,0.37,0.10273959471635896
+2020-09-01,City of Zagreb,Grad Zagreb,Zagreb,0.20689655172413796,0.21333333333333337,0.07317073170731711,0.0,0.0,0.32,0.06033243227698859
+2020-10-01,City of Zagreb,Grad Zagreb,Zagreb,0.1724137931034483,0.21333333333333337,0.14634146341463414,0.16,0.0,0.4,0.11305381415233606
+2020-11-01,City of Zagreb,Grad Zagreb,Zagreb,0.14942528735632182,0.09333333333333332,0.03658536585365854,0.16,0.0,0.0,0.14150418895343264
+2020-12-01,City of Zagreb,Grad Zagreb,Zagreb,0.011494252873563232,0.06666666666666665,0.03658536585365854,0.0,0.0,0.28,0.22334694503556307
+2021-01-01,City of Zagreb,Grad Zagreb,Zagreb,0.04597701149425287,0.08000000000000002,0.02439024390243902,0.0,0.0,0.0,0.14282701635321415
+2021-02-01,City of Zagreb,Grad Zagreb,Zagreb,0.08045977011494254,0.10666666666666663,0.0,0.0,0.0,0.29,0.07919710128256752
+2021-03-01,City of Zagreb,Grad Zagreb,Zagreb,0.12643678160919541,0.15999999999999998,0.048780487804878064,0.0,0.0,0.42,0.2711412741320144
+2021-04-01,City of Zagreb,Grad Zagreb,Zagreb,0.12643678160919541,0.18666666666666665,0.07317073170731711,0.0,0.0,0.56,0.1648933110944959
+2021-05-01,City of Zagreb,Grad Zagreb,Zagreb,0.2873563218390805,0.24,0.13414634146341467,0.0,0.0,0.4,0.19175245873353663
+2021-06-01,City of Zagreb,Grad Zagreb,Zagreb,0.36781609195402304,0.4666666666666667,0.14634146341463414,0.0,0.0,0.45,0.2527558904162114
+2021-07-01,City of Zagreb,Grad Zagreb,Zagreb,0.5402298850574714,0.7066666666666667,0.24390243902439027,0.21,0.0,0.68,0.3511052318782233
+2021-08-01,City of Zagreb,Grad Zagreb,Zagreb,0.44827586206896547,0.6666666666666666,0.19512195121951223,0.22,0.0,0.55,0.3189356032284657
+2021-09-01,City of Zagreb,Grad Zagreb,Zagreb,0.35632183908045983,0.48,0.21951219512195122,0.15,0.0,0.43,0.250359463967332
+2021-10-01,City of Zagreb,Grad Zagreb,Zagreb,0.40229885057471265,0.52,0.15853658536585366,0.0,0.0,0.51,0.20112727900155292
+2021-11-01,City of Zagreb,Grad Zagreb,Zagreb,0.2873563218390805,0.36,0.13414634146341467,0.18,0.0,0.0,0.1407756753129733
+2021-12-01,City of Zagreb,Grad Zagreb,Zagreb,0.3218390804597701,0.48,0.08536585365853658,0.0,0.0,0.0,0.16291865570061925
+2022-01-01,City of Zagreb,Grad Zagreb,Zagreb,0.42528735632183906,0.33333333333333337,0.21951219512195122,0.0,0.0,0.31,0.2576446003719254
+2022-02-01,City of Zagreb,Grad Zagreb,Zagreb,0.6666666666666667,0.48,0.3292682926829269,0.0,0.0,0.41000000000000003,0.18828243323555915
+2022-03-01,City of Zagreb,Grad Zagreb,Zagreb,0.7931034482758621,0.52,0.3414634146341464,0.18,0.0,0.48,0.3505684323536743
+2022-04-01,City of Zagreb,Grad Zagreb,Zagreb,0.8620689655172415,0.6133333333333334,0.46341463414634154,0.16,0.0,0.56,0.2798450949943445
+2022-05-01,City of Zagreb,Grad Zagreb,Zagreb,1.0,0.7866666666666667,0.451219512195122,0.0,0.0,0.45,0.3429573819520332
+2022-06-01,City of Zagreb,Grad Zagreb,Zagreb,0.8390804597701149,0.7600000000000001,0.524390243902439,0.23,0.0,0.77,0.2980579360058282
+2022-07-01,City of Zagreb,Grad Zagreb,Zagreb,0.8620689655172415,0.7866666666666667,0.451219512195122,0.22,0.0,0.41000000000000003,0.39669484864170557
+2022-08-01,City of Zagreb,Grad Zagreb,Zagreb,0.7471264367816093,0.8666666666666668,0.4390243902439025,0.22,0.0,0.55,0.40746918195586745
+2022-09-01,City of Zagreb,Grad Zagreb,Zagreb,0.5747126436781609,0.7999999999999999,0.35365853658536595,0.22,0.0,0.4,0.5284983033300743
+2022-10-01,City of Zagreb,Grad Zagreb,Zagreb,0.5747126436781609,0.7333333333333333,0.3170731707317074,0.22,0.0,0.72,0.36184122236920313
+2022-11-01,City of Zagreb,Grad Zagreb,Zagreb,0.9770114942528736,0.7333333333333333,0.25609756097560976,0.14,0.0,0.3,0.4327946166676253
+2022-12-01,City of Zagreb,Grad Zagreb,Zagreb,0.5862068965517242,0.8533333333333334,0.25609756097560976,0.12,0.0,0.39,1.0
+2023-01-01,City of Zagreb,Grad Zagreb,Zagreb,0.5977011494252873,0.56,0.47560975609756106,0.12,0.0,0.34,0.3847894020436725
+2023-02-01,City of Zagreb,Grad Zagreb,Zagreb,0.735632183908046,0.56,0.46341463414634154,0.22,0.0,0.32,0.23251087977607798
+2023-03-01,City of Zagreb,Grad Zagreb,Zagreb,0.632183908045977,0.6,0.4390243902439025,0.13,0.0,0.39,0.39063668257893835
+2023-04-01,City of Zagreb,Grad Zagreb,Zagreb,0.7931034482758621,0.7866666666666667,0.47560975609756106,0.18,0.0,0.53,0.3790571499779529
+2023-05-01,City of Zagreb,Grad Zagreb,Zagreb,0.6896551724137931,0.8133333333333334,0.426829268292683,0.22,0.0,0.78,0.4484001457027281
+2023-06-01,City of Zagreb,Grad Zagreb,Zagreb,0.6781609195402298,0.88,0.4878048780487806,0.33,0.0,0.79,0.46500258814056483
+2023-07-01,City of Zagreb,Grad Zagreb,Zagreb,0.735632183908046,0.9466666666666667,0.4024390243902439,0.24,0.0,0.63,0.558674105174364
+2023-08-01,City of Zagreb,Grad Zagreb,Zagreb,0.4942528735632184,0.92,0.46341463414634154,0.29,0.0,0.7000000000000001,0.5394643507601464
+2023-09-01,City of Zagreb,Grad Zagreb,Zagreb,0.5632183908045978,0.9333333333333335,0.3902439024390244,0.21,0.0,0.74,0.3518720883418647
+2023-10-01,City of Zagreb,Grad Zagreb,Zagreb,0.5057471264367817,0.7999999999999999,0.30487804878048785,0.21,0.0,0.56,0.29284331205306646
+2023-11-01,City of Zagreb,Grad Zagreb,Zagreb,0.6436781609195403,0.8266666666666668,0.3292682926829269,0.18,0.0,0.37,0.2228293169226051
+2023-12-01,City of Zagreb,Grad Zagreb,Zagreb,0.6781609195402298,1.0,0.29268292682926833,0.15,0.87,0.53,0.2862866892889324
+2024-01-01,City of Zagreb,Grad Zagreb,Zagreb,0.5172413793103448,0.6666666666666666,0.5,0.2,0.0,0.32,0.42591207990644353
+2024-02-01,City of Zagreb,Grad Zagreb,Zagreb,0.632183908045977,0.7333333333333333,0.47560975609756106,0.17,0.0,0.49,0.26174728245240697
+2024-03-01,City of Zagreb,Grad Zagreb,Zagreb,0.6091954022988506,0.7733333333333333,0.46341463414634154,0.27,0.0,0.66,0.3066850712217941
+2024-04-01,City of Zagreb,Grad Zagreb,Zagreb,0.4597701149425288,0.8666666666666668,0.451219512195122,0.17,0.99,0.96,0.39567876382738065
+2024-05-01,City of Zagreb,Grad Zagreb,Zagreb,0.6436781609195403,0.9600000000000001,0.4878048780487806,0.38,0.0,1.0,0.3532907727996013
+2024-06-01,City of Zagreb,Grad Zagreb,Zagreb,0.5517241379310345,0.8666666666666668,0.46341463414634154,0.3,0.0,0.68,0.32422691282759153
+2024-07-01,City of Zagreb,Grad Zagreb,Zagreb,0.6666666666666667,0.92,0.4878048780487806,0.26,0.0,0.71,0.2863633749352965
+2024-08-01,City of Zagreb,Grad Zagreb,Zagreb,0.632183908045977,0.88,0.5365853658536586,0.23,0.0,0.75,0.30158547573857863
+2024-09-01,City of Zagreb,Grad Zagreb,Zagreb,0.5632183908045978,0.92,0.5487804878048781,0.27,0.0,0.6900000000000001,0.2631851383217346
+2024-10-01,City of Zagreb,Grad Zagreb,Zagreb,0.3333333333333333,0.84,0.451219512195122,0.19,0.0,0.75,0.21537163781369228
+2024-11-01,City of Zagreb,Grad Zagreb,Zagreb,0.36781609195402304,0.7600000000000001,0.36585365853658547,0.17,0.0,0.35000000000000003,0.1616341711240199
+2024-12-01,City of Zagreb,Grad Zagreb,Zagreb,0.5057471264367817,0.8666666666666668,0.3170731707317074,0.24,0.0,0.38,0.22394125879488513
+2025-01-01,City of Zagreb,Grad Zagreb,Zagreb,0.35632183908045983,0.5733333333333334,0.41463414634146345,0.0,0.0,0.32,0.26280171008991393
+2025-02-01,City of Zagreb,Grad Zagreb,Zagreb,0.44827586206896547,0.6,0.426829268292683,0.0,0.0,0.0,0.09890531239815192
+2025-03-01,City of Zagreb,Grad Zagreb,Zagreb,0.43678160919540227,0.6133333333333334,0.47560975609756106,0.22,0.0,0.36,0.21071298479707068
+2025-04-01,City of Zagreb,Grad Zagreb,Zagreb,0.6206896551724137,0.64,0.4024390243902439,0.25,0.0,0.5,0.1911006307394414
+2025-05-01,City of Zagreb,Grad Zagreb,Zagreb,0.5287356321839081,0.64,0.3780487804878049,0.42,0.0,0.63,0.26491056536492785
+2025-06-01,City of Zagreb,Grad Zagreb,Zagreb,0.37931034482758624,0.7999999999999999,0.4878048780487806,0.2,0.0,0.54,0.26236076762332017
+2025-07-01,City of Zagreb,Grad Zagreb,Zagreb,0.37931034482758624,0.7866666666666667,0.5609756097560976,0.28,0.0,0.58,0.3145836927973007
+2025-08-01,City of Zagreb,Grad Zagreb,Zagreb,0.35632183908045983,0.8133333333333334,0.7682926829268293,0.33,0.0,0.79,0.3503383754145818
+2025-09-01,City of Zagreb,Grad Zagreb,Zagreb,0.3218390804597701,0.7999999999999999,0.5853658536585367,0.18,1.0,0.61,0.24435881213933786
+2025-10-01,City of Zagreb,Grad Zagreb,Zagreb,0.16091954022988508,0.7066666666666667,0.6097560975609757,0.39,0.0,0.53,0.17261938996568327
+2025-11-01,City of Zagreb,Grad Zagreb,Zagreb,0.3333333333333333,0.7333333333333333,0.47560975609756106,0.19,0.0,0.0,0.11305381415233606
+2025-12-01,City of Zagreb,Grad Zagreb,Zagreb,0.20689655172413796,0.7200000000000001,0.3902439024390244,0.3,0.0,0.44,0.18527252161576657
+2026-01-01,City of Zagreb,Grad Zagreb,Zagreb,0.3448275862068966,0.5333333333333333,0.47560975609756106,0.21,0.0,0.31,0.3279269952646614
+2026-02-01,City of Zagreb,Grad Zagreb,Zagreb,0.26436781609195403,0.7066666666666667,1.0,0.25,0.0,0.0,0.08897452119399551
+2026-03-01,City of Zagreb,Grad Zagreb,Zagreb,0.1839080459770115,0.6666666666666666,0.6097560975609757,0.26,0.0,0.52,0.010582619198251653

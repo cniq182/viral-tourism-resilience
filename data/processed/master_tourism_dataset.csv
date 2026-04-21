@@ -1,4 +1,4 @@
-date,country,region,county,city,gt_airbnb,gt_hotel,gt_flights,gt_attraction_1,gt_attraction_2,gt_attraction_3,nights_spent,nights_spent_region
+date,country,region,county,city,gt_airbnb,gt_hotel,gt_flights,gt_attraction_1,gt_attraction_2,gt_attraction_3,nights_spent,nights_spent_region_annual
 2020-01-01,Albania,Qendror (Central),Berat County,berat,0,32,0,11,0,0.0,96566.0,488603.0
 2020-02-01,Albania,Qendror (Central),Berat County,berat,0,16,0,0,0,0.0,63781.0,488603.0
 2020-03-01,Albania,Qendror (Central),Berat County,berat,0,0,0,0,0,0.0,17009.0,488603.0

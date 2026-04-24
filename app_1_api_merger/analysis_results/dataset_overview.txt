@@ -1,0 +1,19 @@
+=== Dataset Overview ===
+Shape: (23, 7)
+Columns: ['Unnamed: 0', 'Unnamed: 1', 'Unnamed: 2', 'Unnamed: 3', 'Unnamed: 4', 'Unnamed: 5', 'Unnamed: 6']
+
+=== Missing Values ===
+Unnamed: 0    18
+Unnamed: 1    13
+Unnamed: 2    14
+Unnamed: 3    14
+Unnamed: 4    16
+Unnamed: 5    16
+Unnamed: 6    17
+
+=== Descriptive Statistics ===
+                                                                                                                              Unnamed: 0            Unnamed: 1 Unnamed: 2 Unnamed: 3                                                                                                         Unnamed: 4 Unnamed: 5 Unnamed: 6
+count                                                                                                                                  5                    10          9          9                                                                                                                  7          7          6
+unique                                                                                                                                 5                    10          5          5                                                                                                                  3          3          6
+top     Nights spent at tourist accommodation establishments by month and NUTS 2 region (from 2020 onwards) [tour_occ_nin2m$defaultview]  Open in Data Browser     Annual      Total  Hotels; holiday and other short-stay accommodation; camping grounds, recreational vehicle parks and trailer parks     Number       Time
+freq                                                                                                                                   1                     1          5          5                                                                                                                  5          5          1

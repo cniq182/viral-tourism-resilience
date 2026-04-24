@@ -1,0 +1,6 @@
+region,total_visitors,total_wiki_views,wiki_tourist_fraction,tourism_class,classification_label
+Belgium,20177486,18423624,0.913078269512862,1,Weather-based / Mass
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,1782873,18691907,10.484149459888618,0,Cultural-based
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,1782873,18691907,10.484149459888618,0,Cultural-based
+Vlaams Gewest,13276415,16176800,1.2184614596636216,1,Weather-based / Mass
+Prov. Antwerpen,2056957,14450787,7.0253228434041155,0,Cultural-based

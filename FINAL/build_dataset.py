@@ -12,18 +12,14 @@ Output:
 """
 
 import pandas as pd
-import requests
-import io
+import os
 
 # ─────────────────────────────────────────────────────────────────────────────
 # CONFIGURATION
 # ─────────────────────────────────────────────────────────────────────────────
 
 LOCAL_FILE = "master_tourism_dataset (1).csv"
-OXCGRT_URL = (
-    "https://raw.githubusercontent.com/OxCGRT/covid-policy-tracker/"
-    "master/data/OxCGRT_nat_latest.csv"
-)
+OXCGRT_FILE = "oxcgrt_covid_data.csv"
 OUTPUT_FILE = "tourism_dataset_with_covid.csv"
 
 # Top 3 inbound origin countries for each destination in the dataset
@@ -49,11 +45,11 @@ print(f"  Loading local file: {LOCAL_FILE} ...")
 df = pd.read_csv(LOCAL_FILE, parse_dates=["date"])
 print(f"  ✓ Master dataset loaded: {df.shape[0]} rows × {df.shape[1]} columns")
 
-# Download the OxCGRT national dataset from GitHub
-print(f"  Downloading OxCGRT data from GitHub ...")
-response = requests.get(OXCGRT_URL, timeout=120)
-response.raise_for_status()
-ox = pd.read_csv(io.StringIO(response.text))
+# Load the OxCGRT national dataset from local file
+print(f"  Loading local OxCGRT data: {OXCGRT_FILE} ...")
+if not os.path.exists(OXCGRT_FILE):
+    raise FileNotFoundError(f"{OXCGRT_FILE} not found. Please run download_covid_data.py first.")
+ox = pd.read_csv(OXCGRT_FILE, low_memory=False)
 print(f"  ✓ OxCGRT dataset loaded: {ox.shape[0]} rows × {ox.shape[1]} columns")
 
 # ─────────────────────────────────────────────────────────────────────────────

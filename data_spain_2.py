@@ -9,7 +9,7 @@ from pytrends.request import TrendReq
 # =========================================================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 INPUT_FILE = os.path.join(BASE_DIR, "spain_data_raw.csv")
-OUTPUT_FILE = os.path.join(BASE_DIR, "spain_city_trends_monthly.csv")
+OUTPUT_FILE = os.path.join(BASE_DIR, "spain_city_trends_monthly_2.csv")
 
 MONTH_COLUMNS = [
     "January", "February", "March", "April", "May", "June",
@@ -103,6 +103,38 @@ def fetch_city_trends(city: str, start_year: int, end_year: int) -> pd.DataFrame
     return empty_trends_df(city)
 
 
+def load_existing_output(output_file: str) -> pd.DataFrame:
+    if os.path.exists(output_file):
+        existing_df = pd.read_csv(output_file)
+        print(f"Found existing output file with {len(existing_df)} rows.")
+        return existing_df
+    return pd.DataFrame(columns=[
+        "Region",
+        "City",
+        "Year",
+        "Country",
+        "Month",
+        "OriginalMonthlyValue",
+        "flight_trends",
+        "airbnb_trends",
+        "hotel_trends"
+    ])
+
+
+def append_rows_to_output(rows: list[dict], output_file: str) -> None:
+    if not rows:
+        return
+
+    row_df = pd.DataFrame(rows)
+
+    if os.path.exists(output_file):
+        row_df.to_csv(output_file, mode="a", header=False, index=False)
+    else:
+        row_df.to_csv(output_file, mode="w", header=True, index=False)
+
+    print(f"Saved {len(row_df)} rows to {output_file}")
+
+
 # =========================================================
 # Main
 # =========================================================
@@ -123,7 +155,14 @@ def main():
 
     df["Year"] = df["Year"].astype(int)
 
-    all_rows = []
+    existing_df = load_existing_output(OUTPUT_FILE)
+    processed_keys = set()
+
+    if not existing_df.empty:
+        existing_df["Year"] = existing_df["Year"].astype(int)
+        processed_keys = set(
+            zip(existing_df["City"], existing_df["Year"], existing_df["Month"])
+        )
 
     unique_cities = df["City"].dropna().unique().tolist()
     print(f"Starting collection for {len(unique_cities)} unique cities...")
@@ -135,64 +174,88 @@ def main():
         start_year = int(city_years.min())
         end_year = int(city_years.max())
 
+        already_done_for_city = True
+        for year in sorted(df.loc[df["City"] == city, "Year"].unique()):
+            for month_name in MONTH_COLUMNS:
+                if (city, int(year), month_name) not in processed_keys:
+                    already_done_for_city = False
+                    break
+            if not already_done_for_city:
+                break
+
+        if already_done_for_city:
+            print(f"\nSkipping city {city}: all rows already saved.")
+            continue
+
         print(f"\nFetching trends for city: {city} | years {start_year}-{end_year}")
         city_trends_map[city] = fetch_city_trends(city, start_year, end_year)
+
+        city_rows_to_save = []
+
+        city_source_rows = df[df["City"] == city]
+
+        for idx, row in city_source_rows.iterrows():
+            region = row["Region"]
+            year = int(row["Year"])
+            country = row["Country"]
+
+            print(f"Processing row {idx + 1}/{len(df)}: {city} ({year})")
+
+            city_trends = city_trends_map.get(city, empty_trends_df(city))
+
+            for month_name in MONTH_COLUMNS:
+                row_key = (city, year, month_name)
+
+                if row_key in processed_keys:
+                    print(f"  Skipping {city} | {year} | {month_name}: already saved.")
+                    continue
+
+                original_value = row[month_name]
+
+                if not city_trends.empty and {"Year", "Month"}.issubset(city_trends.columns):
+                    month_data = city_trends[
+                        (city_trends["Year"] == year) &
+                        (city_trends["Month"] == month_name)
+                    ]
+
+                    if not month_data.empty:
+                        flight_trends = month_data[f"{city} flight"].iloc[0] if f"{city} flight" in month_data.columns else None
+                        airbnb_trends = month_data[f"{city} airbnb"].iloc[0] if f"{city} airbnb" in month_data.columns else None
+                        hotel_trends = month_data[f"{city} hotel"].iloc[0] if f"{city} hotel" in month_data.columns else None
+                    else:
+                        flight_trends = None
+                        airbnb_trends = None
+                        hotel_trends = None
+                else:
+                    flight_trends = None
+                    airbnb_trends = None
+                    hotel_trends = None
+
+                result_row = {
+                    "Region": region,
+                    "City": city,
+                    "Year": year,
+                    "Country": country,
+                    "Month": month_name,
+                    "OriginalMonthlyValue": original_value,
+                    "flight_trends": flight_trends,
+                    "airbnb_trends": airbnb_trends,
+                    "hotel_trends": hotel_trends
+                }
+
+                city_rows_to_save.append(result_row)
+                processed_keys.add(row_key)
+
+        append_rows_to_output(city_rows_to_save, OUTPUT_FILE)
 
         wait_time = random.uniform(20, 40)
         print(f"Finished fetching {city}. Waiting {wait_time:.2f}s before next city...")
         time.sleep(wait_time)
 
-    print(f"\nBuilding final dataset for {len(df)} rows...")
-
-    for idx, row in df.iterrows():
-        region = row["Region"]
-        city = row["City"]
-        year = int(row["Year"])
-        country = row["Country"]
-
-        print(f"Processing row {idx + 1}/{len(df)}: {city} ({year})")
-
-        city_trends = city_trends_map.get(city, empty_trends_df(city))
-
-        for month_name in MONTH_COLUMNS:
-            original_value = row[month_name]
-
-            if not city_trends.empty and {"Year", "Month"}.issubset(city_trends.columns):
-                month_data = city_trends[
-                    (city_trends["Year"] == year) &
-                    (city_trends["Month"] == month_name)
-                ]
-
-                if not month_data.empty:
-                    flight_trends = float(month_data[f"{city} flight"].iloc[0]) if f"{city} flight" in month_data.columns else 0.0
-                    airbnb_trends = float(month_data[f"{city} airbnb"].iloc[0]) if f"{city} airbnb" in month_data.columns else 0.0
-                    hotel_trends = float(month_data[f"{city} hotel"].iloc[0]) if f"{city} hotel" in month_data.columns else 0.0
-                else:
-                    flight_trends = 0.0
-                    airbnb_trends = 0.0
-                    hotel_trends = 0.0
-            else:
-                flight_trends = 0.0
-                airbnb_trends = 0.0
-                hotel_trends = 0.0
-
-            all_rows.append({
-                "Region": region,
-                "City": city,
-                "Year": year,
-                "Country": country,
-                "Month": month_name,
-                "OriginalMonthlyValue": original_value,
-                "flight_trends": flight_trends,
-                "airbnb_trends": airbnb_trends,
-                "hotel_trends": hotel_trends
-            })
-
-    final_df = pd.DataFrame(all_rows)
-    final_df.to_csv(OUTPUT_FILE, index=False)
-
     print("\nDone.")
     print(f"Output saved to: {OUTPUT_FILE}")
+
+    final_df = pd.read_csv(OUTPUT_FILE)
     print(final_df.head())
 
 
